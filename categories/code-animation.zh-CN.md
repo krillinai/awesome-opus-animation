@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 19 个案例。
+共 20 个案例。
 
 ## 作品预览
 
@@ -43,6 +43,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102472218269900876"><img src="https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg" alt="Sweet Tooth 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102472218269900876">Sweet Tooth</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/peekcell/status/2102796895982878850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102795703818797056/img/suyu1aee9jskxmMK.jpg" alt="有声像素场景视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102796895982878850">有声像素场景</a></strong><br><a href="https://x.com/peekcell">Peekcell @peekcell</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dfeinition/status/2102436001473786054"><img src="../assets/preview/MosaicFishbowl.jpg" alt="13,081 块拼片马赛克动画封面，点击观看" width="240"></a><br><strong><a href="#case-2102436001473786054">13,081 块拼片的马赛克动画</a></strong><br><a href="https://x.com/dfeinition">Dan Fein @dfeinition</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -93,6 +98,17 @@
 - **提示词**：[作者公开的片段](https://x.com/LCSlates/status/2102503028859211905)。该回复在句中结束，未见完整原文。
 
 > Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place.
+
+<a id="case-2102436001473786054"></a>
+
+### 13,081 块拼片的马赛克动画
+
+- **作者**：[Dan Fein @dfeinition](https://x.com/dfeinition)
+- **样片**：[观看 80 秒视频](https://x.com/dfeinition/status/2102436001473786054)
+- **原帖**：[查看作者原帖](https://x.com/dfeinition/status/2102436001473786054)
+- **内容**：方屏马赛克动画以鱼缸为中心，星光的倒影变成 22 条小鱼。
+- **实现**：作者称使用 Opus 5.5 以代码绘制并动画化 13,081 块马赛克拼片，没有使用图片文件；原帖未说明具体技术栈或制作耗时。
+- **提示词**：原帖未公开制作提示词。
 
 <a id="case-2102436464323661880"></a>
 

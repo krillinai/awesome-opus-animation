@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-19 cases.
+20 cases.
 
 ## Previews
 
@@ -43,6 +43,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102472218269900876"><img src="https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg" alt="Sweet Tooth preview, open post" width="240"></a><br><strong><a href="#case-2102472218269900876">Sweet Tooth</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/peekcell/status/2102796895982878850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102795703818797056/img/suyu1aee9jskxmMK.jpg" alt="Pixel Scene with Sound preview, open post" width="240"></a><br><strong><a href="#case-2102796895982878850">Pixel Scene with Sound</a></strong><br><a href="https://x.com/peekcell">Peekcell @peekcell</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dfeinition/status/2102436001473786054"><img src="../assets/preview/MosaicFishbowl.jpg" alt="13,081-Tile Mosaic Animation preview, open post" width="240"></a><br><strong><a href="#case-2102436001473786054">13,081-Tile Mosaic Animation</a></strong><br><a href="https://x.com/dfeinition">Dan Fein @dfeinition</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -93,6 +98,17 @@
 - **Prompt:** A [prompt excerpt](https://x.com/LCSlates/status/2102503028859211905) is public, but the reply cuts off mid-sentence.
 
 > Make an 80 second square animated film as a single HTML file, using WebGL2 and plain JavaScript, with no libraries and no image, font or audio files. It should look like a glass and gold leaf wall mosaic whose tiles were never glued down, so they can lift, flip, fly and click back into place.
+
+<a id="case-2102436001473786054"></a>
+
+### 13,081-Tile Mosaic Animation
+
+- **Creator:** [Dan Fein @dfeinition](https://x.com/dfeinition)
+- **Watch:** [Watch 80-second video](https://x.com/dfeinition/status/2102436001473786054)
+- **Original post:** [Creator's post](https://x.com/dfeinition/status/2102436001473786054)
+- **About:** A square mosaic animation centered on a fishbowl; the reflection of stars turns into 22 small fish.
+- **Implementation:** The creator says Opus 5.5 drew and animated 13,081 mosaic tiles in code, without image files. The post does not specify the code stack or production time.
+- **Prompt:** Not public.
 
 <a id="case-2102436464323661880"></a>
 
