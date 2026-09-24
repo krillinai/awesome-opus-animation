@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 15 个案例。
+共 16 个案例。
 
 ## 作品预览
 
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/emmanuel_2m/status/2102539293122035875"><img src="../assets/preview/ScenarioBlenderAlley.jpg" alt="Scenario Blender 霓虹街巷视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102539293122035875">Scenario Blender 霓虹街巷</a></strong><br><a href="https://x.com/emmanuel_2m">Emm @emmanuel_2m</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/gmi_cloud/status/2102950788641501367"><img src="https://pbs.twimg.com/amplify_video_thumb/2102950174339506176/img/h8-PwMlzxP1O1WTi.jpg" alt="Sakura Crossing 樱花街景视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102950788641501367">Sakura Crossing（樱花街景）</a></strong><br><a href="https://x.com/gmi_cloud">GMI Cloud @gmi_cloud</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -42,6 +42,18 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2102950788641501367"></a>
+
+### Sakura Crossing（樱花街景）
+
+- **作者**：[GMI Cloud @gmi_cloud](https://x.com/gmi_cloud)
+- **样片**：[观看约 81 秒视频](https://x.com/gmi_cloud/status/2102950788641501367)
+- **原帖**：[查看作者原帖](https://x.com/gmi_cloud/status/2102950788641501367)
+- **制作耗时**：Opus 5.5 版本约 2 小时；作者称此前的 Opus 5 版本耗时 24 小时。
+- **内容**：樱花季里可探索的日本小镇，展示两个 Claude 模型版本的制作效果。
+- **实现**：作者称 Opus 5.5 使用与[此前 Opus 5 版本](https://x.com/gmi_cloud/status/2082621617478459543)相同的提示词制作；帖子未说明具体 3D 技术栈。
+- **提示词**：作者提到两版使用相同提示词，但这两条帖子均未公开原文。
 
 <a id="case-2102483668468195539"></a>
 

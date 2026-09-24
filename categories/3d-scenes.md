@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-15 cases.
+16 cases.
 
 ## Previews
 
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/emmanuel_2m/status/2102539293122035875"><img src="../assets/preview/ScenarioBlenderAlley.jpg" alt="Scenario Blender Neon Alley preview, open post" width="100%"></a><br><strong><a href="#case-2102539293122035875">Scenario Blender Neon Alley</a></strong><br><a href="https://x.com/emmanuel_2m">Emm @emmanuel_2m</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/gmi_cloud/status/2102950788641501367"><img src="https://pbs.twimg.com/amplify_video_thumb/2102950174339506176/img/h8-PwMlzxP1O1WTi.jpg" alt="Sakura Crossing preview, open post" width="100%"></a><br><strong><a href="#case-2102950788641501367">Sakura Crossing</a></strong><br><a href="https://x.com/gmi_cloud">GMI Cloud @gmi_cloud</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -42,6 +42,18 @@
 </table>
 
 ## Case Details
+
+<a id="case-2102950788641501367"></a>
+
+### Sakura Crossing
+
+- **Creator:** [GMI Cloud @gmi_cloud](https://x.com/gmi_cloud)
+- **Watch:** [Watch 81-second video](https://x.com/gmi_cloud/status/2102950788641501367)
+- **Original post:** [Creator's post](https://x.com/gmi_cloud/status/2102950788641501367)
+- **Production time:** About 2 hours for the Opus 5.5 version; the creator says the earlier Opus 5 version took 24 hours.
+- **About:** An explorable Japanese town during cherry-blossom season, shown in a comparison of two Claude model versions.
+- **Implementation:** The creator says Opus 5.5 built this version using the same prompt as the [earlier Opus 5 build](https://x.com/gmi_cloud/status/2082621617478459543). The post does not specify the 3D stack.
+- **Prompt:** The creator refers to a shared prompt but does not publish its text in either linked post.
 
 <a id="case-2102483668468195539"></a>
 
