@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 11 个案例。
+共 12 个案例。
 
 ## 作品预览
 
@@ -21,6 +21,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/studio_veco/status/2102684366996738511"><img src="https://pbs.twimg.com/amplify_video_thumb/2102682973292384256/img/4SLo7FdsR6xC_4Eg.jpg" alt="Powapowa Village 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102684366996738511">Powapowa Village（ぽわぽわむら）</a></strong><br><a href="https://x.com/studio_veco">Studio Veco @studio_veco</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/techartist_/status/2102503719762018434"><img src="https://pbs.twimg.com/amplify_video_thumb/2102503194777759744/img/UjVmRn2r4o9Lz1w1.jpg" alt="从草图到住宅的 3D 建筑演化视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102503719762018434">从草图到住宅</a></strong><br><a href="https://x.com/techartist_">Techartist @techartist_</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102487989381156991"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487325448028160/img/1VjQhxd0hHv7r2oD.jpg" alt="Blender 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102487989381156991">Blender 动画实验</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D 动画实验</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -153,6 +158,16 @@
 - **样片**：[观看约 28 秒演示](https://x.com/chetanankola/status/2103008022369099992)
 - **原帖**：[查看作者原帖](https://x.com/chetanankola/status/2103008022369099992)
 - **实现**：作者称使用 Three.js 与 Claude Opus 5.5 制作，并称这是其体验作品的另一版本；原帖未说明具体场景、交互方式或前一版本的链接。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102771402210476533"></a>
+
+### GPT-6 Luna 3D 动画实验
+
+- **作者**：[eta @seftsaint](https://x.com/seftsaint)
+- **样片**：[观看约 19 秒演示](https://x.com/seftsaint/status/2102771402210476533)
+- **原帖**：[查看作者原帖](https://x.com/seftsaint/status/2102771402210476533)
+- **实现**：作者称使用 **GPT-6 Luna** 进行 3D 创作，认为它可以承担此前由 Astra 处理的部分工作，且消耗更少的 tokens；原帖未说明具体技术栈或制作流程。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)

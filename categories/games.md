@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 11 个案例（其中 1 个原作者待核对）。
+共 13 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -24,8 +24,8 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/The_Alex/status/2102440678282412195"><img src="https://pbs.twimg.com/amplify_video_thumb/2102439823281975302/img/qABSqFFtO1aLvl9Q.jpg" alt="Dark Souls 风格游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102440678282412195">Dark Souls 风格游戏演示</a></strong><br><a href="https://x.com/The_Alex">Alex @The_Alex</a></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/jsnnsa/status/2102862008467194151"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860515211149312/img/A_U5GyGDBkNdfvYD.jpg" alt="嵌套世界多人劫案游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102862008467194151">嵌套世界多人劫案游戏</a></strong><br><a href="https://x.com/jsnnsa">jacob @jsnnsa</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102773498037023140">鱼叉捕鱼游戏</a></strong><br><a href="https://x.com/nachat_dayo">なちゃっと @nachat_dayo</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
@@ -162,5 +162,28 @@
 - **内容**：作者以“Dark Souls”介绍这段作品；原帖未提供玩法说明或试玩地址。
 - **实现**：作者称在提前体验 Opus 5.5 时制作；原帖未说明具体技术栈。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102862008467194151"></a>
+
+### 嵌套世界多人劫案游戏
+
+- **作者**：[jacob @jsnnsa](https://x.com/jsnnsa)
+- **样片**：[观看约 38 秒演示](https://x.com/jsnnsa/status/2102862008467194151)
+- **原帖**：[查看作者原帖](https://x.com/jsnnsa/status/2102862008467194151)
+- **制作耗时**：作者称由 26 个 Opus 5.5 agent 连夜制作，未给出具体小时数。
+- **内容**：多人劫案游戏包含五个嵌套世界、巨人厨房桌面上的卡丁车、追击玩家的机器人，以及可争夺战利品的其他玩家。
+- **实现**：作者称游戏现在可以游玩，但原帖未附直达试玩地址，也未说明技术栈。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102773498037023140"></a>
+
+### 鱼叉捕鱼游戏
+
+- **作者**：[なちゃっと @nachat_dayo](https://x.com/nachat_dayo)
+- **样片**：[观看约 91 秒演示](https://x.com/nachat_dayo/status/2102773498037023140) · [在线试玩](https://claude.ai/artifact/X7xKcMxVJjjoCZ9ZSYyFUa)
+- **原帖**：[查看作者原帖](https://x.com/nachat_dayo/status/2102773498037023140)
+- **内容**：可实际游玩的鱼叉捕鱼游戏。
+- **实现**：作者称使用 Opus 5.5，一次提示词后基本完成，只针对错误和细节做了调整；消耗其 3000 日元套餐额度的约 16%。原帖未说明具体技术栈。
+- **提示词**：原帖未公开初始提示词的原文。
 
 [返回首页](../README.md)
