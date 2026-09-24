@@ -59,9 +59,9 @@
 6 个案例
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/uchita_success/status/2102656878035759230"><img src="https://pbs.twimg.com/amplify_video_thumb/2102656622363643904/img/lVxdHCaH7p7yCP7-.jpg" alt="开放世界 RPG 草原视频封面" width="100%"></a><br><a href="categories/games.md#case-2102656878035759230">开放世界 RPG 草原</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/alin_zone/status/2102608618751508947"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607776010981376/img/cQ0kMaGCiTRK1_mk.jpg" alt="鹈鹕骑自行车演示视频封面" width="100%"></a><br><a href="categories/games.md#case-2102608618751508947">鹈鹕骑自行车</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="100%"></a><br><a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
 </tr></table>
 
 ### [科普与信息可视化](categories/explainers.md)
