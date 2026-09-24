@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 6 个案例。
+共 7 个案例。
 
 ## 作品预览
 
@@ -18,6 +18,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591147927654847">The Plane of Focus（对焦平面）</a></strong><br><a href="https://x.com/RyanSael">Ryan Sael @RyanSael</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="../assets/preview/ClaudeHistory.png" alt="Claude 模型发展史视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463796149440888">Claude 模型发展史</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/addyosmani/status/2103009037164110327"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg" alt="40 秒看懂浏览器工作原理视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103009037164110327">40 秒看懂浏览器工作原理</a></strong><br><a href="https://x.com/addyosmani">Addy Osmani @addyosmani</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/akokoi1/status/2102583898865873225"><img src="https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg" alt="中华上下五千年速览视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102583898865873225">中华上下五千年速览</a></strong><br><a href="https://x.com/akokoi1">WY @akokoi1</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -88,6 +93,18 @@
 - **原帖**：[查看作者原帖](https://x.com/addyosmani/status/2103009037164110327)
 - **内容**：用短片解释浏览器如何工作。
 - **实现**：作者称 Claude Opus 5.5 使用 JavaScript 逐帧绘制整段动画；原帖未公开更详细的制作流程或技术栈。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102583898865873225"></a>
+
+### 中华上下五千年速览
+
+- **作者**：[WY @akokoi1](https://x.com/akokoi1)
+- **样片**：[观看约 2 分 38 秒视频](https://x.com/akokoi1/status/2102583898865873225)
+- **原帖**：[查看作者原帖](https://x.com/akokoi1/status/2102583898865873225)
+- **内容**：快速回顾中华上下五千年历史的动画科普视频，这一版没有配音。
+- **实现**：作者称使用 Claude Opus 5.5 制作，未公开具体画面技术栈；作者提到以后可接入 TTS API 配音，但本片未使用。
+- **额度消耗**：作者使用 Max (5x) 订阅，称该视频消耗五小时额度的 3%、周额度的 1%；这是订阅额度占用，不是制作耗时。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)

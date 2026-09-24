@@ -4,7 +4,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![76 cases](https://img.shields.io/badge/cases-76-0969da)](#categories)
+[![77 cases](https://img.shields.io/badge/cases-77-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -81,7 +81,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Explainers & Information Visualization](categories/explainers.md)
 
-6 cases
+7 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus preview, open post" width="100%"></a><br><a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus</a></td>

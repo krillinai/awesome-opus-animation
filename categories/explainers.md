@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-6 cases.
+7 cases.
 
 ## Previews
 
@@ -18,6 +18,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus preview, open post" width="100%"></a><br><strong><a href="#case-2102591147927654847">The Plane of Focus</a></strong><br><a href="https://x.com/RyanSael">Ryan Sael @RyanSael</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="../assets/preview/ClaudeHistory.png" alt="History of Claude Models preview, open post" width="100%"></a><br><strong><a href="#case-2102463796149440888">History of Claude Models</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/addyosmani/status/2103009037164110327"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg" alt="How Browsers Work in 40 Seconds preview, open post" width="100%"></a><br><strong><a href="#case-2103009037164110327">How Browsers Work in 40 Seconds</a></strong><br><a href="https://x.com/addyosmani">Addy Osmani @addyosmani</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/akokoi1/status/2102583898865873225"><img src="https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg" alt="Five Millennia of Chinese History preview, open post" width="100%"></a><br><strong><a href="#case-2102583898865873225">Five Millennia of Chinese History</a></strong><br><a href="https://x.com/akokoi1">WY @akokoi1</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -88,6 +93,18 @@
 - **Original post:** [Creator's post](https://x.com/addyosmani/status/2103009037164110327)
 - **About:** A short animated explanation of how browsers work.
 - **Implementation:** The creator says Claude Opus 5.5 drew every frame in JavaScript. The post does not give a more detailed workflow or stack.
+- **Prompt:** Not public.
+
+<a id="case-2102583898865873225"></a>
+
+### Five Millennia of Chinese History
+
+- **Creator:** [WY @akokoi1](https://x.com/akokoi1)
+- **Watch:** [Watch 2-minute-38-second video](https://x.com/akokoi1/status/2102583898865873225)
+- **Original post:** [Creator's post](https://x.com/akokoi1/status/2102583898865873225)
+- **About:** A rapid animated survey of five millennia of Chinese history, without narration.
+- **Implementation:** The creator says Claude Opus 5.5 made the video but does not specify the visual stack. They suggest a TTS API could add narration; none was used for this version.
+- **Usage:** On a Max (5x) subscription, the creator reports using 3% of the five-hour allowance and 1% of the weekly allowance. This is quota usage, not production time.
 - **Prompt:** Not public.
 
 [Back to home](../README.md)
