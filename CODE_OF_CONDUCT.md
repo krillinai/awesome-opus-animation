@@ -1,21 +1,23 @@
-# 行为准则
+# Code of Conduct
 
-本项目欢迎不同背景和经验的参与者。请在 Issue、Pull Request、讨论和其他项目交流中保持尊重，以事实和作品来源为依据提出意见。
+**English** | [简体中文](CODE_OF_CONDUCT.zh-CN.md)
 
-## 期望的行为
+This project welcomes contributors of all backgrounds and experience levels. Be respectful in issues, pull requests, discussions, and other project spaces. Ground feedback in verifiable facts and sources.
 
-- 尊重创作者、投稿者和维护者，允许对分类、事实和收录标准有不同看法。
-- 指出错误时提供可核对的来源，接受合理的更正。
-- 保护他人的隐私；引用帖子、提示词或素材时保留原作者和出处。
+## Expected Behavior
 
-## 不接受的行为
+- Respect creators, contributors, and maintainers, even when you disagree about a category, a fact, or a curation decision.
+- Cite checkable sources when reporting errors, and accept well-supported corrections.
+- Respect privacy. Credit the original creator and source when quoting posts, prompts, or assets.
 
-- 骚扰、歧视、侮辱、威胁或针对个人的攻击。
-- 未经同意公开他人的私人信息，或冒称作品、素材和提示词的作者。
-- 垃圾信息、恶意刷屏，以及反复无视维护者已说明的收录规则。
+## Unacceptable Behavior
 
-## 适用范围与处理
+- Harassment, discrimination, insults, threats, or personal attacks.
+- Publishing someone's private information without consent, or falsely claiming authorship of a work, asset, or prompt.
+- Spam or repeated disregard for curation rules that maintainers have already explained.
 
-本准则适用于仓库及其相关的公开项目交流。发现问题时，可在[仓库 Issue](https://github.com/krillinai/awesome-opus-animation/issues/new)中说明。涉及个人隐私或敏感经历时，请只提出私下沟通请求，不要在公开 Issue 中披露细节或证据。
+## Scope and Enforcement
 
-维护者会审阅报告，并视情况要求修改或删除内容、关闭讨论或限制参与。维护者会尽量保护报告人的隐私，并根据事件的严重程度作出处理。
+This code applies to the repository and its related public project discussions. To report a concern, open a [repository issue](https://github.com/krillinai/awesome-opus-animation/issues/new). If it involves private information or a sensitive experience, request a private channel in the issue without posting details or evidence publicly.
+
+Maintainers will review reports and may request edits or removal, close a discussion, or restrict participation. They will seek to protect reporters' privacy and respond proportionately to the situation.

@@ -1,22 +1,24 @@
-# 贡献指南
+# Contributing
 
-感谢分享动画案例。提交一个作者原帖链接即可；也欢迎通过 Issue 补充信息，或提交 Pull Request 直接修改分类页。
+**English** | [简体中文](CONTRIBUTING.zh-CN.md)
 
-## 收录前请核对
+Thanks for sharing animation projects. A link to the creator's original post is enough to suggest a case. You can add context in an issue or update a category page in a pull request.
 
-1. 优先提供创作者本人发布的 X 原帖，以及可观看的样片或在线体验链接。先用帖子 ID 检查是否已收录，避免重复。
-2. 确认作者说明了使用的模型及版本，并写清模型在制作中的作用。项目目前以 Opus 5.5 为主，也接受其他模型的相关作品；不要把不同模型混写。
-3. 只记录有来源的提示词、制作耗时和技术信息。未公开的提示词标为「未公开」，不要从视频内容推测或编造。
-4. 保留作者署名；不要上传或搬运未经授权的视频、图片、音乐等第三方素材。
+## Before Submitting
 
-更多标准见 [README 的收录规则](README.md#收录规则)。
+1. Prefer the creator's original X post and a watchable video or live demo. Search by post ID first to avoid duplicates.
+2. Confirm which model and version the creator used, and explain its role. The collection focuses on Opus 5.5 but accepts other models. Do not conflate them.
+3. Include prompts, production time, and technical details only when they have a source. Mark unpublished prompts as **not public**; do not infer them from the video.
+4. Credit the creator. Do not upload third-party video, images, music, or other assets without permission.
 
-## 提交 Pull Request
+See the [README curation guidelines](README.md#curation-guidelines) for more detail.
 
-1. 在最贴切的 `categories/*.md` 页面添加一项预览和一段详情，使用 X 帖子数字 ID 作为 `case-POST_ID` 锚点。
-2. 预览封面链接到原帖，作品名称链接到本页详情。详情至少包含作者、样片、原帖、模型参与方式及提示词公开情况；有公开来源时再补充制作耗时、在线体验等信息。
-3. 预览表格每行三个单元格；横屏、方屏（含近方屏）和竖屏封面分别成行，不足三个的位置留空。
-4. 更新分类页和 README 的案例数，以及首页的案例数徽章。首页只展示精选作品；新增案例无需自动加入首页预览。
-5. 提交前检查链接、封面、表格列数和详情锚点。PR 描述中附上原帖链接，并说明任何尚待核对的信息。
+## Opening a Pull Request
 
-仓库文件采用 [MIT License](LICENSE)。X 原帖、视频封面、视频及其他第三方内容仍归各自权利人所有，不因被本项目引用而获得 MIT 许可。
+1. Add a preview and details to the best-fitting `categories/*.md` page, and mirror the entry in its `.zh-CN.md` counterpart. Use the numeric X post ID for the `case-POST_ID` anchor in both languages.
+2. Link the cover to the original post and the work's title to its details. Include at least the creator, sample, original post, model's role, and prompt availability. Add production time and live demos only when sourced.
+3. Use three cells per preview row. Keep landscape, square, and portrait covers on separate rows, leaving unused cells empty.
+4. Update case counts in both category pages and both READMEs, including the case-count badges. The homepage features only selected works; new cases need not appear there automatically.
+5. Check links, covers, column counts, and anchors before submitting. Include the original post and any unverified details in your PR description.
+
+Repository files are under the [MIT License](LICENSE). X posts, video covers, videos, and other third-party works retain their respective owners' rights; listing them here does not place them under MIT.

@@ -1,173 +1,174 @@
-# 3D 场景与交互
+# 3D Scenes & Interaction
 
-[返回首页](../README.md)
+**English** | [简体中文](3d-scenes.zh-CN.md)
 
-共 12 个案例。
+[Back to home](../README.md)
 
-## 作品预览
+12 cases.
+
+## Previews
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/MatthewBerman/status/2102483668468195539"><img src="https://pbs.twimg.com/amplify_video_thumb/2102483408551366656/img/LdGqXiG3HWBRzHXT.jpg" alt="Unreal Engine 旧金山街景演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102483668468195539">Unreal Engine 旧金山街景</a></strong><br><a href="https://x.com/MatthewBerman">Matthew Berman @MatthewBerman</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102543638689460488">Autumn Line（秋日铁道）</a></strong><br><a href="https://x.com/ishuagra02">Ishu Agrawal @ishuagra02</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="雨夜街角便利店演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102672063668670725">雨夜街角便利店</a></strong><br><a href="https://x.com/NFT_Chen">SuSu_酥酥 @NFT_Chen</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/MatthewBerman/status/2102483668468195539"><img src="https://pbs.twimg.com/amplify_video_thumb/2102483408551366656/img/LdGqXiG3HWBRzHXT.jpg" alt="Unreal Engine San Francisco Street preview, open post" width="100%"></a><br><strong><a href="#case-2102483668468195539">Unreal Engine San Francisco Street</a></strong><br><a href="https://x.com/MatthewBerman">Matthew Berman @MatthewBerman</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line preview, open post" width="100%"></a><br><strong><a href="#case-2102543638689460488">Autumn Line</a></strong><br><a href="https://x.com/ishuagra02">Ishu Agrawal @ishuagra02</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="Rainy-Night Corner Store preview, open post" width="100%"></a><br><strong><a href="#case-2102672063668670725">Rainy-Night Corner Store</a></strong><br><a href="https://x.com/NFT_Chen">SuSu_酥酥 @NFT_Chen</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chaseleantj/status/2102779917247054301"><img src="https://pbs.twimg.com/amplify_video_thumb/2102779171273388032/img/Mt_XcYE88nT3fO4a.jpg" alt="中世纪城堡版本对比视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102779917247054301">中世纪城堡：Opus 4.6 与 5.5 对比</a></strong><br><a href="https://x.com/chaseleantj">Chase Lean @chaseleantj</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></strong><br><a href="https://x.com/dotey">宝玉 @dotey</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2102878170089169235"><img src="https://pbs.twimg.com/amplify_video_thumb/2102872839665684480/img/bzyRARet5UjpSWwu.jpg" alt="交互式岛屿生态演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102878170089169235">交互式岛屿生态</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chaseleantj/status/2102779917247054301"><img src="https://pbs.twimg.com/amplify_video_thumb/2102779171273388032/img/Mt_XcYE88nT3fO4a.jpg" alt="Medieval Castle: Opus 4.6 vs 5.5 preview, open post" width="100%"></a><br><strong><a href="#case-2102779917247054301">Medieval Castle: Opus 4.6 vs 5.5</a></strong><br><a href="https://x.com/chaseleantj">Chase Lean @chaseleantj</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="Peach Blossom Spring preview, open post" width="100%"></a><br><strong><a href="#case-2102940980379017293">Peach Blossom Spring</a></strong><br><a href="https://x.com/dotey">宝玉 @dotey</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2102878170089169235"><img src="https://pbs.twimg.com/amplify_video_thumb/2102872839665684480/img/bzyRARet5UjpSWwu.jpg" alt="Interactive Island Ecosystem preview, open post" width="100%"></a><br><strong><a href="#case-2102878170089169235">Interactive Island Ecosystem</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/studio_veco/status/2102684366996738511"><img src="https://pbs.twimg.com/amplify_video_thumb/2102682973292384256/img/4SLo7FdsR6xC_4Eg.jpg" alt="Powapowa Village 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102684366996738511">Powapowa Village（ぽわぽわむら）</a></strong><br><a href="https://x.com/studio_veco">Studio Veco @studio_veco</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/techartist_/status/2102503719762018434"><img src="https://pbs.twimg.com/amplify_video_thumb/2102503194777759744/img/UjVmRn2r4o9Lz1w1.jpg" alt="从草图到住宅的 3D 建筑演化视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102503719762018434">从草图到住宅</a></strong><br><a href="https://x.com/techartist_">Techartist @techartist_</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102487989381156991"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487325448028160/img/1VjQhxd0hHv7r2oD.jpg" alt="Blender 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102487989381156991">Blender 动画实验</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/studio_veco/status/2102684366996738511"><img src="https://pbs.twimg.com/amplify_video_thumb/2102682973292384256/img/4SLo7FdsR6xC_4Eg.jpg" alt="Powapowa Village preview, open post" width="100%"></a><br><strong><a href="#case-2102684366996738511">Powapowa Village</a></strong><br><a href="https://x.com/studio_veco">Studio Veco @studio_veco</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/techartist_/status/2102503719762018434"><img src="https://pbs.twimg.com/amplify_video_thumb/2102503194777759744/img/UjVmRn2r4o9Lz1w1.jpg" alt="From Sketch to House preview, open post" width="100%"></a><br><strong><a href="#case-2102503719762018434">From Sketch to House</a></strong><br><a href="https://x.com/techartist_">Techartist @techartist_</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102487989381156991"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487325448028160/img/1VjQhxd0hHv7r2oD.jpg" alt="Blender Animation Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102487989381156991">Blender Animation Experiment</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D 动画实验</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D Animation Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D Animation Experiment</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
 <td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetanankola/status/2103008022369099992"><img src="https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg" alt="Three.js 与 Opus 创意体验视频封面，点击观看" width="240"></a><br><strong><a href="#case-2103008022369099992">Three.js 与 Opus 创意体验</a></strong><br><a href="https://x.com/chetanankola">Chetan Ankola @chetanankola</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley preview, open post" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetanankola/status/2103008022369099992"><img src="https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg" alt="Three.js and Opus Creative Experience preview, open post" width="240"></a><br><strong><a href="#case-2103008022369099992">Three.js and Opus Creative Experience</a></strong><br><a href="https://x.com/chetanankola">Chetan Ankola @chetanankola</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
-## 案例详情
+## Case Details
 
 <a id="case-2102483668468195539"></a>
 
-### Unreal Engine 旧金山街景
+### Unreal Engine San Francisco Street
 
-- **作者**：[Matthew Berman @MatthewBerman](https://x.com/MatthewBerman)
-- **样片**：[观看约 54 秒演示](https://x.com/MatthewBerman/status/2102483668468195539)
-- **原帖**：[查看作者原帖](https://x.com/MatthewBerman/status/2102483668468195539)
-- **内容**：在 Unreal Engine 中展示旧金山街区的 3D 场景，包含行人、宠物、车辆与交通活动。
-- **实现**：作者称让 Opus 5.5 重建旧金山城市场景，场景中的人物、宠物、车辆和交通行为由 Jev 驱动；原帖未公开更详细的制作流程。
-- **提示词**：原帖未公开制作提示词。
+- **Creator:** [Matthew Berman @MatthewBerman](https://x.com/MatthewBerman)
+- **Watch:** [Watch video](https://x.com/MatthewBerman/status/2102483668468195539)
+- **Original post:** [Creator's post](https://x.com/MatthewBerman/status/2102483668468195539)
+- **About:** A San Francisco neighborhood in Unreal Engine with pedestrians, pets, vehicles, and traffic activity.
+- **Implementation:** The creator says Opus 5.5 reconstructed the city scene, while Jev drove the people, pets, vehicles, and traffic behavior. More workflow details were not published.
+- **Prompt:** Not public.
 
 <a id="case-2102543638689460488"></a>
 
-### Autumn Line（秋日铁道）
+### Autumn Line
 
-- **作者**：[Ishu Agrawal @ishuagra02](https://x.com/ishuagra02)
-- **样片**：[观看约 49 秒演示](https://x.com/ishuagra02/status/2102543638689460488) · [在线体验](https://autumn-line.vercel.app/)
-- **原帖**：[查看作者原帖](https://x.com/ishuagra02/status/2102543638689460488)
-- **内容**：以参考照片为基础制作卡通渲染的秋日铁道 3D 场景；在线版可切换照片视图、探索和对比模式。
-- **实现**：作者称使用 Opus 5.5 制作，API 用量约 38 美元；原帖未说明具体 3D 技术栈。
-- **提示词**：[作者公开的原文](https://x.com/ishuagra02/status/2102543638689460488)：
+- **Creator:** [Ishu Agrawal @ishuagra02](https://x.com/ishuagra02)
+- **Watch:** [Watch video](https://x.com/ishuagra02/status/2102543638689460488) · [Live demo](https://autumn-line.vercel.app/)
+- **Original post:** [Creator's post](https://x.com/ishuagra02/status/2102543638689460488)
+- **About:** A cel-shaded 3D autumn railway scene based on a reference photo. The live version offers photo, exploration, and comparison modes.
+- **Implementation:** The creator says Opus 5.5 made it with about $38 of API usage. The specific 3D stack was not disclosed.
+- **Prompt:** The creator published the prompt below. 'This photo' refers to a supplied reference image that has no separate URL in the post.
 
 > create a highly detailed 3D scenery that faithfully captures this photo in a cel-shaded cartoon art style
 
-注：提示词中的 “this photo” 指作者提供的参考照片，原帖未给出该照片的独立链接。
-
 <a id="case-2102672063668670725"></a>
 
-### 雨夜街角便利店
+### Rainy-Night Corner Store
 
-- **作者**：[SuSu_酥酥 @NFT_Chen](https://x.com/NFT_Chen)
-- **样片**：[观看 104 秒演示](https://x.com/NFT_Chen/status/2102672063668670725)
-- **原帖**：[查看作者原帖](https://x.com/NFT_Chen/status/2102672063668670725)
-- **内容**：雨夜中的街角便利店，展示湿路面反光、屋檐滴水、店内货架、招牌、路边自行车与躲雨的猫。
-- **实现**：作者称使用 Claude Opus 5.5 和 Three.js 实时渲染场景；原帖未公开代码或更详细的制作流程。
-- **提示词**：本作品的制作提示词未公开。原帖引用的[另一篇帖子](https://x.com/NFT_Chen/status/2102650980936581304)是通用提示词建议，并非便利店场景的制作指令。
+- **Creator:** [SuSu_酥酥 @NFT_Chen](https://x.com/NFT_Chen)
+- **Watch:** [Watch video](https://x.com/NFT_Chen/status/2102672063668670725)
+- **Original post:** [Creator's post](https://x.com/NFT_Chen/status/2102672063668670725)
+- **About:** A rainy corner store with wet-road reflections, dripping eaves, shelves, signage, a bicycle, and a cat sheltering from the rain.
+- **Implementation:** The creator says Opus 5.5 and Three.js render the scene in real time. Code and deeper process details were not published.
+- **Prompt:** The prompt for this scene is not public. A [different post](https://x.com/NFT_Chen/status/2102650980936581304) linked by the creator contains general prompt advice, not this scene's instructions.
 
 <a id="case-2102779917247054301"></a>
 
-### 中世纪城堡：Opus 4.6 与 5.5 对比
+### Medieval Castle: Opus 4.6 vs 5.5
 
-- **作者**：[Chase Lean @chaseleantj](https://x.com/chaseleantj)
-- **样片**：[观看 15 秒对比视频](https://x.com/chaseleantj/status/2102779917247054301)
-- **原帖**：[查看作者原帖](https://x.com/chaseleantj/status/2102779917247054301)
-- **内容**：对比 Opus 4.6 与 5.5 生成的中世纪城堡 3D 场景；视频前段为 4.6，后段为 5.5。静态封面取自开场的 4.6 画面。
-- **实现**：作者称让两个版本生成写实的中世纪城堡模型；原帖未说明建模工具或具体技术栈。
-- **提示词**：原帖只概述了“生成写实的中世纪城堡 3D 模型”的任务，未公开完整提示词。
+- **Creator:** [Chase Lean @chaseleantj](https://x.com/chaseleantj)
+- **Watch:** [Watch video](https://x.com/chaseleantj/status/2102779917247054301)
+- **Original post:** [Creator's post](https://x.com/chaseleantj/status/2102779917247054301)
+- **About:** A comparison of realistic medieval-castle scenes: Opus 4.6 first, then 5.5. The static cover is from the 4.6 opening.
+- **Implementation:** The creator says both versions generated castle models. The modeling tool and stack were not specified.
+- **Prompt:** The task is summarized, but the full prompt is not public.
 
 <a id="case-2102940980379017293"></a>
 
-### 桃源 · 豁然开朗（《桃花源记》）
+### Peach Blossom Spring
 
-- **作者**：[宝玉 @dotey](https://x.com/dotey)
-- **样片**：[观看演示视频](https://x.com/dotey/status/2102940980379017293) · [在线体验](https://s.baoyu.io/files/taohuayuan/index.html)
-- **原帖**：[查看作者原帖](https://x.com/dotey/status/2102940980379017293)
-- **实现**：使用 Opus 5.5 和 Three.js 制作可交互的 3D《桃花源记》场景；作者称让模型搜索免费 3D 素材，并经过多轮打磨。
-- **提示词**：作者明确表示这不是单条提示词完成的作品；完整迭代记录未公开。
+- **Creator:** [宝玉 @dotey](https://x.com/dotey)
+- **Watch:** [Watch video](https://x.com/dotey/status/2102940980379017293) · [Live demo](https://s.baoyu.io/files/taohuayuan/index.html)
+- **Original post:** [Creator's post](https://x.com/dotey/status/2102940980379017293)
+- **About:** An interactive 3D interpretation of the classical Chinese story The Peach Blossom Land.
+- **Implementation:** The creator says Opus 5.5 and Three.js were used, with the model searching for free 3D assets and the scene refined over multiple rounds.
+- **Prompt:** The creator explicitly says this was not made from one prompt; the full iteration history is not public.
 
 <a id="case-2102760783344189761"></a>
 
-### Sakura River Valley（樱花河谷）
+### Sakura River Valley
 
-- **作者**：[Meng To @MengTo](https://x.com/MengTo)
-- **样片**：[观看演示视频](https://x.com/MengTo/status/2102760783344189761) · [在线体验](https://valley.mengto.here.now)
-- **原帖**：[查看作者原帖](https://x.com/MengTo/status/2102760783344189761)
-- **内容**：乘船穿行日本风格河谷，可体验动态天气、昼夜光照与 3D 角色场景。
-- **实现**：作者称使用 Opus 5.5 和 Three.js 制作，重点展示水面反射、物理效果、场景及建筑细节。
-- **提示词**：原帖未公开完整提示词。
+- **Creator:** [Meng To @MengTo](https://x.com/MengTo)
+- **Watch:** [Watch video](https://x.com/MengTo/status/2102760783344189761) · [Live demo](https://valley.mengto.here.now)
+- **Original post:** [Creator's post](https://x.com/MengTo/status/2102760783344189761)
+- **About:** A boat ride through a Japanese-style river valley with dynamic weather, day-night light, and 3D characters.
+- **Implementation:** The creator says Opus 5.5 and Three.js were used to build reflections, physics effects, scenery, and buildings.
+- **Prompt:** Not public.
 
 <a id="case-2102878170089169235"></a>
 
-### 交互式岛屿生态
+### Interactive Island Ecosystem
 
-- **作者**：[Dan Greenheck @dangreenheck](https://x.com/dangreenheck)
-- **样片**：[观看演示视频](https://x.com/dangreenheck/status/2102878170089169235)
-- **原帖**：[查看作者原帖](https://x.com/dangreenheck/status/2102878170089169235)
-- **制作耗时**：现实耗时约 8 小时
-- **内容**：可缩放查看的 3D 岛屿场景，包含海鸟、螃蟹、鲸鱼旁的鱼群，以及随风摆动的布料、标牌和夜间码头灯光。
-- **实现**：作者称使用 Opus 5.5 和多个子代理反复迭代；原帖未说明具体技术栈。
-- **提示词**：未公开完整对话。作者称多数指令类似 “Add X and Y” 或 “This looks weird, make it better”。
+- **Creator:** [Dan Greenheck @dangreenheck](https://x.com/dangreenheck)
+- **Watch:** [Watch video](https://x.com/dangreenheck/status/2102878170089169235)
+- **Original post:** [Creator's post](https://x.com/dangreenheck/status/2102878170089169235)
+- **Production time:** About eight hours of real-world time.
+- **About:** A zoomable island with seabirds, crabs, fish near a whale, wind-blown fabric and signs, and harbor lights at night.
+- **Implementation:** The creator says Opus 5.5 and several subagents iterated on it. The stack was not specified.
+- **Prompt:** The complete dialogue is not public. The creator says most instructions were like 'Add X and Y' or 'This looks weird, make it better'.
 
 <a id="case-2102684366996738511"></a>
 
-### Powapowa Village（ぽわぽわむら）
+### Powapowa Village
 
-- **作者**：[Studio Veco @studio_veco](https://x.com/studio_veco)
-- **样片**：[观看 80 秒演示](https://x.com/studio_veco/status/2102684366996738511) · [在线体验](https://powapowa.pages.dev/)
-- **原帖**：[查看作者原帖](https://x.com/studio_veco/status/2102684366996738511)
-- **制作耗时**：约 20–30 分钟
-- **内容**：色彩柔和的 3D 小村庄，住着可爱的角色，可在浏览器中互动体验。
-- **实现**：作者称使用 Opus 5.5 完成这一版本；原帖未说明完整技术栈。
-- **提示词**：原帖未公开制作时的完整提示词。作者提到可在作品中输入想到的词语，这是体验方式，不是制作提示词。
+- **Creator:** [Studio Veco @studio_veco](https://x.com/studio_veco)
+- **Watch:** [Watch video](https://x.com/studio_veco/status/2102684366996738511) · [Live demo](https://powapowa.pages.dev/)
+- **Original post:** [Creator's post](https://x.com/studio_veco/status/2102684366996738511)
+- **Production time:** About 20-30 minutes.
+- **About:** A soft-colored 3D village with characters and browser interaction.
+- **Implementation:** The creator says Opus 5.5 made this version. The full stack was not disclosed.
+- **Prompt:** The complete production prompt is not public. Typing words inside the experience is part of using it, not a production prompt.
 
 <a id="case-2102503719762018434"></a>
 
-### 从草图到住宅
+### From Sketch to House
 
-- **作者**：[Techartist @techartist_](https://x.com/techartist_)
-- **样片**：[观看 19 秒演示](https://x.com/techartist_/status/2102503719762018434)
-- **原帖**：[查看作者原帖](https://x.com/techartist_/status/2102503719762018434)
-- **内容**：建筑从线稿、体块、细节逐步演化为完整住宅。
-- **实现**：作者称使用 Claude Opus 5.5、Three.js 与 TSL 构建 3D 场景；原帖未公开源码。
-- **提示词**：原帖未公开制作提示词。
+- **Creator:** [Techartist @techartist_](https://x.com/techartist_)
+- **Watch:** [Watch video](https://x.com/techartist_/status/2102503719762018434)
+- **Original post:** [Creator's post](https://x.com/techartist_/status/2102503719762018434)
+- **About:** A house grows from line sketch through massing and detail into a complete building.
+- **Implementation:** The creator says Claude Opus 5.5, Three.js, and TSL built the 3D scene. Source code was not published.
+- **Prompt:** Not public.
 
 <a id="case-2102487989381156991"></a>
 
-### Blender 动画实验
+### Blender Animation Experiment
 
-- **作者**：[Alexey Fateev @superalesha](https://x.com/superalesha)
-- **样片**：[观看 61 秒视频](https://x.com/superalesha/status/2102487989381156991)
-- **原帖**：[查看作者原帖](https://x.com/superalesha/status/2102487989381156991)
-- **实现**：作者称使用 Opus 5.5 在 Blender 中制作；原帖未说明具体画面主题、制作流程或素材来源。
-- **提示词**：原帖未公开制作提示词。
+- **Creator:** [Alexey Fateev @superalesha](https://x.com/superalesha)
+- **Watch:** [Watch video](https://x.com/superalesha/status/2102487989381156991)
+- **Original post:** [Creator's post](https://x.com/superalesha/status/2102487989381156991)
+- **Implementation:** The creator says Opus 5.5 made it in Blender. The subject, workflow, and asset sources were not specified.
+- **Prompt:** Not public.
 
 <a id="case-2103008022369099992"></a>
 
-### Three.js 与 Opus 创意体验
+### Three.js and Opus Creative Experience
 
-- **作者**：[Chetan Ankola @chetanankola](https://x.com/chetanankola)
-- **样片**：[观看约 28 秒演示](https://x.com/chetanankola/status/2103008022369099992)
-- **原帖**：[查看作者原帖](https://x.com/chetanankola/status/2103008022369099992)
-- **实现**：作者称使用 Three.js 与 Claude Opus 5.5 制作，并称这是其体验作品的另一版本；原帖未说明具体场景、交互方式或前一版本的链接。
-- **提示词**：原帖未公开制作提示词。
+- **Creator:** [Chetan Ankola @chetanankola](https://x.com/chetanankola)
+- **Watch:** [Watch video](https://x.com/chetanankola/status/2103008022369099992)
+- **Original post:** [Creator's post](https://x.com/chetanankola/status/2103008022369099992)
+- **Implementation:** The creator says Three.js and Opus 5.5 made this alternate version of an experience. The scene, interaction details, and earlier-version link were not given.
+- **Prompt:** Not public.
 
 <a id="case-2102771402210476533"></a>
 
-### GPT-6 Luna 3D 动画实验
+### GPT-6 Luna 3D Animation Experiment
 
-- **作者**：[eta @seftsaint](https://x.com/seftsaint)
-- **样片**：[观看约 19 秒演示](https://x.com/seftsaint/status/2102771402210476533)
-- **原帖**：[查看作者原帖](https://x.com/seftsaint/status/2102771402210476533)
-- **实现**：作者称使用 **GPT-6 Luna** 进行 3D 创作，认为它可以承担此前由 Astra 处理的部分工作，且消耗更少的 tokens；原帖未说明具体技术栈或制作流程。
-- **提示词**：原帖未公开制作提示词。
+- **Creator:** [eta @seftsaint](https://x.com/seftsaint)
+- **Watch:** [Watch video](https://x.com/seftsaint/status/2102771402210476533)
+- **Original post:** [Creator's post](https://x.com/seftsaint/status/2102771402210476533)
+- **Implementation:** The creator says GPT-6 Luna handled this 3D work and could take on some work previously assigned to Astra with fewer tokens. The stack and workflow were not disclosed.
+- **Prompt:** Not public.
 
-[返回首页](../README.md)
+[Back to home](../README.md)
