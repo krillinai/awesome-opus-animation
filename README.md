@@ -4,7 +4,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![88 cases](https://img.shields.io/badge/cases-88-0969da)](#categories)
+[![89 cases](https://img.shields.io/badge/cases-89-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -51,7 +51,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Narrative Shorts & Character Animation](categories/narrative.md)
 
-13 cases
+14 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 Self-Introduction Short preview, open post" width="100%"></a><br><a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 Self-Introduction Short</a></td>

@@ -4,7 +4,7 @@
 
 [English](README.md) | **简体中文**
 
-[![88 个案例](https://img.shields.io/badge/cases-88-0969da)](#分类)
+[![89 个案例](https://img.shields.io/badge/cases-89-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -51,7 +51,7 @@
 
 ### [叙事短片与角色动画](categories/narrative.zh-CN.md)
 
-13 个案例
+14 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="100%"></a><br><a href="categories/narrative.zh-CN.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a></td>

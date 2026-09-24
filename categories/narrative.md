@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-13 cases.
+14 cases.
 
 ## Previews
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What Do You Love? preview, open post" width="240"></a><br><strong><a href="#case-2102437977435893771">What Do You Love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/jurlycat/status/2102645793828036643"><img src="https://pbs.twimg.com/amplify_video_thumb/2102645585169764352/img/pXRSK3BBju9zf9jr.jpg" alt="Window Seat preview, open post" width="240"></a><br><strong><a href="#case-2102645793828036643">Window Seat</a></strong><br><a href="https://x.com/jurlycat">Jurly @jurlycat</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Voxyz_ai/status/2102531681450119426"><img src="https://pbs.twimg.com/amplify_video_thumb/2102528357988515840/img/BA2FYci0s3TM5XCU.jpg" alt="small print preview, open post" width="240"></a><br><strong><a href="#case-2102531681450119426">small print</a></strong><br><a href="https://x.com/Voxyz_ai">Vox @Voxyz_ai</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/aollivier82/status/2102498589259821559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102498362331201537/img/X6hkw_PSr_DdDiir.jpg" alt="A Raindrop's Story preview, open post" width="180"></a><br><strong><a href="#case-2102498589259821559">A Raindrop's Story</a></strong><br><a href="https://x.com/aollivier82">Alix Ollivier @aollivier82</a></td>
@@ -188,5 +188,16 @@
 - **About:** A roughly two-and-a-half-minute animated short testing Opus 5.5's limits.
 - **Implementation:** The creator says they followed the general workflow in [Donald Jewkes's Opus 5.5 video](https://x.com/donaldjewkes/status/2102801274173587569). This post does not disclose the specific tools, assets, or production time for Pleometric's work.
 - **Prompt:** Not public.
+
+<a id="case-2102531681450119426"></a>
+
+### small print
+
+- **Creator:** [Vox @Voxyz_ai](https://x.com/Voxyz_ai)
+- **Watch:** [Watch the 29-second short](https://x.com/Voxyz_ai/status/2102531681450119426)
+- **Original post:** [Creator's post](https://x.com/Voxyz_ai/status/2102531681450119426)
+- **About:** Claude notices fragments of human life hidden in everyday requests, saves them in a jar, and watches them become constellations at night.
+- **Implementation:** The creator says Opus 5.5 wrote the story, drew every frame, and made the music. The square-format visuals were built entirely with JavaScript in a single `index.html`, without image assets, and rendered with hyperframes. Music was synthesized in Python. The creator says they wrote no code by hand and then reviewed and polished the film second by second.
+- **Prompt:** Not public; the post describes the result and process, not the original prompt.
 
 [Back to home](../README.md)

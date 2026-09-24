@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 13 个案例。
+共 14 个案例。
 
 ## 作品预览
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What do you love? 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102437977435893771">What do you love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/jurlycat/status/2102645793828036643"><img src="https://pbs.twimg.com/amplify_video_thumb/2102645585169764352/img/pXRSK3BBju9zf9jr.jpg" alt="Window Seat 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102645793828036643">Window Seat（车窗之旅）</a></strong><br><a href="https://x.com/jurlycat">Jurly @jurlycat</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Voxyz_ai/status/2102531681450119426"><img src="https://pbs.twimg.com/amplify_video_thumb/2102528357988515840/img/BA2FYci0s3TM5XCU.jpg" alt="small print 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102531681450119426">small print（微小字句）</a></strong><br><a href="https://x.com/Voxyz_ai">Vox @Voxyz_ai</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/aollivier82/status/2102498589259821559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102498362331201537/img/X6hkw_PSr_DdDiir.jpg" alt="一滴雨的故事视频封面，点击观看" width="180"></a><br><strong><a href="#case-2102498589259821559">一滴雨的故事</a></strong><br><a href="https://x.com/aollivier82">Alix Ollivier @aollivier82</a></td>
@@ -189,5 +189,16 @@
 - **内容**：测试 Opus 5.5 能力的动画短片。
 - **实现**：作者称参考了 [Donald Jewkes 的 Opus 5.5 视频](https://x.com/donaldjewkes/status/2102801274173587569)所述的一般流程；这条帖子未公开本片具体使用的工具、素材或制作耗时。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102531681450119426"></a>
+
+### small print（微小字句）
+
+- **作者**：[Vox @Voxyz_ai](https://x.com/Voxyz_ai)
+- **样片**：[观看 29 秒短片](https://x.com/Voxyz_ai/status/2102531681450119426)
+- **原帖**：[查看作者原帖](https://x.com/Voxyz_ai/status/2102531681450119426)
+- **内容**：Claude 从日常请求中发现隐藏的人性片段，将它们收进罐子；夜里，这些字句化作星星，连成星座。
+- **实现**：作者称 Opus 5.5 编写故事、逐帧绘画并制作音乐。方屏画面全部用 JavaScript 写在单个 `index.html` 中，不使用图片素材，以 hyperframes 渲染；音乐由 Python 合成。作者没有手写代码，之后逐秒检查并打磨成片。
+- **提示词**：原帖未公开制作提示词原文，仅描述了作品和制作过程。
 
 [返回首页](../README.zh-CN.md)
