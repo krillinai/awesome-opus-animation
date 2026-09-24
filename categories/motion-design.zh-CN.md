@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 7 个案例。
+共 8 个案例。
 
 ## 作品预览
 
@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chhddavid/status/2102666619029999989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102666528537944064/img/rOixOZnZnxXfwvhN.jpg" alt="AI Employees 品牌动效视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102666619029999989">AI Employees 品牌动效</a></strong><br><a href="https://x.com/chhddavid">David Ch @chhddavid</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/deedydas/status/2102787937482252537"><img src="../assets/preview/MudaLaunch.jpg" alt="muda. 推理服务发布短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102787937482252537">muda. 推理服务发布短片</a></strong><br><a href="https://x.com/deedydas">Deedy @deedydas</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -56,6 +56,20 @@
 - **内容**：围绕 Applore 品牌标识和应用图标制作的产品宣传视频。
 - **实现**：作者称使用 Opus 5.5 制作；原帖未说明具体技术栈或素材来源。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102787937482252537"></a>
+
+### muda. 推理服务发布短片
+
+- **作者**：[Deedy @deedydas](https://x.com/deedydas)
+- **样片**：[观看 26 秒视频](https://x.com/deedydas/status/2102787937482252537)
+- **原帖**：[查看作者原帖](https://x.com/deedydas/status/2102787937482252537)
+- **制作耗时与成本**：作者称约 1 分钟、约 2 美元。
+- **内容**：为推理服务初创公司 muda. 制作的发布短片，以延迟指标、文字动效和“Inference, minus the waiting.”呈现产品定位。
+- **实现**：作者称使用 Opus 5.5 制作；原帖未说明动画技术栈或素材来源。
+- **提示词**：作者在原帖公开：
+
+> make a modern slick and punchy video for a modern startup that works on inference
 
 <a id="case-2102757164158689759"></a>
 

@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-7 cases.
+8 cases.
 
 ## Previews
 
@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chhddavid/status/2102666619029999989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102666528537944064/img/rOixOZnZnxXfwvhN.jpg" alt="AI Employees Motion Video preview, open post" width="100%"></a><br><strong><a href="#case-2102666619029999989">AI Employees Motion Video</a></strong><br><a href="https://x.com/chhddavid">David Ch @chhddavid</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/deedydas/status/2102787937482252537"><img src="../assets/preview/MudaLaunch.jpg" alt="muda. Inference Launch Video preview, open post" width="100%"></a><br><strong><a href="#case-2102787937482252537">muda. Inference Launch Video</a></strong><br><a href="https://x.com/deedydas">Deedy @deedydas</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -56,6 +56,20 @@
 - **About:** A promotional video built around Applore's brand mark and app icons.
 - **Implementation:** The creator says Opus 5.5 made the video; the post does not identify the full stack or asset sources.
 - **Prompt:** Not public.
+
+<a id="case-2102787937482252537"></a>
+
+### muda. Inference Launch Video
+
+- **Creator:** [Deedy @deedydas](https://x.com/deedydas)
+- **Watch:** [Watch the 26-second video](https://x.com/deedydas/status/2102787937482252537)
+- **Original post:** [Creator's post](https://x.com/deedydas/status/2102787937482252537)
+- **Production time and cost:** About one minute and US$2, according to the creator.
+- **About:** A launch video for the inference startup muda., using animated latency figures, typography, and the line “Inference, minus the waiting.”
+- **Implementation:** The creator says Opus 5.5 made the video; the post does not specify the animation stack or asset sources.
+- **Prompt:** The creator shared the request in the original post:
+
+> make a modern slick and punchy video for a modern startup that works on inference
 
 <a id="case-2102757164158689759"></a>
 
