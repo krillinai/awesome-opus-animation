@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-21 cases.
+22 cases.
 
 ## Previews
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/devteamdrew/status/2102865596480409849"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860609591107584/img/FHtfxT1rrNyZ1nX1.jpg" alt="DreW's Code Animation, Part 2 preview, open post" width="100%"></a><br><strong><a href="#case-2102865596480409849">DreW's Code Animation, Part 2</a></strong><br><a href="https://x.com/devteamdrew">DreW @devteamdrew</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/SpikeRiser/status/2102888874858959029"><img src="https://pbs.twimg.com/amplify_video_thumb/2102887158373629952/img/JUJo4H4_5J-99gPZ.jpg" alt="More Claude 5.5 Pixel Art preview, open post" width="100%"></a><br><strong><a href="#case-2102888874858959029">More Claude 5.5 Pixel Art</a></strong><br><a href="https://x.com/SpikeRiser">R @SpikeRiser</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dashiAIxz/status/2103031723428917626"><img src="../assets/preview/ClaudeCutChinese.jpg" alt="Chinese Cartoon Editing Desk preview, open post" width="100%"></a><br><strong><a href="#case-2103031723428917626">Chinese Cartoon Editing Desk</a></strong><br><a href="https://x.com/dashiAIxz">Shared by 大师的AI小灶 @dashiAIxz</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -52,6 +52,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103031723428917626"></a>
+
+### Chinese Cartoon Editing Desk
+
+- **Shared by:** [大师的AI小灶 @dashiAIxz](https://x.com/dashiAIxz); the post does not explicitly identify the video's creator.
+- **Watch:** [Watch 30-second video](https://x.com/dashiAIxz/status/2103031723428917626)
+- **Original post:** [Publisher's post](https://x.com/dashiAIxz/status/2103031723428917626)
+- **About:** A Chinese-language variation of the cartoon editing desk, with a character arranging animated clips on a timeline and previewing them on a phone.
+- **Implementation:** The publisher credits Opus 5.5 but gives no production method or technical stack. The post quotes the [earlier editing-desk animation](https://x.com/NFT_Chen/status/2102681172367323300); its footage differs from this version.
+- **Prompt:** Not public.
 
 <a id="case-2102888874858959029"></a>
 

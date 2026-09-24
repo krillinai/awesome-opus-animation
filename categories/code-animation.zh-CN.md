@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 21 个案例。
+共 22 个案例。
 
 ## 作品预览
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/devteamdrew/status/2102865596480409849"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860609591107584/img/FHtfxT1rrNyZ1nX1.jpg" alt="DreW 代码动画续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102865596480409849">DreW 代码动画续作</a></strong><br><a href="https://x.com/devteamdrew">DreW @devteamdrew</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/SpikeRiser/status/2102888874858959029"><img src="https://pbs.twimg.com/amplify_video_thumb/2102887158373629952/img/JUJo4H4_5J-99gPZ.jpg" alt="Claude 5.5 像素动画续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102888874858959029">Claude 5.5 像素动画续作</a></strong><br><a href="https://x.com/SpikeRiser">R @SpikeRiser</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dashiAIxz/status/2103031723428917626"><img src="../assets/preview/ClaudeCutChinese.jpg" alt="中文版卡通剪辑台视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103031723428917626">中文版卡通剪辑台</a></strong><br><a href="https://x.com/dashiAIxz">发布者：大师的AI小灶 @dashiAIxz</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -52,6 +52,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103031723428917626"></a>
+
+### 中文版卡通剪辑台
+
+- **发布者**：[大师的AI小灶 @dashiAIxz](https://x.com/dashiAIxz)；帖子未明确说明视频制作者。
+- **样片**：[观看 30 秒视频](https://x.com/dashiAIxz/status/2103031723428917626)
+- **原帖**：[查看发布者帖子](https://x.com/dashiAIxz/status/2103031723428917626)
+- **内容**：中文版卡通剪辑台动画，角色在时间轴上编排片段，并通过手机画面预览。
+- **实现**：发布者提及 Opus 5.5，但没有说明具体制作方法或技术栈。帖子引用了[此前的卡通剪辑台动画](https://x.com/NFT_Chen/status/2102681172367323300)，本条视频的画面与其不同。
+- **提示词**：未公开。
 
 <a id="case-2102888874858959029"></a>
 

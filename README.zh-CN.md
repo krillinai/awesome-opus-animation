@@ -4,7 +4,7 @@
 
 [English](README.md) | **简体中文**
 
-[![97 个案例](https://img.shields.io/badge/cases-97-0969da)](#分类)
+[![98 个案例](https://img.shields.io/badge/cases-98-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -37,7 +37,7 @@
 
 ### [代码动画与视觉实验](categories/code-animation.zh-CN.md)
 
-21 个案例
+22 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.zh-CN.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
