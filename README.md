@@ -6,7 +6,7 @@
 
 > 正在收录中。欢迎提供 X 原帖链接；优先收录作者本人发布、明确说明所用模型的作品。
 
-点击分类标题进入对应汇总页；每页按作品展示封面、作者、原帖、提示词及制作信息。
+每个分类展示 3 个作品预览；点击分类标题查看全部案例，点击封面观看样片，点击作品名查看详情。
 
 ## 分类
 
@@ -14,29 +14,71 @@
 
 12 个案例
 
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/AndrewOnXYZ/status/2102512879258009818"><img src="https://pbs.twimg.com/amplify_video_thumb/2102512551380619264/img/bRsZ7nsJGMppd8Sl.jpg" alt="火星通信科幻短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102512879258009818">火星通信科幻短片</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ctgptlb/status/2102726428991373480"><img src="https://pbs.twimg.com/amplify_video_thumb/2102697696884871168/img/R5MifqT23uk-BDwj.jpg" alt="代码逐帧绘制的 1 分钟短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102726428991373480">代码逐帧绘制的 1 分钟短片</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/shfred0/status/2102495989194236158"><img src="https://pbs.twimg.com/amplify_video_thumb/2102495951738822657/img/MzxuuvkAQ6e1w6mR.jpg" alt="Claude 的一生视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102495989194236158">Claude 的一生</a></td>
+</tr></table>
+
 ### [手绘动画与 MV](categories/hand-drawn-mv.md)
 
 5 个案例
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102986085328716066"><img src="https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg" alt="中秋拼贴动画视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102986085328716066">中秋拼贴动画</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/eudaemonea/status/2102610626321490404"><img src="https://pbs.twimg.com/amplify_video_thumb/2102606787941736448/img/zvj6paWv8xVzy0rz.jpg" alt="Functional Emotions 音乐视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102610626321490404">Functional Emotions 音乐视频</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Michaelzsguo/status/2102592355165782312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="美国 250 年沙画视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102592355165782312">美国 250 年沙画</a></td>
+</tr></table>
 
 ### [代码动画与视觉实验](categories/code-animation.md)
 
 10 个案例
 
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a></td>
+</tr></table>
+
 ### [3D 场景与交互](categories/3d-scenes.md)
 
 9 个案例
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/MatthewBerman/status/2102483668468195539"><img src="https://pbs.twimg.com/amplify_video_thumb/2102483408551366656/img/LdGqXiG3HWBRzHXT.jpg" alt="Unreal Engine 旧金山街景视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102483668468195539">Unreal Engine 旧金山街景</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102543638689460488">Autumn Line（秋日铁道）</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="雨夜街角便利店视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102672063668670725">雨夜街角便利店</a></td>
+</tr></table>
 
 ### [游戏与可玩动画](categories/games.md)
 
 6 个案例
 
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/uchita_success/status/2102656878035759230"><img src="https://pbs.twimg.com/amplify_video_thumb/2102656622363643904/img/lVxdHCaH7p7yCP7-.jpg" alt="开放世界 RPG 草原视频封面" width="100%"></a><br><a href="categories/games.md#case-2102656878035759230">开放世界 RPG 草原</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="100%"></a><br><a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a></td>
+</tr></table>
+
 ### [科普与信息可视化](categories/explainers.md)
 
 4 个案例
 
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102779758408774104"><img src="https://pbs.twimg.com/amplify_video_thumb/2102779521451626496/img/RNj6CVT89oSFBTed.jpg" alt="大型强子对撞机：质子碰撞视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102779758408774104">大型强子对撞机：质子碰撞</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/DotCSV/status/2102737776219168939"><img src="https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg" alt="像素神经网络训练视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102737776219168939">像素神经网络训练</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/kimmonismus/status/2102844654169575547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg" alt="AI 历史短片视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102844654169575547">AI 历史短片</a></td>
+</tr></table>
+
 ### [动效与品牌设计](categories/motion-design.md)
 
 4 个案例
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="https://pbs.twimg.com/amplify_video_thumb/2102984006224728064/img/j6OMvuoA6XYlK8dr.jpg" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use 发布短片</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="https://pbs.twimg.com/amplify_video_thumb/2102620135353675776/img/0pCu49a51Bm-Xg6x.jpg" alt="Applore 产品宣传片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102621064518160485">Applore 产品宣传片</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg" alt="鸡尾酒配方动效视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102853258582880547">鸡尾酒配方动效</a></td>
+</tr></table>
 
 ## 收录规则
 
