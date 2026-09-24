@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 14 个案例。
+共 15 个案例。
 
 ## 作品预览
 
@@ -23,6 +23,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="../assets/preview/claudesplan.png" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="生命的意义短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591280538644596">生命的意义</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/pleometric/status/2103082510607610023"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081744408657920/img/AqJ7e2EYc2kKdp9C.jpg" alt="Pleometric 的 Opus 5.5 短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103082510607610023">Pleometric 的 Opus 5.5 短片</a></strong><br><a href="https://x.com/pleometric">Pleometric @pleometric</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/RoundtableSpace/status/2102922211539763610"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902608109154304/img/4snWeG_XSJab5p4Q.jpg" alt="生命的目的是什么视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102922211539763610">生命的目的是什么？</a></strong><br><a href="https://www.reddit.com/user/Singularity-42/">u/Singularity-42</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What do you love? 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102437977435893771">What do you love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
@@ -200,5 +205,17 @@
 - **内容**：Claude 从日常请求中发现隐藏的人性片段，将它们收进罐子；夜里，这些字句化作星星，连成星座。
 - **实现**：作者称 Opus 5.5 编写故事、逐帧绘画并制作音乐。方屏画面全部用 JavaScript 写在单个 `index.html` 中，不使用图片素材，以 hyperframes 渲染；音乐由 Python 合成。作者没有手写代码，之后逐秒检查并打磨成片。
 - **提示词**：原帖未公开制作提示词原文，仅描述了作品和制作过程。
+
+<a id="case-2102922211539763610"></a>
+
+### 生命的目的是什么？
+
+- **作者**：[u/Singularity-42](https://www.reddit.com/user/Singularity-42/)；用户提供的 X 链接是 [@RoundtableSpace 的转发介绍](https://x.com/RoundtableSpace/status/2102922211539763610)。
+- **样片**：[在 X 观看约 1 分钟短片](https://x.com/RoundtableSpace/status/2102922211539763610)，或在[作者 Reddit 原帖](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/)观看。
+- **原帖**：[作者的 Reddit 帖子，含完整提示词](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/)
+- **制作耗时**：作者称约 1 小时 20 分钟。
+- **内容**：以手绘拼贴风格探讨“生命的目的是什么”。
+- **实现**：作者称 Claude Code 使用 Opus 5.5，凭一条提示词一次完成，之后未修改；制作时调用了 8 个 OpenRouter API。画面素材使用 Nano Banana 2，旁白使用 Gemini 3.1 Flash TTS，音乐使用 Lyria 3 Pro。作者报告 OpenRouter 花费 3.21 美元，另有约 20 美元的 Opus API 等价用量。这是模型编排多个工具完成的短片，并非全部由 JavaScript 绘制画面。
+- **提示词**：作者在 [Reddit 原帖](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/)公开全文，开头为：“Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio on the topic what is the purpose of life ?” 后续要求高制作质量、文本转语音、自主完成脚本和素材，并将 OpenRouter 花费限制在 10 美元以内。
 
 [返回首页](../README.zh-CN.md)

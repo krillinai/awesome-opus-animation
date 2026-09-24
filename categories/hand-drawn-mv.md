@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-7 cases.
+9 cases.
 
 ## Previews
 
@@ -21,12 +21,41 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/FKR_Icarus/status/2102711467191775625"><img src="../assets/preview/CityWindowsStarfield.jpg" alt="City Windows and Starfield Music Video preview, open post" width="100%"></a><br><strong><a href="#case-2102711467191775625">City Windows and Starfield Music Video</a></strong><br><a href="https://x.com/FKR_Icarus">Posted by Ica.G @FKR_Icarus</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/petergostev/status/2103033635397898433"><img src="https://pbs.twimg.com/amplify_video_thumb/2103033040351981569/img/OisYXXx0Lnt5cAL5.jpg" alt="Painted Rick Astley Dance preview, open post" width="100%"></a><br><strong><a href="#case-2103033635397898433">Painted Rick Astley Dance</a></strong><br><a href="https://x.com/petergostev">Peter Gostev @petergostev</a></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102878288008057171"><img src="https://pbs.twimg.com/amplify_video_thumb/2102877608849690624/img/PpZn6iqV5LYiNDnl.jpg" alt="Opus Self-Portraits and Piano preview, open post" width="240"></a><br><strong><a href="#case-2102878288008057171">Opus Self-Portraits and Piano</a></strong><br><a href="https://x.com/kevin_t_ngo">Kevin Ngo @kevin_t_ngo</a></td>
 <td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
 ## Case Details
+
+<a id="case-2103033635397898433"></a>
+
+### Painted Rick Astley Dance
+
+- **Creator:** [Peter Gostev @petergostev](https://x.com/petergostev)
+- **Watch:** [Watch the one-minute animation](https://x.com/petergostev/status/2103033635397898433) · [Source code](https://github.com/petergpt/painted-rickroll)
+- **Original post:** [Creator's post](https://x.com/petergostev/status/2103033635397898433)
+- **About:** Rick Astley's dance reimagined as moving painterly brushstrokes synchronized to music.
+- **Implementation:** The [published prompt](https://x.com/petergostev/status/2103082371570340234) asks Opus 5.5 to draw the visuals and music in code as an HTML animation without external media.
+- **Prompt:** The creator published the full prompt in a [reply](https://x.com/petergostev/status/2103082371570340234):
+
+> Recreate Rick Astley’s unmistakable dance as an HTML animation about one minute long, made from bold, moving brushstrokes and synced to music. His coat, microphone, and shadows should swing with exaggerated rhythm. Make it a piece of art: artistic, beautiful, polished and incredibly fun and approximately 1m long. Draw everything in code, including the music; no external media or website UI.
+
+<a id="case-2102878288008057171"></a>
+
+### Opus Self-Portraits and Piano
+
+- **Creator:** [Kevin Ngo @kevin_t_ngo](https://x.com/kevin_t_ngo)
+- **Watch:** [Watch the 20-second video](https://x.com/kevin_t_ngo/status/2102878288008057171)
+- **Original post:** [Creator's post](https://x.com/kevin_t_ngo/status/2102878288008057171)
+- **About:** A sequence of self-portraits set to a piano score.
+- **Implementation:** The creator says Claude Opus 5.5 drew the portraits in JavaScript and composed the piano music. Other production details were not disclosed.
+- **Prompt:** Not public.
 
 <a id="case-2102457111787745405"></a>
 

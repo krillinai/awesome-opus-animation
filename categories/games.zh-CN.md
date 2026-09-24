@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 18 个案例（其中 2 个原作者待核对）。
+共 21 个案例（其中 2 个原作者待核对）。
 
 ## 作品预览
 
@@ -39,9 +39,47 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2103004432786993341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001546942271488/img/Ft3jDXJhTbQ87NS3.jpg" alt="休闲钓鱼游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103004432786993341">休闲钓鱼游戏</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/bindureddy/status/2103009665177305456"><img src="../assets/preview/Abacus3DGames.jpg" alt="Abacus AI 3D 游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103009665177305456">Abacus AI 3D 游戏演示</a></strong><br><a href="https://x.com/bindureddy">展示：Bindu Reddy @bindureddy</a></td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/buildwithsid/status/2102461886247948571"><img src="https://pbs.twimg.com/amplify_video_thumb/2102459530349285376/img/PhEDcaTBrFTMHybl.jpg" alt="浏览器版 Minecraft 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102461886247948571">浏览器版 Minecraft</a></strong><br><a href="https://x.com/buildwithsid">siddharth @buildwithsid</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/inlovewithgo/status/2102502712621531543"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502662159892480/img/cmalCMHazovJ7y9q.jpg" alt="一次生成的游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102502712621531543">一次生成的游戏演示</a></strong><br><a href="https://x.com/inlovewithgo">Shubham @inlovewithgo</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/JaydenDavisNC/status/2102828630615421223"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828289442127872/img/fHywahX-bcu2yMdw.jpg" alt="Splatoon 风格游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102828630615421223">Splatoon 风格游戏</a></strong><br><a href="https://x.com/JaydenDavisNC">Jayden Davis @JaydenDavisNC</a></td>
+</tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2102461886247948571"></a>
+
+### 浏览器版 Minecraft
+
+- **作者**：[siddharth @buildwithsid](https://x.com/buildwithsid)
+- **样片**：[观看视频](https://x.com/buildwithsid/status/2102461886247948571) · [在线体验](https://minecraft-iota-coral.vercel.app/)
+- **原帖**：[查看作者原帖](https://x.com/buildwithsid/status/2102461886247948571)
+- **内容**：在浏览器中运行的 Minecraft 风格游戏。
+- **实现**：作者称由 Opus 5.5 制作；原帖未说明技术栈和素材来源。
+- **提示词**：未公开。
+
+<a id="case-2102502712621531543"></a>
+
+### 一次生成的游戏演示
+
+- **作者**：[Shubham @inlovewithgo](https://x.com/inlovewithgo)
+- **样片**：[观看视频](https://x.com/inlovewithgo/status/2102502712621531543)
+- **原帖**：[查看作者原帖](https://x.com/inlovewithgo/status/2102502712621531543)
+- **内容**：一段游戏演示录屏。
+- **实现**：作者称 Opus 5.5 一次生成该游戏；原帖未说明技术栈或在线试玩地址。
+- **提示词**：未公开。
+
+<a id="case-2102828630615421223"></a>
+
+### Splatoon 风格游戏
+
+- **作者**：[Jayden Davis @JaydenDavisNC](https://x.com/JaydenDavisNC)
+- **样片**：[观看视频](https://x.com/JaydenDavisNC/status/2102828630615421223)
+- **原帖**：[查看作者原帖](https://x.com/JaydenDavisNC/status/2102828630615421223)
+- **内容**：受 Splatoon 启发、接近完整的游戏演示。
+- **实现**：作者称 Opus 5.5 根据一条提示词完成；原帖未说明技术栈、素材来源或在线试玩地址。
+- **提示词**：未公开完整原文。
 
 <a id="case-2102656878035759230"></a>
 

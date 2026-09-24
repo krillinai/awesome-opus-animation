@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-18 cases (two creator attributions remain unverified).
+21 cases (two creator attributions remain unverified).
 
 ## Previews
 
@@ -39,9 +39,47 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2103004432786993341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001546942271488/img/Ft3jDXJhTbQ87NS3.jpg" alt="Cozy Fishing Game preview, open post" width="100%"></a><br><strong><a href="#case-2103004432786993341">Cozy Fishing Game</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/bindureddy/status/2103009665177305456"><img src="../assets/preview/Abacus3DGames.jpg" alt="Abacus AI 3D Game Showcase preview, open post" width="100%"></a><br><strong><a href="#case-2103009665177305456">Abacus AI 3D Game Showcase</a></strong><br><a href="https://x.com/bindureddy">Showcased by Bindu Reddy @bindureddy</a></td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/buildwithsid/status/2102461886247948571"><img src="https://pbs.twimg.com/amplify_video_thumb/2102459530349285376/img/PhEDcaTBrFTMHybl.jpg" alt="Browser Minecraft preview, open post" width="100%"></a><br><strong><a href="#case-2102461886247948571">Browser Minecraft</a></strong><br><a href="https://x.com/buildwithsid">siddharth @buildwithsid</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/inlovewithgo/status/2102502712621531543"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502662159892480/img/cmalCMHazovJ7y9q.jpg" alt="One-Shot Game Demo preview, open post" width="100%"></a><br><strong><a href="#case-2102502712621531543">One-Shot Game Demo</a></strong><br><a href="https://x.com/inlovewithgo">Shubham @inlovewithgo</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/JaydenDavisNC/status/2102828630615421223"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828289442127872/img/fHywahX-bcu2yMdw.jpg" alt="Splatoon-Style Game preview, open post" width="100%"></a><br><strong><a href="#case-2102828630615421223">Splatoon-Style Game</a></strong><br><a href="https://x.com/JaydenDavisNC">Jayden Davis @JaydenDavisNC</a></td>
+</tr>
 </table>
 
 ## Case Details
+
+<a id="case-2102461886247948571"></a>
+
+### Browser Minecraft
+
+- **Creator:** [siddharth @buildwithsid](https://x.com/buildwithsid)
+- **Watch:** [Watch video](https://x.com/buildwithsid/status/2102461886247948571) · [Live demo](https://minecraft-iota-coral.vercel.app/)
+- **Original post:** [Creator's post](https://x.com/buildwithsid/status/2102461886247948571)
+- **About:** A Minecraft-like game running in the browser.
+- **Implementation:** The creator says Opus 5.5 made it. The post does not explain the technical stack or asset sources.
+- **Prompt:** Not public.
+
+<a id="case-2102502712621531543"></a>
+
+### One-Shot Game Demo
+
+- **Creator:** [Shubham @inlovewithgo](https://x.com/inlovewithgo)
+- **Watch:** [Watch video](https://x.com/inlovewithgo/status/2102502712621531543)
+- **Original post:** [Creator's post](https://x.com/inlovewithgo/status/2102502712621531543)
+- **About:** A game demonstration shared as a short screen recording.
+- **Implementation:** The creator says Opus 5.5 made the game in one shot. The post gives no stack or playable URL.
+- **Prompt:** Not public.
+
+<a id="case-2102828630615421223"></a>
+
+### Splatoon-Style Game
+
+- **Creator:** [Jayden Davis @JaydenDavisNC](https://x.com/JaydenDavisNC)
+- **Watch:** [Watch video](https://x.com/JaydenDavisNC/status/2102828630615421223)
+- **Original post:** [Creator's post](https://x.com/JaydenDavisNC/status/2102828630615421223)
+- **About:** A nearly polished game inspired by Splatoon.
+- **Implementation:** The creator says Opus 5.5 made it from one prompt. The post does not disclose the stack, assets, or a playable URL.
+- **Prompt:** The full prompt is not public.
 
 <a id="case-2102656878035759230"></a>
 

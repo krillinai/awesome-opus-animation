@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 8 个案例。
+共 9 个案例。
 
 ## 作品预览
 
@@ -17,7 +17,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chhddavid/status/2102666619029999989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102666528537944064/img/rOixOZnZnxXfwvhN.jpg" alt="AI Employees 品牌动效视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102666619029999989">AI Employees 品牌动效</a></strong><br><a href="https://x.com/chhddavid">David Ch @chhddavid</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/deedydas/status/2102787937482252537"><img src="../assets/preview/MudaLaunch.jpg" alt="muda. 推理服务发布短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102787937482252537">muda. 推理服务发布短片</a></strong><br><a href="https://x.com/deedydas">Deedy @deedydas</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/nazmijavierl/status/2102712897701097828"><img src="https://pbs.twimg.com/amplify_video_thumb/2102711987281244160/img/IXe2AarMI-CD8E1F.jpg" alt="一次提示词制作的图文动效视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102712897701097828">一次提示词制作的图文动效</a></strong><br><a href="https://x.com/nazmijavierl">Nazday @nazmijavierl</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="鸡尾酒配方动效视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102853258582880547">鸡尾酒配方动效</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
@@ -32,6 +32,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2102712897701097828"></a>
+
+### 一次提示词制作的图文动效
+
+- **作者**：[Nazday @nazmijavierl](https://x.com/nazmijavierl)
+- **样片**：[观看约 16 秒视频](https://x.com/nazmijavierl/status/2102712897701097828)
+- **原帖**：[查看作者原帖](https://x.com/nazmijavierl/status/2102712897701097828)
+- **内容**：一组图文帖子及配套动画。
+- **实现**：作者称由 Claude Opus 5.5 根据一条提示词制作；原帖未公开提示词原文、使用工具或制作耗时。
+- **提示词**：未公开。
 
 <a id="case-2102984873351037161"></a>
 

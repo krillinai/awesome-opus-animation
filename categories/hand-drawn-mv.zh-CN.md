@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 7 个案例。
+共 9 个案例。
 
 ## 作品预览
 
@@ -21,12 +21,41 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/FKR_Icarus/status/2102711467191775625"><img src="../assets/preview/CityWindowsStarfield.jpg" alt="城市窗格与星海音乐短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102711467191775625">城市窗格与星海音乐短片</a></strong><br><a href="https://x.com/FKR_Icarus">发布：Ica.G @FKR_Icarus</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/petergostev/status/2103033635397898433"><img src="https://pbs.twimg.com/amplify_video_thumb/2103033040351981569/img/OisYXXx0Lnt5cAL5.jpg" alt="Rick Astley 绘画舞蹈动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103033635397898433">Rick Astley 绘画舞蹈动画</a></strong><br><a href="https://x.com/petergostev">Peter Gostev @petergostev</a></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102878288008057171"><img src="https://pbs.twimg.com/amplify_video_thumb/2102877608849690624/img/PpZn6iqV5LYiNDnl.jpg" alt="Opus 自画像与钢琴配乐视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102878288008057171">Opus 自画像与钢琴配乐</a></strong><br><a href="https://x.com/kevin_t_ngo">Kevin Ngo @kevin_t_ngo</a></td>
 <td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2103033635397898433"></a>
+
+### Rick Astley 绘画舞蹈动画
+
+- **作者**：[Peter Gostev @petergostev](https://x.com/petergostev)
+- **样片**：[观看约 1 分钟动画](https://x.com/petergostev/status/2103033635397898433) · [源代码](https://github.com/petergpt/painted-rickroll)
+- **原帖**：[查看作者原帖](https://x.com/petergostev/status/2103033635397898433)
+- **内容**：以移动的绘画笔触重新演绎 Rick Astley 的舞蹈，并与配乐同步。
+- **实现**：[公开提示词](https://x.com/petergostev/status/2103082371570340234)要求 Opus 5.5 用代码绘制画面并生成音乐，做成不使用外部媒体的 HTML 动画。
+- **提示词**：作者在[回复](https://x.com/petergostev/status/2103082371570340234)中公开完整英文原文：
+
+> Recreate Rick Astley’s unmistakable dance as an HTML animation about one minute long, made from bold, moving brushstrokes and synced to music. His coat, microphone, and shadows should swing with exaggerated rhythm. Make it a piece of art: artistic, beautiful, polished and incredibly fun and approximately 1m long. Draw everything in code, including the music; no external media or website UI.
+
+<a id="case-2102878288008057171"></a>
+
+### Opus 自画像与钢琴配乐
+
+- **作者**：[Kevin Ngo @kevin_t_ngo](https://x.com/kevin_t_ngo)
+- **样片**：[观看约 20 秒视频](https://x.com/kevin_t_ngo/status/2102878288008057171)
+- **原帖**：[查看作者原帖](https://x.com/kevin_t_ngo/status/2102878288008057171)
+- **内容**：一组自画像与钢琴配乐组成的短片。
+- **实现**：作者称 Claude Opus 5.5 用 JavaScript 绘制自画像并创作钢琴音乐；其他制作细节未公开。
+- **提示词**：未公开。
 
 <a id="case-2102457111787745405"></a>
 

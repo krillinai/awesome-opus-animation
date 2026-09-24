@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 20 个案例。
+共 21 个案例。
 
 ## 作品预览
 
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/devteamdrew/status/2102865596480409849"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860609591107584/img/FHtfxT1rrNyZ1nX1.jpg" alt="DreW 代码动画续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102865596480409849">DreW 代码动画续作</a></strong><br><a href="https://x.com/devteamdrew">DreW @devteamdrew</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/SpikeRiser/status/2102888874858959029"><img src="https://pbs.twimg.com/amplify_video_thumb/2102887158373629952/img/JUJo4H4_5J-99gPZ.jpg" alt="Claude 5.5 像素动画续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102888874858959029">Claude 5.5 像素动画续作</a></strong><br><a href="https://x.com/SpikeRiser">R @SpikeRiser</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -52,6 +52,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2102888874858959029"></a>
+
+### Claude 5.5 像素动画续作
+
+- **作者**：[R @SpikeRiser](https://x.com/SpikeRiser)
+- **样片**：[观看视频](https://x.com/SpikeRiser/status/2102888874858959029)
+- **原帖**：[查看作者原帖](https://x.com/SpikeRiser/status/2102888874858959029)
+- **内容**：作者继续发布的像素风动画。
+- **实现**：作者称使用 Claude 5.5 制作像素画；这条帖子未明确模型子版本或制作技术栈。
+- **提示词**：未公开。
 
 <a id="case-2102681172367323300"></a>
 

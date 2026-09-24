@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-8 cases.
+9 cases.
 
 ## Previews
 
@@ -17,7 +17,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chhddavid/status/2102666619029999989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102666528537944064/img/rOixOZnZnxXfwvhN.jpg" alt="AI Employees Motion Video preview, open post" width="100%"></a><br><strong><a href="#case-2102666619029999989">AI Employees Motion Video</a></strong><br><a href="https://x.com/chhddavid">David Ch @chhddavid</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/deedydas/status/2102787937482252537"><img src="../assets/preview/MudaLaunch.jpg" alt="muda. Inference Launch Video preview, open post" width="100%"></a><br><strong><a href="#case-2102787937482252537">muda. Inference Launch Video</a></strong><br><a href="https://x.com/deedydas">Deedy @deedydas</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/nazmijavierl/status/2102712897701097828"><img src="https://pbs.twimg.com/amplify_video_thumb/2102711987281244160/img/IXe2AarMI-CD8E1F.jpg" alt="One-Prompt Graphic Posts and Animation preview, open post" width="100%"></a><br><strong><a href="#case-2102712897701097828">One-Prompt Graphic Posts and Animation</a></strong><br><a href="https://x.com/nazmijavierl">Nazday @nazmijavierl</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="Cocktail Recipe Motion Graphic preview, open post" width="240"></a><br><strong><a href="#case-2102853258582880547">Cocktail Recipe Motion Graphic</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
@@ -32,6 +32,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2102712897701097828"></a>
+
+### One-Prompt Graphic Posts and Animation
+
+- **Creator:** [Nazday @nazmijavierl](https://x.com/nazmijavierl)
+- **Watch:** [Watch the 16-second video](https://x.com/nazmijavierl/status/2102712897701097828)
+- **Original post:** [Creator's post](https://x.com/nazmijavierl/status/2102712897701097828)
+- **About:** A set of graphic posts and an accompanying animation.
+- **Implementation:** The creator says Claude Opus 5.5 made them from one prompt. The post does not disclose the prompt text, tools, or production time.
+- **Prompt:** Not public.
 
 <a id="case-2102984873351037161"></a>
 

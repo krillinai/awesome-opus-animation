@@ -4,7 +4,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![89 cases](https://img.shields.io/badge/cases-89-0969da)](#categories)
+[![97 cases](https://img.shields.io/badge/cases-97-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -23,7 +23,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Games & Playable Animation](categories/games.md)
 
-18 cases
+21 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="Antikythera Mechanism Game preview, open post" width="100%"></a><br><a href="categories/games.md#case-2102463453176979794">Antikythera Mechanism Game</a></td>
@@ -37,7 +37,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Code Animation & Visual Experiments](categories/code-animation.md)
 
-20 cases
+21 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song (Interactive Stop-Motion) preview, open post" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song (Interactive Stop-Motion)</a></td>
@@ -51,7 +51,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Narrative Shorts & Character Animation](categories/narrative.md)
 
-14 cases
+15 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 Self-Introduction Short preview, open post" width="100%"></a><br><a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 Self-Introduction Short</a></td>
@@ -61,7 +61,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Hand-Drawn Animation & Music Videos](categories/hand-drawn-mv.md)
 
-7 cases
+9 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop Remake Music Video preview, open post" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102801274173587569">Claude Pop Remake Music Video</a></td>
@@ -91,7 +91,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Motion & Brand Design](categories/motion-design.md)
 
-8 cases
+9 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use Launch Video preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use Launch Video</a></td>

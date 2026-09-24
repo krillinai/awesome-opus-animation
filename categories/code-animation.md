@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-20 cases.
+21 cases.
 
 ## Previews
 
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/devteamdrew/status/2102865596480409849"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860609591107584/img/FHtfxT1rrNyZ1nX1.jpg" alt="DreW's Code Animation, Part 2 preview, open post" width="100%"></a><br><strong><a href="#case-2102865596480409849">DreW's Code Animation, Part 2</a></strong><br><a href="https://x.com/devteamdrew">DreW @devteamdrew</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/SpikeRiser/status/2102888874858959029"><img src="https://pbs.twimg.com/amplify_video_thumb/2102887158373629952/img/JUJo4H4_5J-99gPZ.jpg" alt="More Claude 5.5 Pixel Art preview, open post" width="100%"></a><br><strong><a href="#case-2102888874858959029">More Claude 5.5 Pixel Art</a></strong><br><a href="https://x.com/SpikeRiser">R @SpikeRiser</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -52,6 +52,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2102888874858959029"></a>
+
+### More Claude 5.5 Pixel Art
+
+- **Creator:** [R @SpikeRiser](https://x.com/SpikeRiser)
+- **Watch:** [Watch video](https://x.com/SpikeRiser/status/2102888874858959029)
+- **Original post:** [Creator's post](https://x.com/SpikeRiser/status/2102888874858959029)
+- **About:** A pixel-art animation shared as a follow-up to the creator's earlier Claude experiments.
+- **Implementation:** The creator attributes the pixel art to Claude 5.5; this post does not disclose the exact model variant or production stack.
+- **Prompt:** Not public.
 
 <a id="case-2102681172367323300"></a>
 

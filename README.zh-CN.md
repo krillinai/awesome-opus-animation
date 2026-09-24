@@ -4,7 +4,7 @@
 
 [English](README.md) | **简体中文**
 
-[![89 个案例](https://img.shields.io/badge/cases-89-0969da)](#分类)
+[![97 个案例](https://img.shields.io/badge/cases-97-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -23,7 +23,7 @@
 
 ### [游戏与可玩动画](categories/games.zh-CN.md)
 
-18 个案例
+21 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面" width="100%"></a><br><a href="categories/games.zh-CN.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
@@ -37,7 +37,7 @@
 
 ### [代码动画与视觉实验](categories/code-animation.zh-CN.md)
 
-20 个案例
+21 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.zh-CN.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
@@ -51,7 +51,7 @@
 
 ### [叙事短片与角色动画](categories/narrative.zh-CN.md)
 
-14 个案例
+15 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="100%"></a><br><a href="categories/narrative.zh-CN.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a></td>
@@ -61,7 +61,7 @@
 
 ### [手绘动画与 MV](categories/hand-drawn-mv.zh-CN.md)
 
-7 个案例
+9 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.zh-CN.md#case-2102801274173587569">Claude Pop 重制 MV</a></td>
@@ -91,7 +91,7 @@
 
 ### [动效与品牌设计](categories/motion-design.zh-CN.md)
 
-8 个案例
+9 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102984873351037161">video-use 发布短片</a></td>

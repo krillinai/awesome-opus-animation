@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-14 cases.
+15 cases.
 
 ## Previews
 
@@ -23,6 +23,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="../assets/preview/claudesplan.png" alt="Claude's Plan preview, open post" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="The Meaning of Life preview, open post" width="100%"></a><br><strong><a href="#case-2102591280538644596">The Meaning of Life</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/pleometric/status/2103082510607610023"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081744408657920/img/AqJ7e2EYc2kKdp9C.jpg" alt="Pleometric's Opus 5.5 Short preview, open post" width="100%"></a><br><strong><a href="#case-2103082510607610023">Pleometric's Opus 5.5 Short</a></strong><br><a href="https://x.com/pleometric">Pleometric @pleometric</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/RoundtableSpace/status/2102922211539763610"><img src="https://pbs.twimg.com/amplify_video_thumb/2102902608109154304/img/4snWeG_XSJab5p4Q.jpg" alt="What Is the Purpose of Life? preview, open post" width="100%"></a><br><strong><a href="#case-2102922211539763610">What Is the Purpose of Life?</a></strong><br><a href="https://www.reddit.com/user/Singularity-42/">u/Singularity-42</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What Do You Love? preview, open post" width="240"></a><br><strong><a href="#case-2102437977435893771">What Do You Love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
@@ -199,5 +204,17 @@
 - **About:** Claude notices fragments of human life hidden in everyday requests, saves them in a jar, and watches them become constellations at night.
 - **Implementation:** The creator says Opus 5.5 wrote the story, drew every frame, and made the music. The square-format visuals were built entirely with JavaScript in a single `index.html`, without image assets, and rendered with hyperframes. Music was synthesized in Python. The creator says they wrote no code by hand and then reviewed and polished the film second by second.
 - **Prompt:** Not public; the post describes the result and process, not the original prompt.
+
+<a id="case-2102922211539763610"></a>
+
+### What Is the Purpose of Life?
+
+- **Creator:** [u/Singularity-42](https://www.reddit.com/user/Singularity-42/); the linked X post is a [repost by @RoundtableSpace](https://x.com/RoundtableSpace/status/2102922211539763610).
+- **Watch:** [Watch the one-minute film on X](https://x.com/RoundtableSpace/status/2102922211539763610) or in the [creator's Reddit post](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/).
+- **Original post:** [Creator's Reddit post, including the prompt](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/)
+- **Production time:** About 1 hour 20 minutes, according to the creator.
+- **About:** A whimsical hand-drawn collage short exploring the purpose of life.
+- **Implementation:** The creator says Claude Code with Opus 5.5 produced it from one prompt without subsequent edits, orchestrating eight OpenRouter APIs. Images used Nano Banana 2, narration used Gemini 3.1 Flash TTS, and music used Lyria 3 Pro. The creator reported $3.21 in OpenRouter usage, plus roughly $20 of Opus API-equivalent usage; this is a model-orchestrated production, not imagery drawn solely in JavaScript.
+- **Prompt:** [Published in full by the creator](https://www.reddit.com/r/ClaudeAI/comments/1wogab3/made_entirely_with_opus_55_321_of_openrouter_api/). It begins: “Create a pure javascript animation. 30s-60s whimsical hand drawn collage style with appropriate audio on the topic what is the purpose of life ?” The remaining instructions ask for high production quality, text-to-speech, autonomous creation of the script and assets, and a $10 OpenRouter spending cap.
 
 [Back to home](../README.md)
