@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 17 个案例。
+共 18 个案例。
 
 ## 作品预览
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102478640428773861"><img src="https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg" alt="Opus 5.5 想象攻克难题视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102478640428773861">Opus 5.5 想象攻克难题</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/victormustar/status/2102707412704919910"><img src="https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg" alt="程序绘制的像素奔马视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102707412704919910">程序绘制的像素奔马</a></strong><br><a href="https://x.com/victormustar">Victor M @victormustar</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/JustinPerea/status/2102893186330841502"><img src="https://pbs.twimg.com/amplify_video_thumb/2102893058664615936/img/FBPBL0jAyP8t1AOE.jpg" alt="Opus 5.5 Demoscene 开场动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102893186330841502">Opus 5.5 Demoscene 开场动画</a></strong><br><a href="https://x.com/JustinPerea">Justin.md @JustinPerea</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -239,5 +239,17 @@
 - **内容**：一匹以 128 × 96 像素画面逐帧程序绘制的奔马。
 - **实现**：作者称 Opus 5.5 制作了单文件 HTML，使用原生 JavaScript 和 Canvas 2D，没有图片或库；马腿关节由逆向运动学驱动，奔跑循环包含 12 个姿态。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102893186330841502"></a>
+
+### Opus 5.5 Demoscene 开场动画
+
+- **作者**：[Justin.md @JustinPerea](https://x.com/JustinPerea)
+- **样片**：[观看 43 秒视频](https://x.com/JustinPerea/status/2102893186330841502)
+- **原帖**：[查看作者原帖](https://x.com/JustinPerea/status/2102893186330841502)
+- **制作耗时**：作者称约 5 小时。
+- **内容**：展示 Opus 5.5 能力的视听 demoscene 开场动画。
+- **实现**：作者称全部画面与声音来自一个 280 KB 的 HTML 文件，未使用图片、音频文件、3D 模型或库；原帖报告消耗 6.97 亿 token，未说明统计口径。
+- **提示词**：作者概述了“让 Opus 5.5 尽可能精彩地展示自己、不给更多方向”的要求，未公开提示词原文。
 
 [返回首页](../README.zh-CN.md)

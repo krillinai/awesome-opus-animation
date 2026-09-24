@@ -4,7 +4,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![73 cases](https://img.shields.io/badge/cases-73-0969da)](#categories)
+[![74 cases](https://img.shields.io/badge/cases-74-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -37,7 +37,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Code Animation & Visual Experiments](categories/code-animation.md)
 
-17 cases
+18 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song (Interactive Stop-Motion) preview, open post" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song (Interactive Stop-Motion)</a></td>

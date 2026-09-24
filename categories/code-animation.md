@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-17 cases.
+18 cases.
 
 ## Previews
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102478640428773861"><img src="https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg" alt="Opus Imagines Solving Hard Problems preview, open post" width="100%"></a><br><strong><a href="#case-2102478640428773861">Opus Imagines Solving Hard Problems</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/victormustar/status/2102707412704919910"><img src="https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg" alt="Procedural Pixel Horse Gallop preview, open post" width="100%"></a><br><strong><a href="#case-2102707412704919910">Procedural Pixel Horse Gallop</a></strong><br><a href="https://x.com/victormustar">Victor M @victormustar</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/JustinPerea/status/2102893186330841502"><img src="https://pbs.twimg.com/amplify_video_thumb/2102893058664615936/img/FBPBL0jAyP8t1AOE.jpg" alt="Opus 5.5 Demoscene Intro preview, open post" width="100%"></a><br><strong><a href="#case-2102893186330841502">Opus 5.5 Demoscene Intro</a></strong><br><a href="https://x.com/JustinPerea">Justin.md @JustinPerea</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -244,5 +244,17 @@ The post also quotes a prompt for a different 3D pelican video. That is not this
 - **About:** A galloping horse drawn procedurally at 128 × 96 pixels.
 - **Implementation:** The creator says Opus 5.5 made a self-contained HTML file using vanilla JavaScript and Canvas 2D, with no images or libraries. Articulated legs use inverse kinematics and a 12-pose gallop cycle.
 - **Prompt:** Not public.
+
+<a id="case-2102893186330841502"></a>
+
+### Opus 5.5 Demoscene Intro
+
+- **Creator:** [Justin.md @JustinPerea](https://x.com/JustinPerea)
+- **Watch:** [Watch 43-second video](https://x.com/JustinPerea/status/2102893186330841502)
+- **Original post:** [Creator's post](https://x.com/JustinPerea/status/2102893186330841502)
+- **Production time:** About five hours, according to the creator.
+- **About:** An audiovisual demoscene intro made to showcase Opus 5.5.
+- **Implementation:** The creator says every pixel and sound comes from one 280 KB HTML file, with no image or audio files, 3D models, or libraries. The post reports 697 million tokens; it does not explain how that total was measured.
+- **Prompt:** The creator summarizes the request as asking Opus 5.5 to make its most impressive self-demo with no further direction. The exact prompt text is not public.
 
 [Back to home](../README.md)
