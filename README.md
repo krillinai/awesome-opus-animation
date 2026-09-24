@@ -81,7 +81,11 @@
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="https://pbs.twimg.com/amplify_video_thumb/2102984006224728064/img/j6OMvuoA6XYlK8dr.jpg" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use 发布短片</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="https://pbs.twimg.com/amplify_video_thumb/2102620135353675776/img/0pCu49a51Bm-Xg6x.jpg" alt="Applore 产品宣传片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102621064518160485">Applore 产品宣传片</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg" alt="鸡尾酒配方动效视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102853258582880547">鸡尾酒配方动效</a></td>
+<td width="33%" valign="top"></td>
+</tr><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg" alt="鸡尾酒配方动效视频封面" width="240"></a><br><a href="categories/motion-design.md#case-2102853258582880547">鸡尾酒配方动效</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr></table>
 
 ## 收录规则
@@ -91,7 +95,7 @@
 - 提示词优先记录作者公开的原文并附来源链接。仅由投稿者提供且尚无公开出处时，明确标记「出处待核对」；未公开时标注「未公开」，不要根据成片反推或编造。
 - 一个作品归入最贴切的一个分类；同一作品的更新版本可以在备注中补充链接。
 - 样片优先链接到作者发布的视频或在线演示，不搬运未获授权的媒体文件。
-- 每个分类页先放视频预览表格，每行三项；同类作品的竖屏封面集中排列。不足三项的行留空，后续新增案例可补入空位。
+- 每个分类页先放视频预览表格，每行最多三项；横屏、方屏（含近方屏）、竖屏封面分别成行。不足三项的行留空，后续新增案例可补入对应比例的空位。
 - 预览使用原帖的视频封面，点击封面跳转作者原帖；点击作品名称跳转本页详情。详情记录样片、制作耗时（若公开）、制作说明和有出处的提示词，不重复插入封面。
 
 ## 推荐案例
@@ -110,7 +114,7 @@ X 原帖：
 模型的参与方式：
 ```
 
-<!-- 新案例模板：先在对应分类页的表格中补入一个单元格，每行最多三个；同类竖屏作品放在一起。再把详情复制到该分类页的表格下方。POST_ID 使用 X 原帖数字 ID。
+<!-- 新案例模板：先在对应分类页的表格中补入一个单元格，每行最多三个；横屏、方屏（含近方屏）、竖屏分别成行。再把详情复制到该分类页的表格下方。POST_ID 使用 X 原帖数字 ID。
 
 <td width="33%" valign="top" align="center"><a href="https://x.com/handle/status/POST_ID"><img src="视频封面图片地址" alt="作品名称视频封面，点击观看" width="100%"></a><br><strong><a href="#case-POST_ID">作品名称</a></strong><br><a href="https://x.com/handle">@handle</a></td>
 

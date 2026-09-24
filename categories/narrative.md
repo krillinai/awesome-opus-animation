@@ -14,17 +14,17 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102575622912631261">Opus 5.5 自我介绍短片</a></strong><br><a href="https://x.com/nicekate8888">nicekate @nicekate8888</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What do you love? 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102437977435893771">What do you love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nickwalton00/status/2102774951434695083"><img src="https://pbs.twimg.com/amplify_video_thumb/2102774122338246656/img/6yw2v0ga5af0EdUT.jpg" alt="AI Dungeon 故事动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102774951434695083">AI Dungeon 故事动画</a></strong><br><a href="https://x.com/nickwalton00">Nick Walton @nickwalton00</a></td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/jurlycat/status/2102645793828036643"><img src="https://pbs.twimg.com/amplify_video_thumb/2102645585169764352/img/pXRSK3BBju9zf9jr.jpg" alt="Window Seat 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102645793828036643">Window Seat（车窗之旅）</a></strong><br><a href="https://x.com/jurlycat">Jurly @jurlycat</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102611372978872504">Opus 的梦</a></strong><br><a href="https://x.com/angrypenguinPNG">Miguel | AP @angrypenguinPNG</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="生命的意义短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591280538644596">生命的意义</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
 <td width="33%" valign="top"></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What do you love? 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102437977435893771">What do you love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/jurlycat/status/2102645793828036643"><img src="https://pbs.twimg.com/amplify_video_thumb/2102645585169764352/img/pXRSK3BBju9zf9jr.jpg" alt="Window Seat 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102645793828036643">Window Seat（车窗之旅）</a></strong><br><a href="https://x.com/jurlycat">Jurly @jurlycat</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>

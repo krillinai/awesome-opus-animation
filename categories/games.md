@@ -18,13 +18,18 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/alin_zone/status/2102608618751508947"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607776010981376/img/cQ0kMaGCiTRK1_mk.jpg" alt="鹈鹕骑自行车演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102608618751508947">鹈鹕骑自行车</a></strong><br><a href="https://x.com/alin_zone">展示：@alin_zone</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102588571442188577"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587262928326656/img/lPeeyMoTHYWHfRKG.jpg" alt="Three.js 3D 游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102588571442188577">Three.js 3D 游戏演示</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/rehan_shei/status/2102794467032154206"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794208411258880/img/lXnJGoj4AMOlb2cZ.jpg" alt="代码生成的 2D 像素游戏场景视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102794467032154206">代码生成的 2D 像素游戏场景</a></strong><br><a href="https://x.com/rehan_shei">Rehan Sheikh @rehan_shei</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/mattshumer_/status/2102874271316078841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102873990519812096/img/V3z4VHqmR5SOf7Ux.jpg" alt="开放世界纽约多人游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102874271316078841">开放世界纽约多人游戏</a></strong><br><a href="https://x.com/mattshumer_">Matt Shumer @mattshumer_</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/mattshumer_/status/2102874271316078841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102873990519812096/img/V3z4VHqmR5SOf7Ux.jpg" alt="开放世界纽约多人游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102874271316078841">开放世界纽约多人游戏</a></strong><br><a href="https://x.com/mattshumer_">Matt Shumer @mattshumer_</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/The_Alex/status/2102440678282412195"><img src="https://pbs.twimg.com/amplify_video_thumb/2102439823281975302/img/qABSqFFtO1aLvl9Q.jpg" alt="Dark Souls 风格游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102440678282412195">Dark Souls 风格游戏演示</a></strong><br><a href="https://x.com/The_Alex">Alex @The_Alex</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
+<td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
