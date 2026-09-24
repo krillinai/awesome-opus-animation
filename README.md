@@ -70,7 +70,7 @@
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/kimmonismus/status/2102844654169575547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg" alt="AI 历史短片视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102844654169575547">AI 历史：从 Attention Is All You Need 到 AGI</a></td>
 <td width="33%" valign="top"></td>
 </tr></table>
 
