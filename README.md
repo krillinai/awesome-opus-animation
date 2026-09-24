@@ -10,6 +10,34 @@
 
 ## 分类
 
+### [游戏与可玩动画](categories/games.md)
+
+13 个案例
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面" width="240"></a><br><a href="categories/games.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="100%"></a><br><a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
+</tr><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102831012686573744">火柴人游戏</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/rehan_shei/status/2102794467032154206"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794208411258880/img/lXnJGoj4AMOlb2cZ.jpg" alt="代码生成的 2D 像素游戏场景视频封面" width="100%"></a><br><a href="categories/games.md#case-2102794467032154206">代码生成的 2D 像素游戏场景</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102773498037023140">鱼叉捕鱼游戏</a></td>
+</tr></table>
+
+### [代码动画与视觉实验](categories/code-animation.md)
+
+15 个案例
+
+<table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/riku720720/status/2102515055116063144"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg" alt="宇宙像素疾走视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102515055116063144">宇宙像素疾走</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102717687604633959">浏览器里的骑行</a></td>
+</tr><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a></td>
+</tr></table>
+
 ### [叙事短片与角色动画](categories/narrative.md)
 
 12 个案例
@@ -30,20 +58,6 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/eudaemonea/status/2102610626321490404"><img src="https://pbs.twimg.com/amplify_video_thumb/2102606787941736448/img/zvj6paWv8xVzy0rz.jpg" alt="Functional Emotions 音乐视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102610626321490404">Functional Emotions 音乐视频</a></td>
 </tr></table>
 
-### [代码动画与视觉实验](categories/code-animation.md)
-
-15 个案例
-
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/riku720720/status/2102515055116063144"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg" alt="宇宙像素疾走视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102515055116063144">宇宙像素疾走</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102717687604633959">浏览器里的骑行</a></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a></td>
-</tr></table>
-
 ### [3D 场景与交互](categories/3d-scenes.md)
 
 12 个案例
@@ -52,20 +66,6 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="雨夜街角便利店视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102672063668670725">雨夜街角便利店</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102543638689460488">Autumn Line（秋日铁道）</a></td>
-</tr></table>
-
-### [游戏与可玩动画](categories/games.md)
-
-13 个案例
-
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面" width="240"></a><br><a href="categories/games.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="100%"></a><br><a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102831012686573744">火柴人游戏</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/rehan_shei/status/2102794467032154206"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794208411258880/img/lXnJGoj4AMOlb2cZ.jpg" alt="代码生成的 2D 像素游戏场景视频封面" width="100%"></a><br><a href="categories/games.md#case-2102794467032154206">代码生成的 2D 像素游戏场景</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102773498037023140">鱼叉捕鱼游戏</a></td>
 </tr></table>
 
 ### [科普与信息可视化](categories/explainers.md)
