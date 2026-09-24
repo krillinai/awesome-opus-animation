@@ -18,7 +18,7 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102611372978872504">Opus 的梦</a></strong><br><a href="https://x.com/angrypenguinPNG">Miguel | AP @angrypenguinPNG</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="../assets/preview/claudesplan.png" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="生命的意义短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591280538644596">生命的意义</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
 <td width="33%" valign="top"></td>
 </tr>

@@ -45,7 +45,7 @@
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102611372978872504">Opus 的梦</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg" alt="Claude's Plan 视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102717699600368045">Claude's Plan</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="assets/preview/claudesplan.png" alt="Claude's Plan 视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102717699600368045">Claude's Plan</a></td>
 </tr></table>
 
 ### [手绘动画与 MV](categories/hand-drawn-mv.md)
@@ -100,7 +100,7 @@
 - 一个作品归入最贴切的一个分类；同一作品的更新版本可以在备注中补充链接。
 - 样片优先链接到作者发布的视频或在线演示，不搬运未获授权的媒体文件。
 - 每个分类页先放视频预览表格，每行最多三项；横屏、方屏（含近方屏）、竖屏封面分别成行。不足三项的行留空，后续新增案例可补入对应比例的空位。
-- 预览使用原帖的视频封面，点击封面跳转作者原帖；点击作品名称跳转本页详情。详情记录样片、制作耗时（若公开）、制作说明和有出处的提示词，不重复插入封面。
+- 预览使用原帖的视频封面或经核对的视频截图，点击封面跳转作者原帖；点击作品名称跳转本页详情。详情记录样片、制作耗时（若公开）、制作说明和有出处的提示词，不重复插入封面。
 
 ## 推荐案例
 
