@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 5 个案例。
+共 6 个案例。
 
 ## 作品预览
 
@@ -17,7 +17,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Michaelzsguo/status/2102592355165782312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="美国 250 年沙画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102592355165782312">美国 250 年沙画</a></strong><br><a href="https://x.com/Michaelzsguo">Michael Guo @Michaelzsguo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102801274173587569">Claude Pop 重制 MV</a></strong><br><a href="https://x.com/donaldjewkes">donald @donaldjewkes</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ann_nnng/status/2102573127192727704"><img src="../assets/preview/NewZealandAcrylicAlbum.jpg" alt="新西兰旅行丙烯画册视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102573127192727704">新西兰旅行丙烯画册</a></strong><br><a href="https://x.com/ann_nnng">Ann Nguyen @ann_nnng</a></td>
 </tr>
 </table>
 
@@ -35,6 +35,17 @@
 - **提示词**：原帖未公开制作提示词。
 
 注：X 提供的视频封面是空白首帧；点击预览封面可观看绘制过程。
+
+<a id="case-2102573127192727704"></a>
+
+### 新西兰旅行丙烯画册
+
+- **作者**：[Ann Nguyen @ann_nnng](https://x.com/ann_nnng)
+- **样片**：[观看约 22 秒视频](https://x.com/ann_nnng/status/2102573127192727704)
+- **原帖**：[查看作者原帖](https://x.com/ann_nnng/status/2102573127192727704)
+- **内容**：以作者的新西兰旅行照片为参考，做成可翻页的丙烯画风格插画画册，呈现风景与旅途片段。
+- **实现**：作者称由 Opus 5.5 全部使用 JavaScript 绘制；原帖未说明绘图库，也未公开源码。
+- **提示词**：原帖概述了“将新西兰旅行照片画成丙烯画风格”的任务，未公开提示词原文或制作耗时。
 
 <a id="case-2102986085328716066"></a>
 

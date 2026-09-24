@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-5 cases.
+6 cases.
 
 ## Previews
 
@@ -17,7 +17,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Michaelzsguo/status/2102592355165782312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="250 Years of U.S. History in Sand Animation preview, open post" width="100%"></a><br><strong><a href="#case-2102592355165782312">250 Years of U.S. History in Sand Animation</a></strong><br><a href="https://x.com/Michaelzsguo">Michael Guo @Michaelzsguo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop Remake Music Video preview, open post" width="100%"></a><br><strong><a href="#case-2102801274173587569">Claude Pop Remake Music Video</a></strong><br><a href="https://x.com/donaldjewkes">donald @donaldjewkes</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ann_nnng/status/2102573127192727704"><img src="../assets/preview/NewZealandAcrylicAlbum.jpg" alt="New Zealand Acrylic-Style Travel Album preview, open post" width="100%"></a><br><strong><a href="#case-2102573127192727704">New Zealand Acrylic-Style Travel Album</a></strong><br><a href="https://x.com/ann_nnng">Ann Nguyen @ann_nnng</a></td>
 </tr>
 </table>
 
@@ -35,6 +35,17 @@
 - **Prompt:** Not public.
 
 The video thumbnail supplied by X is the blank opening frame; open the post to see the drawing unfold.
+
+<a id="case-2102573127192727704"></a>
+
+### New Zealand Acrylic-Style Travel Album
+
+- **Creator:** [Ann Nguyen @ann_nnng](https://x.com/ann_nnng)
+- **Watch:** [Watch the 22-second video](https://x.com/ann_nnng/status/2102573127192727704)
+- **Original post:** [Creator's post](https://x.com/ann_nnng/status/2102573127192727704)
+- **About:** A page-turning illustrated album based on the creator's New Zealand trip photos, showing landscapes and travel moments in an acrylic-painting style.
+- **Implementation:** The creator says Opus 5.5 drew the pictures entirely in JavaScript. The post does not identify the graphics library or publish the source code.
+- **Prompt:** The post summarizes the request as drawing her New Zealand trip photos in acrylic style; the exact prompt and production time are not public.
 
 <a id="case-2102986085328716066"></a>
 

@@ -4,7 +4,7 @@
 
 [English](README.md) | **简体中文**
 
-[![86 个案例](https://img.shields.io/badge/cases-86-0969da)](#分类)
+[![87 个案例](https://img.shields.io/badge/cases-87-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -61,7 +61,7 @@
 
 ### [手绘动画与 MV](categories/hand-drawn-mv.zh-CN.md)
 
-5 个案例
+6 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.zh-CN.md#case-2102801274173587569">Claude Pop 重制 MV</a></td>
