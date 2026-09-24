@@ -6,7 +6,7 @@
 
 > 正在收录中。欢迎提供 X 原帖链接；优先收录作者本人发布、明确说明所用模型的作品。
 
-每个分类展示 3 个作品预览；点击分类标题查看全部案例，点击封面观看样片，点击作品名查看详情。
+首页按分类展示精选作品预览，每行 3 个；点击分类标题查看全部案例，点击封面观看样片，点击作品名查看详情。
 
 ## 分类
 
@@ -35,9 +35,13 @@
 10 个案例
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/riku720720/status/2102515055116063144"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg" alt="宇宙像素疾走视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102515055116063144">宇宙像素疾走</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102717687604633959">浏览器里的骑行</a></td>
+</tr><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a></td>
 </tr></table>
 
 ### [3D 场景与交互](categories/3d-scenes.md)
