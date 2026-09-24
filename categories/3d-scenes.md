@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-14 cases.
+15 cases.
 
 ## Previews
 
@@ -28,6 +28,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D Animation Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D Animation Experiment</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102458348511879448"><img src="https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg" alt="One-Prompt Blender Claymation preview, open post" width="100%"></a><br><strong><a href="#case-2102458348511879448">One-Prompt Blender Claymation</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102466523164274839"><img src="https://pbs.twimg.com/amplify_video_thumb/2102465460545675264/img/ILlgAuA7ctODSBai.jpg" alt="1906 San Francisco Market Street preview, open post" width="100%"></a><br><strong><a href="#case-2102466523164274839">1906 San Francisco Market Street</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/emmanuel_2m/status/2102539293122035875"><img src="../assets/preview/ScenarioBlenderAlley.jpg" alt="Scenario Blender Neon Alley preview, open post" width="100%"></a><br><strong><a href="#case-2102539293122035875">Scenario Blender Neon Alley</a></strong><br><a href="https://x.com/emmanuel_2m">Emm @emmanuel_2m</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley preview, open post" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -72,6 +77,17 @@
 - **About:** A rainy corner store with wet-road reflections, dripping eaves, shelves, signage, a bicycle, and a cat sheltering from the rain.
 - **Implementation:** The creator says Opus 5.5 and Three.js render the scene in real time. Code and deeper process details were not published.
 - **Prompt:** The prompt for this scene is not public. A [different post](https://x.com/NFT_Chen/status/2102650980936581304) linked by the creator contains general prompt advice, not this scene's instructions.
+
+<a id="case-2102539293122035875"></a>
+
+### Scenario Blender Neon Alley
+
+- **Creator:** [Emm @emmanuel_2m](https://x.com/emmanuel_2m)
+- **Watch:** [Watch the 9-second video](https://x.com/emmanuel_2m/status/2102539293122035875)
+- **Original post:** [Creator's post](https://x.com/emmanuel_2m/status/2102539293122035875)
+- **About:** A short progression from blocky alley geometry to a neon-lit 3D street with signs, cables, haze, and reflections on wet pavement.
+- **Implementation:** The creator says Opus 5.5 was connected to the Scenario Blender plugin. The video labels geometry, materials, atmosphere, and render adjustments, but the post does not document the full workflow or production time.
+- **Prompt:** Not public.
 
 <a id="case-2102779917247054301"></a>
 

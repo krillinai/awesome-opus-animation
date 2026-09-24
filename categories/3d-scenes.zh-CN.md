@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 14 个案例。
+共 15 个案例。
 
 ## 作品预览
 
@@ -28,6 +28,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D 动画实验</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102458348511879448"><img src="https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg" alt="一条提示词制作 Blender 黏土动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102458348511879448">一条提示词制作 Blender 黏土动画</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102466523164274839"><img src="https://pbs.twimg.com/amplify_video_thumb/2102465460545675264/img/ILlgAuA7ctODSBai.jpg" alt="1906 年旧金山市场街视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102466523164274839">1906 年旧金山市场街</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/emmanuel_2m/status/2102539293122035875"><img src="../assets/preview/ScenarioBlenderAlley.jpg" alt="Scenario Blender 霓虹街巷视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102539293122035875">Scenario Blender 霓虹街巷</a></strong><br><a href="https://x.com/emmanuel_2m">Emm @emmanuel_2m</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -74,6 +79,17 @@
 - **内容**：雨夜中的街角便利店，展示湿路面反光、屋檐滴水、店内货架、招牌、路边自行车与躲雨的猫。
 - **实现**：作者称使用 Claude Opus 5.5 和 Three.js 实时渲染场景；原帖未公开代码或更详细的制作流程。
 - **提示词**：本作品的制作提示词未公开。原帖引用的[另一篇帖子](https://x.com/NFT_Chen/status/2102650980936581304)是通用提示词建议，并非便利店场景的制作指令。
+
+<a id="case-2102539293122035875"></a>
+
+### Scenario Blender 霓虹街巷
+
+- **作者**：[Emm @emmanuel_2m](https://x.com/emmanuel_2m)
+- **样片**：[观看约 9 秒视频](https://x.com/emmanuel_2m/status/2102539293122035875)
+- **原帖**：[查看作者原帖](https://x.com/emmanuel_2m/status/2102539293122035875)
+- **内容**：短片展示 3D 街巷从基础几何逐步加入霓虹招牌、电线、薄雾与湿路面反光的过程。
+- **实现**：作者称把 Opus 5.5 接入 Scenario Blender 插件；视频标注了几何、材质、氛围及渲染调整，但原帖未公开完整制作流程或耗时。
+- **提示词**：原帖未公开制作提示词。
 
 <a id="case-2102779917247054301"></a>
 
