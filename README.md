@@ -49,9 +49,9 @@
 9 个案例
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/MatthewBerman/status/2102483668468195539"><img src="https://pbs.twimg.com/amplify_video_thumb/2102483408551366656/img/LdGqXiG3HWBRzHXT.jpg" alt="Unreal Engine 旧金山街景视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102483668468195539">Unreal Engine 旧金山街景</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102543638689460488">Autumn Line（秋日铁道）</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="雨夜街角便利店视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102672063668670725">雨夜街角便利店</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102543638689460488">Autumn Line（秋日铁道）</a></td>
 </tr></table>
 
 ### [游戏与可玩动画](categories/games.md)
