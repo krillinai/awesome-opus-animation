@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-18 cases.
+19 cases.
 
 ## Previews
 
@@ -33,6 +33,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102478640428773861"><img src="https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg" alt="Opus Imagines Solving Hard Problems preview, open post" width="100%"></a><br><strong><a href="#case-2102478640428773861">Opus Imagines Solving Hard Problems</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/victormustar/status/2102707412704919910"><img src="https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg" alt="Procedural Pixel Horse Gallop preview, open post" width="100%"></a><br><strong><a href="#case-2102707412704919910">Procedural Pixel Horse Gallop</a></strong><br><a href="https://x.com/victormustar">Victor M @victormustar</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/JustinPerea/status/2102893186330841502"><img src="https://pbs.twimg.com/amplify_video_thumb/2102893058664615936/img/FBPBL0jAyP8t1AOE.jpg" alt="Opus 5.5 Demoscene Intro preview, open post" width="100%"></a><br><strong><a href="#case-2102893186330841502">Opus 5.5 Demoscene Intro</a></strong><br><a href="https://x.com/JustinPerea">Justin.md @JustinPerea</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/devteamdrew/status/2102865596480409849"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860609591107584/img/FHtfxT1rrNyZ1nX1.jpg" alt="DreW's Code Animation, Part 2 preview, open post" width="100%"></a><br><strong><a href="#case-2102865596480409849">DreW's Code Animation, Part 2</a></strong><br><a href="https://x.com/devteamdrew">DreW @devteamdrew</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -94,7 +99,7 @@
 ### DreW's Code Animation Experiment
 
 - **Creator:** [@devteamdrew](https://x.com/devteamdrew)
-- **Watch:** [Watch video](https://x.com/devteamdrew/status/2102436464323661880) · [More footage](https://x.com/devteamdrew/status/2102884546484306316)
+- **Watch:** [Watch video](https://x.com/devteamdrew/status/2102436464323661880) · [Part 2](https://x.com/devteamdrew/status/2102865596480409849)
 - **Original post:** [Creator's post](https://x.com/devteamdrew/status/2102436464323661880)
 - **Implementation:** The creator says Claude wrote the entire animation with Claude Code CLI. He referenced an earlier video and iterated the music three or four times.
 - **Prompt:** No complete prompt text was found.
@@ -256,5 +261,16 @@ The post also quotes a prompt for a different 3D pelican video. That is not this
 - **About:** An audiovisual demoscene intro made to showcase Opus 5.5.
 - **Implementation:** The creator says every pixel and sound comes from one 280 KB HTML file, with no image or audio files, 3D models, or libraries. The post reports 697 million tokens; it does not explain how that total was measured.
 - **Prompt:** The creator summarizes the request as asking Opus 5.5 to make its most impressive self-demo with no further direction. The exact prompt text is not public.
+
+<a id="case-2102865596480409849"></a>
+
+### DreW's Code Animation, Part 2
+
+- **Creator:** [DreW @devteamdrew](https://x.com/devteamdrew)
+- **Watch:** [Watch 32-second video](https://x.com/devteamdrew/status/2102865596480409849)
+- **Original post:** [Creator's post](https://x.com/devteamdrew/status/2102865596480409849)
+- **Related:** [Part 1](code-animation.md#case-2102436464323661880)
+- **Implementation:** The creator labels this video as part 2 and credits Claude Opus 5.5. The post does not disclose the prompt or production workflow for this installment.
+- **Prompt:** Not public.
 
 [Back to home](../README.md)

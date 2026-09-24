@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 18 个案例。
+共 19 个案例。
 
 ## 作品预览
 
@@ -33,6 +33,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102478640428773861"><img src="https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg" alt="Opus 5.5 想象攻克难题视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102478640428773861">Opus 5.5 想象攻克难题</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/victormustar/status/2102707412704919910"><img src="https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg" alt="程序绘制的像素奔马视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102707412704919910">程序绘制的像素奔马</a></strong><br><a href="https://x.com/victormustar">Victor M @victormustar</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/JustinPerea/status/2102893186330841502"><img src="https://pbs.twimg.com/amplify_video_thumb/2102893058664615936/img/FBPBL0jAyP8t1AOE.jpg" alt="Opus 5.5 Demoscene 开场动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102893186330841502">Opus 5.5 Demoscene 开场动画</a></strong><br><a href="https://x.com/JustinPerea">Justin.md @JustinPerea</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/devteamdrew/status/2102865596480409849"><img src="https://pbs.twimg.com/amplify_video_thumb/2102860609591107584/img/FHtfxT1rrNyZ1nX1.jpg" alt="DreW 代码动画续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102865596480409849">DreW 代码动画续作</a></strong><br><a href="https://x.com/devteamdrew">DreW @devteamdrew</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -94,7 +99,7 @@
 ### DreW 的代码动画实验
 
 - **作者**：[@devteamdrew](https://x.com/devteamdrew)
-- **样片**：[观看视频](https://x.com/devteamdrew/status/2102436464323661880) · [续作](https://x.com/devteamdrew/status/2102884546484306316)
+- **样片**：[观看视频](https://x.com/devteamdrew/status/2102436464323661880) · [续作](https://x.com/devteamdrew/status/2102865596480409849)
 - **原帖**：[查看作者原帖](https://x.com/devteamdrew/status/2102436464323661880)
 - **实现**：作者称整段动画由 Claude 写代码完成，使用 [Claude Code CLI](https://x.com/devteamdrew/status/2102462935390171162)；[参考了以前的视频](https://x.com/devteamdrew/status/2102455479196676488)，[配乐迭代了 3～4 次](https://x.com/devteamdrew/status/2102462675821179295)。
 - **提示词**：未见公开的完整原文。
@@ -251,5 +256,16 @@
 - **内容**：展示 Opus 5.5 能力的视听 demoscene 开场动画。
 - **实现**：作者称全部画面与声音来自一个 280 KB 的 HTML 文件，未使用图片、音频文件、3D 模型或库；原帖报告消耗 6.97 亿 token，未说明统计口径。
 - **提示词**：作者概述了“让 Opus 5.5 尽可能精彩地展示自己、不给更多方向”的要求，未公开提示词原文。
+
+<a id="case-2102865596480409849"></a>
+
+### DreW 代码动画续作
+
+- **作者**：[DreW @devteamdrew](https://x.com/devteamdrew)
+- **样片**：[观看 32 秒视频](https://x.com/devteamdrew/status/2102865596480409849)
+- **原帖**：[查看作者原帖](https://x.com/devteamdrew/status/2102865596480409849)
+- **关联作品**：[第一段动画](code-animation.zh-CN.md#case-2102436464323661880)
+- **实现**：作者将这段视频标为 Part 2，并注明使用 Claude Opus 5.5；原帖未说明此段的具体制作流程。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)
