@@ -96,11 +96,7 @@ This collection documents **both the work and how it was made**. Each entry link
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use Launch Video preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use Launch Video</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="assets/preview/Applore.png" alt="Applore Product Promo preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102621064518160485">Applore Product Promo</a></td>
-<td width="33%" valign="top"></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="assets/preview/cocktail.png" alt="Cocktail Recipe Motion Graphic preview, open post" width="240"></a><br><a href="categories/motion-design.md#case-2102853258582880547">Cocktail Recipe Motion Graphic</a></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/rege_dev/status/2102498682931441977"><img src="assets/preview/CoAnimator.png" alt="CoAnimator Animation Experiment preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102498682931441977">CoAnimator Animation Experiment</a></td>
 </tr></table>
 
 ## Curation Guidelines

@@ -96,11 +96,7 @@
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102984873351037161">video-use 发布短片</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="assets/preview/Applore.png" alt="Applore 产品宣传片视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102621064518160485">Applore 产品宣传片</a></td>
-<td width="33%" valign="top"></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="assets/preview/cocktail.png" alt="鸡尾酒配方动效视频封面" width="240"></a><br><a href="categories/motion-design.zh-CN.md#case-2102853258582880547">鸡尾酒配方动效</a></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/rege_dev/status/2102498682931441977"><img src="assets/preview/CoAnimator.png" alt="CoAnimator 动画实验视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102498682931441977">CoAnimator 动画实验</a></td>
 </tr></table>
 
 ## 收录规则
