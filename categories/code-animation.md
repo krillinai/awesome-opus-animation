@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-22 cases.
+23 cases.
 
 ## Previews
 
@@ -40,6 +40,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/dashiAIxz/status/2103031723428917626"><img src="../assets/preview/ClaudeCutChinese.jpg" alt="Chinese Cartoon Editing Desk preview, open post" width="100%"></a><br><strong><a href="#case-2103031723428917626">Chinese Cartoon Editing Desk</a></strong><br><a href="https://x.com/dashiAIxz">Shared by 大师的AI小灶 @dashiAIxz</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/itsolelehmann/status/2103124033365762215"><img src="https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg" alt="Four Seasons from a Train Window preview, open post" width="100%"></a><br><strong><a href="#case-2103124033365762215">Four Seasons from a Train Window</a></strong><br><a href="https://x.com/itsolelehmann">Ole Lehmann @itsolelehmann</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102472218269900876"><img src="https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg" alt="Sweet Tooth preview, open post" width="240"></a><br><strong><a href="#case-2102472218269900876">Sweet Tooth</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/peekcell/status/2102796895982878850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102795703818797056/img/suyu1aee9jskxmMK.jpg" alt="Pixel Scene with Sound preview, open post" width="240"></a><br><strong><a href="#case-2102796895982878850">Pixel Scene with Sound</a></strong><br><a href="https://x.com/peekcell">Peekcell @peekcell</a></td>
@@ -52,6 +57,19 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103124033365762215"></a>
+
+### Four Seasons from a Train Window
+
+- **Creator:** [Ole Lehmann @itsolelehmann](https://x.com/itsolelehmann)
+- **Watch:** [Watch the 30-second film](https://x.com/itsolelehmann/status/2103124033365762215)
+- **Original post:** [Creator's post](https://x.com/itsolelehmann/status/2103124033365762215)
+- **About:** Four seasons pass beyond a train window while a cup of coffee sits inside a cozy carriage.
+- **Implementation:** The creator says Opus 5.5, working in Claude Code without other AI tools or reference images, wrote about 2,800 lines of code, rendered 900 frames, and synthesized the soundtrack. The post describes layered parallax scenery, inspected stills, and animated season transitions. The specific drawing software is not named.
+- **Prompt:** The creator shares this one-line prompt in the [post](https://x.com/itsolelehmann/status/2103124033365762215):
+
+> 4 seasons passing outside a train window, a cozy carriage, a cup of coffee on the table, Grand Budapest Hotel style
 
 <a id="case-2103031723428917626"></a>
 

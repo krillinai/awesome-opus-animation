@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 22 个案例。
+共 23 个案例。
 
 ## 作品预览
 
@@ -40,6 +40,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/dashiAIxz/status/2103031723428917626"><img src="../assets/preview/ClaudeCutChinese.jpg" alt="中文版卡通剪辑台视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103031723428917626">中文版卡通剪辑台</a></strong><br><a href="https://x.com/dashiAIxz">发布者：大师的AI小灶 @dashiAIxz</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/itsolelehmann/status/2103124033365762215"><img src="https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg" alt="列车窗外的四季视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103124033365762215">列车窗外的四季</a></strong><br><a href="https://x.com/itsolelehmann">Ole Lehmann @itsolelehmann</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102472218269900876"><img src="https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg" alt="Sweet Tooth 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102472218269900876">Sweet Tooth</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/peekcell/status/2102796895982878850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102795703818797056/img/suyu1aee9jskxmMK.jpg" alt="有声像素场景视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102796895982878850">有声像素场景</a></strong><br><a href="https://x.com/peekcell">Peekcell @peekcell</a></td>
@@ -52,6 +57,19 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103124033365762215"></a>
+
+### 列车窗外的四季
+
+- **作者**：[Ole Lehmann @itsolelehmann](https://x.com/itsolelehmann)
+- **样片**：[观看 30 秒短片](https://x.com/itsolelehmann/status/2103124033365762215)
+- **原帖**：[查看作者原帖](https://x.com/itsolelehmann/status/2103124033365762215)
+- **内容**：舒适的车厢里放着一杯咖啡，车窗外的景色依次经过四季。
+- **实现**：作者称 Opus 5.5 在 Claude Code 中独立完成，未使用其他 AI 工具或参考图片；它编写约 2,800 行代码，绘制 900 帧画面并程序合成配乐。原帖还介绍了分层视差、检查静帧和四季转场的过程，但未说明绘图软件名称。
+- **提示词**：作者在[原帖](https://x.com/itsolelehmann/status/2103124033365762215)公开的单条提示词原文：
+
+> 4 seasons passing outside a train window, a cozy carriage, a cup of coffee on the table, Grand Budapest Hotel style
 
 <a id="case-2103031723428917626"></a>
 
