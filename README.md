@@ -12,7 +12,7 @@
 
 ### [叙事短片与角色动画](categories/narrative.md)
 
-10 个案例
+12 个案例
 
 ### [手绘动画与 MV](categories/hand-drawn-mv.md)
 
@@ -20,15 +20,15 @@
 
 ### [代码动画与视觉实验](categories/code-animation.md)
 
-9 个案例
+10 个案例
 
 ### [3D 场景与交互](categories/3d-scenes.md)
 
-8 个案例
+9 个案例
 
 ### [游戏与可玩动画](categories/games.md)
 
-3 个案例
+6 个案例
 
 ### [科普与信息可视化](categories/explainers.md)
 

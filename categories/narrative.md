@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 10 个案例。
+共 12 个案例。
 
 ## 作品预览
 
@@ -20,6 +20,11 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/jurlycat/status/2102645793828036643"><img src="https://pbs.twimg.com/amplify_video_thumb/2102645585169764352/img/pXRSK3BBju9zf9jr.jpg" alt="Window Seat 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102645793828036643">Window Seat（车窗之旅）</a></strong><br><a href="https://x.com/jurlycat">Jurly @jurlycat</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102611372978872504">Opus 的梦</a></strong><br><a href="https://x.com/angrypenguinPNG">Miguel | AP @angrypenguinPNG</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="生命的意义短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591280538644596">生命的意义</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
+<td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -149,5 +154,27 @@
 - **内容**：以复古卡通画面呈现 Opus 对“它会梦见什么”这一提问的回应。
 - **实现**：作者称给 Opus 5.5 使用创作工具的权限，并在[回复](https://x.com/angrypenguinPNG/status/2102614038236873054)中说明，视频通过 Krea MCP 使用 Krea 2 和 Seedance 2.5 制作；这是模型参与视频生成流程的案例。
 - **提示词**：原帖仅概述了向模型询问“它会梦见什么”，未公开完整提示词原文。
+
+<a id="case-2102717699600368045"></a>
+
+### Claude's Plan
+
+- **作者**：[Chetaslua @chetaslua](https://x.com/chetaslua)
+- **样片**：[观看约 3 分 18 秒短片](https://x.com/chetaslua/status/2102717699600368045)
+- **原帖**：[查看作者原帖](https://x.com/chetaslua/status/2102717699600368045)
+- **内容**：以 Claude 为主题的动画短片，作者称其为对 [@jeffgwoah](https://x.com/jeffgwoah) 的致敬。
+- **实现**：作者称由 Opus 5.5 一次生成；该帖未说明具体技术栈。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102591280538644596"></a>
+
+### 生命的意义
+
+- **作者**：[Harveen Singh Chadha @HarveenChadha](https://x.com/HarveenChadha)
+- **样片**：[观看 39 秒短片](https://x.com/HarveenChadha/status/2102591280538644596)
+- **原帖**：[查看作者原帖](https://x.com/HarveenChadha/status/2102591280538644596)
+- **内容**：围绕“生命的意义是什么”展开的动画短片。
+- **实现**：作者称作品完全由 Opus 5.5 制作；原帖未说明画面、声音的具体制作方式。
+- **提示词**：原帖只给出主题问题，未公开完整制作提示词。
 
 [返回首页](../README.md)

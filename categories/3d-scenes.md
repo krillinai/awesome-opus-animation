@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 8 个案例。
+共 9 个案例。
 
 ## 作品预览
 
@@ -20,7 +20,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2102878170089169235"><img src="https://pbs.twimg.com/amplify_video_thumb/2102872839665684480/img/bzyRARet5UjpSWwu.jpg" alt="交互式岛屿生态演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102878170089169235">交互式岛屿生态</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/studio_veco/status/2102684366996738511"><img src="https://pbs.twimg.com/amplify_video_thumb/2102682973292384256/img/4SLo7FdsR6xC_4Eg.jpg" alt="Powapowa Village 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102684366996738511">Powapowa Village（ぽわぽわむら）</a></strong><br><a href="https://x.com/studio_veco">Studio Veco @studio_veco</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/techartist_/status/2102503719762018434"><img src="https://pbs.twimg.com/amplify_video_thumb/2102503194777759744/img/UjVmRn2r4o9Lz1w1.jpg" alt="从草图到住宅的 3D 建筑演化视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102503719762018434">从草图到住宅</a></strong><br><a href="https://x.com/techartist_">Techartist @techartist_</a></td>
 </tr>
 </table>
 
@@ -118,5 +118,16 @@
 - **内容**：色彩柔和的 3D 小村庄，住着可爱的角色，可在浏览器中互动体验。
 - **实现**：作者称使用 Opus 5.5 完成这一版本；原帖未说明完整技术栈。
 - **提示词**：原帖未公开制作时的完整提示词。作者提到可在作品中输入想到的词语，这是体验方式，不是制作提示词。
+
+<a id="case-2102503719762018434"></a>
+
+### 从草图到住宅
+
+- **作者**：[Techartist @techartist_](https://x.com/techartist_)
+- **样片**：[观看 19 秒演示](https://x.com/techartist_/status/2102503719762018434)
+- **原帖**：[查看作者原帖](https://x.com/techartist_/status/2102503719762018434)
+- **内容**：建筑从线稿、体块、细节逐步演化为完整住宅。
+- **实现**：作者称使用 Claude Opus 5.5、Three.js 与 TSL 构建 3D 场景；原帖未公开源码。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)

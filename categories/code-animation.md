@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 9 个案例。
+共 10 个案例。
 
 ## 作品预览
 
@@ -21,6 +21,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102472218269900876"><img src="https://pbs.twimg.com/amplify_video_thumb/2102471444336611328/img/fChOztrV0vxnEi56.jpg" alt="Sweet Tooth 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102472218269900876">Sweet Tooth</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/riku720720/status/2102515055116063144"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg" alt="宇宙像素疾走视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102515055116063144">宇宙像素疾走</a></strong><br><a href="https://x.com/riku720720">Rikuo @riku720720</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717687604633959">浏览器里的骑行</a></strong><br><a href="https://x.com/prasenx">@prasenx</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102849349122470205">Watch Claude Paint</a></strong><br><a href="https://x.com/petergyang">Peter Yang @petergyang</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -126,5 +131,17 @@
 - **原帖**：[查看作者原帖](https://x.com/prasenx/status/2102717687604633959)
 - **实现**：作者称使用 Opus 5.5 制作浏览器中的骑行场景；树木与声音均由代码生成，没有下载素材。
 - **提示词**：原帖正文未附提示词。
+
+<a id="case-2102849349122470205"></a>
+
+### Watch Claude Paint
+
+- **作者**：[Peter Yang @petergyang](https://x.com/petergyang)
+- **样片**：[观看 30 秒演示](https://x.com/petergyang/status/2102849349122470205) · [在线体验](https://claude.ai/artifact/9sZD4wrf1MpWACjg83hK4r)
+- **原帖**：[查看作者原帖](https://x.com/petergyang/status/2102849349122470205)
+- **内容**：上传照片后，观看 Claude 以莫奈、梵高等画风逐步绘画。
+- **实现**：作者称这是使用 Opus 5.5 制作的交互应用；原帖未说明绘制代码或图像处理的具体实现。
+- **教程**：[观看制作过程](https://www.youtube.com/watch?v=UhBqorWNwlU)
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)

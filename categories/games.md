@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 3 个案例。
+共 6 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -11,6 +11,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/uchita_success/status/2102656878035759230"><img src="https://pbs.twimg.com/amplify_video_thumb/2102656622363643904/img/lVxdHCaH7p7yCP7-.jpg" alt="开放世界 RPG 草原演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102656878035759230">开放世界 RPG 草原</a></strong><br><a href="https://x.com/uchita_success">うちた @uchita_success</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102834362530079093">Arkenfall</a></strong><br><a href="https://x.com/LexnLin">Leon Lin @LexnLin</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102865595675050010">像素上海：弄堂电台</a></strong><br><a href="https://x.com/ring_hyacinth">Ring Hyacinth @ring_hyacinth</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102831012686573744">火柴人游戏</a></strong><br><a href="https://x.com/notjazii">J A Z I I @notjazii</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/KanaWorks_AI/status/2102801635638673762"><img src="https://pbs.twimg.com/amplify_video_thumb/2102800706772303873/img/0CALjrjo3K9PbChE.jpg" alt="雨中的像素废庭视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102801635638673762">雨中的像素废庭</a></strong><br><a href="https://x.com/KanaWorks_AI">KANA @KanaWorks_AI</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/alin_zone/status/2102608618751508947"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607776010981376/img/cQ0kMaGCiTRK1_mk.jpg" alt="鹈鹕骑自行车演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102608618751508947">鹈鹕骑自行车</a></strong><br><a href="https://x.com/alin_zone">展示：@alin_zone</a></td>
 </tr>
 </table>
 
@@ -53,5 +58,38 @@
 - **内容**：主角小满在像素上海探索，收集关于这座城市的记忆。
 - **实现**：作者称以原作短片为素材，让 Opus 5.5 一次完成游戏改编；场景沿用原片的像素动画，角色和地图由 Opus 调用 Nano Banana Pro 生成，音乐与音效在网页中实时合成。
 - **提示词**：原帖概述了改编任务，未公开完整提示词。
+
+<a id="case-2102831012686573744"></a>
+
+### 火柴人游戏
+
+- **作者**：[J A Z I I @notjazii](https://x.com/notjazii)
+- **样片**：[观看约 114 秒演示](https://x.com/notjazii/status/2102831012686573744) · [在线试玩](https://stickman-opus-5-5-game.vercel.app/)
+- **原帖**：[查看作者原帖](https://x.com/notjazii/status/2102831012686573744)
+- **内容**：可自定义火柴人角色，并使用不同技能的可玩游戏。
+- **实现**：作者称使用 Opus 5.5 制作；该帖未说明游戏的具体技术栈。[此前的火柴人动画](https://x.com/notjazii/status/2102735082218004540)则明确提到单个 HTML 文件与 JavaScript，属于另一作品。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102801635638673762"></a>
+
+### 雨中的像素废庭
+
+- **作者**：[KANA @KanaWorks_AI](https://x.com/KanaWorks_AI)
+- **样片**：[观看约 57 秒演示](https://x.com/KanaWorks_AI/status/2102801635638673762)
+- **原帖**：[查看作者原帖](https://x.com/KanaWorks_AI/status/2102801635638673762)
+- **内容**：雨中的 2.5D 像素废庭，旅人、商人与骆驼围坐篝火旁；可添柴保火、查看商店。
+- **实现**：作者称使用 Opus 5.5 制作，画面结合像素美术与立体光照；原帖未公开技术栈或试玩地址。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102608618751508947"></a>
+
+### 鹈鹕骑自行车（出处待核对）
+
+- **作者**：待核对；[阿蔺 @alin_zone](https://x.com/alin_zone) 发布了这段演示，帖子未明确说明自己是原作者。
+- **样片**：[观看约 54 秒演示](https://x.com/alin_zone/status/2102608618751508947)
+- **展示帖**：[查看提供的帖子](https://x.com/alin_zone/status/2102608618751508947)；作者原帖与在线体验地址待核对。
+- **内容**：鹈鹕骑自行车的动画演示，展示帖称可在线体验。
+- **实现**：展示帖称使用 Opus 5.5 制作，并提及电影式运镜；具体技术栈未公开。
+- **提示词**：展示帖未公开制作提示词。
 
 [返回首页](../README.md)
