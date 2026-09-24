@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-13 cases.
+14 cases.
 
 ## Previews
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D Animation Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D Animation Experiment</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102458348511879448"><img src="https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg" alt="One-Prompt Blender Claymation preview, open post" width="100%"></a><br><strong><a href="#case-2102458348511879448">One-Prompt Blender Claymation</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102466523164274839"><img src="https://pbs.twimg.com/amplify_video_thumb/2102465460545675264/img/ILlgAuA7ctODSBai.jpg" alt="1906 San Francisco Market Street preview, open post" width="100%"></a><br><strong><a href="#case-2102466523164274839">1906 San Francisco Market Street</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley preview, open post" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -181,5 +181,18 @@
 - **About:** A claymation-style animation made in Blender.
 - **Implementation:** The creator says Opus 5.5 used Blender from a single prompt in Claude.ai. The post does not describe the Blender workflow or asset sources.
 - **Prompt:** The creator mentions a single prompt but does not publish its text.
+- **Related:** [1906 San Francisco Market Street](#case-2102466523164274839) by the same creator.
+
+<a id="case-2102466523164274839"></a>
+
+### 1906 San Francisco Market Street
+
+- **Creator:** [Alex Albert @alexalbert__](https://x.com/alexalbert__)
+- **Watch:** [Watch 8-second video](https://x.com/alexalbert__/status/2102466523164274839)
+- **Original post:** [Creator's post](https://x.com/alexalbert__/status/2102466523164274839)
+- **About:** A Blender reconstruction of San Francisco's Market Street before the 1906 earthquake. Historical accuracy is the creator's description, not independently verified here.
+- **Implementation:** The creator says Claude Opus 5.5 used Blender to build the world from one prompt, citing improved 3D modeling and visual understanding. The post does not describe asset sources or the detailed workflow.
+- **Prompt:** The creator mentions a single prompt but does not publish its text.
+- **Related:** [One-Prompt Blender Claymation](#case-2102458348511879448) by the same creator.
 
 [Back to home](../README.md)

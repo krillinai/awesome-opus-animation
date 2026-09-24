@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 13 个案例。
+共 14 个案例。
 
 ## 作品预览
 
@@ -27,7 +27,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D 动画实验</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102458348511879448"><img src="https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg" alt="一条提示词制作 Blender 黏土动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102458348511879448">一条提示词制作 Blender 黏土动画</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102466523164274839"><img src="https://pbs.twimg.com/amplify_video_thumb/2102465460545675264/img/ILlgAuA7ctODSBai.jpg" alt="1906 年旧金山市场街视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102466523164274839">1906 年旧金山市场街</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -182,5 +182,18 @@
 - **内容**：使用 Blender 制作黏土动画风格短片。
 - **实现**：作者称通过 Claude.ai 向 Opus 5.5 提出一条提示词，由模型使用 Blender 制作；原帖未进一步说明 Blender 工作流程或素材来源。
 - **提示词**：作者提到使用一条提示词，但未公开原文。
+- **相关作品**：[同作者制作的 1906 年旧金山市场街](#case-2102466523164274839)。
+
+<a id="case-2102466523164274839"></a>
+
+### 1906 年旧金山市场街
+
+- **作者**：[Alex Albert @alexalbert__](https://x.com/alexalbert__)
+- **样片**：[观看约 8 秒视频](https://x.com/alexalbert__/status/2102466523164274839)
+- **原帖**：[查看作者原帖](https://x.com/alexalbert__/status/2102466523164274839)
+- **内容**：以 1906 年地震前的旧金山 Market Street 为主题，用 Blender 重建街景。“历史准确”是作者的描述，本站未独立核实。
+- **实现**：作者称 Claude Opus 5.5 凭一条提示词制作了这个 3D 世界，并提到模型在 3D 建模和视觉理解上的改进；原帖未说明素材来源或具体制作流程。
+- **提示词**：作者提到使用一条提示词，但未公开原文。
+- **相关作品**：[同作者的 Blender 黏土动画](#case-2102458348511879448)。
 
 [返回首页](../README.zh-CN.md)
