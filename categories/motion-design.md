@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-6 cases.
+7 cases.
 
 ## Previews
 
@@ -13,6 +13,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="../assets/preview/videouse.png" alt="video-use Launch Video preview, open post" width="100%"></a><br><strong><a href="#case-2102984873351037161">video-use Launch Video</a></strong><br><a href="https://x.com/gregpr07">Gregor Zunic @gregpr07</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="../assets/preview/Applore.png" alt="Applore Product Promo preview, open post" width="100%"></a><br><strong><a href="#case-2102621064518160485">Applore Product Promo</a></strong><br><a href="https://x.com/decohack">viggo @decohack</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/rege_dev/status/2102498682931441977"><img src="../assets/preview/CoAnimator.png" alt="CoAnimator Animation Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102498682931441977">CoAnimator Animation Experiment</a></strong><br><a href="https://x.com/rege_dev">rege @rege_dev</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chhddavid/status/2102666619029999989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102666528537944064/img/rOixOZnZnxXfwvhN.jpg" alt="AI Employees Motion Video preview, open post" width="100%"></a><br><strong><a href="#case-2102666619029999989">AI Employees Motion Video</a></strong><br><a href="https://x.com/chhddavid">David Ch @chhddavid</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="Cocktail Recipe Motion Graphic preview, open post" width="240"></a><br><strong><a href="#case-2102853258582880547">Cocktail Recipe Motion Graphic</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
@@ -96,6 +101,18 @@
 - **Original post:** [Creator's post](https://x.com/developedbyed/status/2102789774461280370)
 - **About:** A short loss-screen animation comparison between Opus 5.5 and GPT-6 Astra.
 - **Implementation:** The post names the two models but does not explain their respective roles, tools, or workflow.
+- **Prompt:** Not public.
+
+<a id="case-2102666619029999989"></a>
+
+### AI Employees Motion Video
+
+- **Creator:** [David Ch @chhddavid](https://x.com/chhddavid)
+- **Watch:** [Watch 50-second video](https://x.com/chhddavid/status/2102666619029999989)
+- **Original post:** [Creator's post](https://x.com/chhddavid/status/2102666619029999989)
+- **Production time:** 19 minutes, according to the creator.
+- **About:** A motion-design video whose cover introduces AI Employees roles including engineer, copywriter, designer, and marketing.
+- **Implementation:** The creator says Opus 5.5 generated the video with only two changes. The post does not describe the animation stack or asset sources.
 - **Prompt:** Not public.
 
 [Back to home](../README.md)

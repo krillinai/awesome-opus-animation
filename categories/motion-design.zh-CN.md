@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 6 个案例。
+共 7 个案例。
 
 ## 作品预览
 
@@ -13,6 +13,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="../assets/preview/videouse.png" alt="video-use 发布短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102984873351037161">video-use 发布短片</a></strong><br><a href="https://x.com/gregpr07">Gregor Zunic @gregpr07</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="../assets/preview/Applore.png" alt="Applore 产品宣传片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102621064518160485">Applore 产品宣传片</a></strong><br><a href="https://x.com/decohack">viggo @decohack</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/rege_dev/status/2102498682931441977"><img src="../assets/preview/CoAnimator.png" alt="CoAnimator 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102498682931441977">CoAnimator 动画实验</a></strong><br><a href="https://x.com/rege_dev">rege @rege_dev</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chhddavid/status/2102666619029999989"><img src="https://pbs.twimg.com/amplify_video_thumb/2102666528537944064/img/rOixOZnZnxXfwvhN.jpg" alt="AI Employees 品牌动效视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102666619029999989">AI Employees 品牌动效</a></strong><br><a href="https://x.com/chhddavid">David Ch @chhddavid</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="鸡尾酒配方动效视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102853258582880547">鸡尾酒配方动效</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
@@ -98,6 +103,18 @@
 - **原帖**：[查看作者原帖](https://x.com/developedbyed/status/2102789774461280370)
 - **内容**：Opus 5.5 与 GPT-6 Astra 的失败界面动画对比。
 - **实现**：原帖只点名了两个模型，没有分别说明它们的制作任务、工具和流程。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102666619029999989"></a>
+
+### AI Employees 品牌动效
+
+- **作者**：[David Ch @chhddavid](https://x.com/chhddavid)
+- **样片**：[观看约 50 秒视频](https://x.com/chhddavid/status/2102666619029999989)
+- **原帖**：[查看作者原帖](https://x.com/chhddavid/status/2102666619029999989)
+- **制作耗时**：作者称 19 分钟。
+- **内容**：封面以 AI Employees 为主题，展示 Engineer、Copywriter、Designer 和 Marketing 等角色标签。
+- **实现**：作者称由 Opus 5.5 生成视频，只做了两次修改；原帖未说明动画技术栈或素材来源。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)
