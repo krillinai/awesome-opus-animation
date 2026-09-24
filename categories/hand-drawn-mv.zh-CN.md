@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 6 个案例。
+共 7 个案例。
 
 ## 作品预览
 
@@ -18,6 +18,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/Michaelzsguo/status/2102592355165782312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="美国 250 年沙画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102592355165782312">美国 250 年沙画</a></strong><br><a href="https://x.com/Michaelzsguo">Michael Guo @Michaelzsguo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102801274173587569">Claude Pop 重制 MV</a></strong><br><a href="https://x.com/donaldjewkes">donald @donaldjewkes</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ann_nnng/status/2102573127192727704"><img src="../assets/preview/NewZealandAcrylicAlbum.jpg" alt="新西兰旅行丙烯画册视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102573127192727704">新西兰旅行丙烯画册</a></strong><br><a href="https://x.com/ann_nnng">Ann Nguyen @ann_nnng</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/FKR_Icarus/status/2102711467191775625"><img src="../assets/preview/CityWindowsStarfield.jpg" alt="城市窗格与星海音乐短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102711467191775625">城市窗格与星海音乐短片</a></strong><br><a href="https://x.com/FKR_Icarus">发布：Ica.G @FKR_Icarus</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -94,5 +99,16 @@
 - **提示词**：[查看作者公开的完整原文](https://x.com/donaldjewkes/status/2102801469976248500)。核心要求是沿用原版音轨，重新制作音乐视频；可参考 K-pop、生成角色和场景、用 JavaScript 动画增强画面，并反复检查构图、歌词同步与最终成片。
 
 注：提示词依赖原视频、音轨及作者工作区中的资源和工具，不能只凭文字独立复现。原版发布于 Opus 5.5 之前；此处收录的是新版。
+
+<a id="case-2102711467191775625"></a>
+
+### 城市窗格与星海音乐短片
+
+- **发布者**：[Ica.G @FKR_Icarus](https://x.com/FKR_Icarus)；原帖未明确说明画面的人工创作者是谁。
+- **样片**：[观看约 4 分 45 秒视频](https://x.com/FKR_Icarus/status/2102711467191775625)
+- **原帖**：[查看帖子](https://x.com/FKR_Icarus/status/2102711467191775625)
+- **内容**：两个人物光影穿行于公寓窗格之间，在日食般的圆洞下相遇，随后进入星海。
+- **实现**：原帖称画面由 Opus 5.5 纯代码实现，歌曲使用 Suno 制作；代码、具体技术栈与制作耗时均未公开。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)

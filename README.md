@@ -4,7 +4,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![87 cases](https://img.shields.io/badge/cases-87-0969da)](#categories)
+[![88 cases](https://img.shields.io/badge/cases-88-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -61,7 +61,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Hand-Drawn Animation & Music Videos](categories/hand-drawn-mv.md)
 
-6 cases
+7 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop Remake Music Video preview, open post" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102801274173587569">Claude Pop Remake Music Video</a></td>

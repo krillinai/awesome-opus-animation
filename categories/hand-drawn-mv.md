@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-6 cases.
+7 cases.
 
 ## Previews
 
@@ -18,6 +18,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/Michaelzsguo/status/2102592355165782312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="250 Years of U.S. History in Sand Animation preview, open post" width="100%"></a><br><strong><a href="#case-2102592355165782312">250 Years of U.S. History in Sand Animation</a></strong><br><a href="https://x.com/Michaelzsguo">Michael Guo @Michaelzsguo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop Remake Music Video preview, open post" width="100%"></a><br><strong><a href="#case-2102801274173587569">Claude Pop Remake Music Video</a></strong><br><a href="https://x.com/donaldjewkes">donald @donaldjewkes</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ann_nnng/status/2102573127192727704"><img src="../assets/preview/NewZealandAcrylicAlbum.jpg" alt="New Zealand Acrylic-Style Travel Album preview, open post" width="100%"></a><br><strong><a href="#case-2102573127192727704">New Zealand Acrylic-Style Travel Album</a></strong><br><a href="https://x.com/ann_nnng">Ann Nguyen @ann_nnng</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/FKR_Icarus/status/2102711467191775625"><img src="../assets/preview/CityWindowsStarfield.jpg" alt="City Windows and Starfield Music Video preview, open post" width="100%"></a><br><strong><a href="#case-2102711467191775625">City Windows and Starfield Music Video</a></strong><br><a href="https://x.com/FKR_Icarus">Posted by Ica.G @FKR_Icarus</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -95,5 +100,16 @@ The video thumbnail supplied by X is the blank opening frame; open the post to s
 - **Prompt:** The [full prompt](https://x.com/donaldjewkes/status/2102801469976248500) is public. It calls for a new video on the original soundtrack, with repeated checks of framing, lyrics, and final output.
 
 The [original video](https://x.com/slimer48484/status/2097752569212756134) predates Opus 5.5. This entry covers the remake.
+
+<a id="case-2102711467191775625"></a>
+
+### City Windows and Starfield Music Video
+
+- **Posted by:** [Ica.G @FKR_Icarus](https://x.com/FKR_Icarus). The post does not explicitly identify the human creator of the visuals.
+- **Watch:** [Watch the 4-minute-45-second video](https://x.com/FKR_Icarus/status/2102711467191775625)
+- **Original post:** [View post](https://x.com/FKR_Icarus/status/2102711467191775625)
+- **About:** Two luminous figures move among apartment windows, meet beneath an eclipse-like opening, and drift into a starfield.
+- **Implementation:** The post says Opus 5.5 made the visuals entirely in code and the song was made with Suno. The code, exact stack, and production time were not published.
+- **Prompt:** Not public.
 
 [Back to home](../README.md)
