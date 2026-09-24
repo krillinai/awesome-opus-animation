@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-13 cases (one creator attribution remains unverified).
+14 cases (one creator attribution remains unverified).
 
 ## Previews
 
@@ -31,7 +31,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="../assets/preview/antikythera.png" alt="Antikythera Mechanism Game preview, open post" width="100%"></a><br><strong><a href="#case-2102463453176979794">Antikythera Mechanism Game</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/_MaxBlade/status/2102513817855094922"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513139124244480/img/ZNe0K2GOw_rM50mW.jpg" alt="Multiplayer Lawn-Mowing Simulator preview, open post" width="100%"></a><br><strong><a href="#case-2102513817855094922">Multiplayer Lawn-Mowing Simulator</a></strong><br><a href="https://x.com/_MaxBlade">Max Blade @_MaxBlade</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -191,5 +191,16 @@ A [different author's SVG/H5 prompt experiment](code-animation.md#case-210303362
 - **About:** A playable harpoon-fishing game.
 - **Implementation:** The creator says Opus 5.5 produced most of it after one prompt, with later fixes and polish. It used about 16% of a ¥3,000 plan allowance; the technical stack was not disclosed.
 - **Prompt:** The initial prompt text is not public.
+
+<a id="case-2102513817855094922"></a>
+
+### Multiplayer Lawn-Mowing Simulator
+
+- **Creator:** [Max Blade @_MaxBlade](https://x.com/_MaxBlade)
+- **Watch:** [Watch 37-second video](https://x.com/_MaxBlade/status/2102513817855094922)
+- **Original post:** [Creator's post](https://x.com/_MaxBlade/status/2102513817855094922)
+- **About:** A multiplayer lawn-mowing simulator that the creator describes as featuring beer and cigars.
+- **Implementation:** The creator says Opus 5.5 built the game and that they ran it live on their server for chat participants to join. The post does not provide a public play link or technical stack.
+- **Prompt:** Not public.
 
 [Back to home](../README.md)
