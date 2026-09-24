@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-7 cases.
+8 cases.
 
 ## Previews
 
@@ -21,12 +21,23 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/akokoi1/status/2102583898865873225"><img src="https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg" alt="Five Millennia of Chinese History preview, open post" width="100%"></a><br><strong><a href="#case-2102583898865873225">Five Millennia of Chinese History</a></strong><br><a href="https://x.com/akokoi1">WY @akokoi1</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/andrewjiang/status/2102987981695132140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987203840466944/img/tlvgCuJLSqSy2piZ.jpg" alt="The Steep Part preview, open post" width="100%"></a><br><strong><a href="#case-2102987981695132140">The Steep Part: The Next 50 Years of AI</a></strong><br><a href="https://x.com/andrewjiang">Andrew Jiang @andrewjiang</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
 ## Case Details
+
+<a id="case-2102987981695132140"></a>
+
+### The Steep Part: The Next 50 Years of AI
+
+- **Creator:** [Andrew Jiang @andrewjiang](https://x.com/andrewjiang)
+- **Watch:** [Watch the four-minute video](https://x.com/andrewjiang/status/2102987981695132140)
+- **Original post:** [Creator's post](https://x.com/andrewjiang/status/2102987981695132140)
+- **About:** An illustrated forecast of AI's next 50 years. The creator describes a difficult transition but an optimistic destination.
+- **Implementation:** The creator says Opus 5.5 made the video; the post does not disclose the animation stack or production workflow.
+- **Prompt:** The post describes the task as predicting the next 50 years, but does not publish the full prompt.
 
 <a id="case-2102779758408774104"></a>
 

@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 7 个案例。
+共 8 个案例。
 
 ## 作品预览
 
@@ -21,12 +21,23 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/akokoi1/status/2102583898865873225"><img src="https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg" alt="中华上下五千年速览视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102583898865873225">中华上下五千年速览</a></strong><br><a href="https://x.com/akokoi1">WY @akokoi1</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/andrewjiang/status/2102987981695132140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987203840466944/img/tlvgCuJLSqSy2piZ.jpg" alt="The Steep Part：未来 50 年的 AI 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102987981695132140">The Steep Part：未来 50 年的 AI</a></strong><br><a href="https://x.com/andrewjiang">Andrew Jiang @andrewjiang</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2102987981695132140"></a>
+
+### The Steep Part：未来 50 年的 AI
+
+- **作者**：[Andrew Jiang @andrewjiang](https://x.com/andrewjiang)
+- **样片**：[观看约 4 分钟视频](https://x.com/andrewjiang/status/2102987981695132140)
+- **原帖**：[查看作者原帖](https://x.com/andrewjiang/status/2102987981695132140)
+- **内容**：以插画动画推演未来 50 年的 AI 发展。作者认为过渡阶段可能艰难，但对最终结果持乐观态度。
+- **实现**：作者称让 Opus 5.5 制作视频；原帖未公开动画技术栈或具体制作流程。
+- **提示词**：原帖只概述了“预测未来 50 年”的任务，没有公开完整提示词。
 
 <a id="case-2102779758408774104"></a>
 
