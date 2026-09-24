@@ -8,7 +8,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102681172367323300">Claude 的卡通剪辑台</a></strong><br><a href="https://x.com/NFT_Chen">SuSu_酥酥 @NFT_Chen</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="../assets/preview/ClaudeCut.png" alt="Claude 的卡通剪辑台视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102681172367323300">Claude 的卡通剪辑台</a></strong><br><a href="https://x.com/NFT_Chen">SuSu_酥酥 @NFT_Chen</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102501773705670994">Steam Song（交互式定格动画）</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 </tr>
