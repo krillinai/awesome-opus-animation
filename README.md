@@ -20,7 +20,7 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
 </tr><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102831012686573744">火柴人游戏</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/rehan_shei/status/2102794467032154206"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794208411258880/img/lXnJGoj4AMOlb2cZ.jpg" alt="代码生成的 2D 像素游戏场景视频封面" width="100%"></a><br><a href="categories/games.md#case-2102794467032154206">代码生成的 2D 像素游戏场景</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/The_Alex/status/2102440678282412195"><img src="assets/preview/DarkSouls.png" alt="Dark Souls 风格游戏演示视频封面" width="100%"></a><br><a href="categories/games.md#case-2102440678282412195">Dark Souls 风格游戏演示</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102773498037023140">鱼叉捕鱼游戏</a></td>
 </tr></table>
 
