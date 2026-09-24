@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 9 个案例。
+共 10 个案例。
 
 ## 作品预览
 
@@ -21,6 +21,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2102878170089169235"><img src="https://pbs.twimg.com/amplify_video_thumb/2102872839665684480/img/bzyRARet5UjpSWwu.jpg" alt="交互式岛屿生态演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102878170089169235">交互式岛屿生态</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/studio_veco/status/2102684366996738511"><img src="https://pbs.twimg.com/amplify_video_thumb/2102682973292384256/img/4SLo7FdsR6xC_4Eg.jpg" alt="Powapowa Village 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102684366996738511">Powapowa Village（ぽわぽわむら）</a></strong><br><a href="https://x.com/studio_veco">Studio Veco @studio_veco</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/techartist_/status/2102503719762018434"><img src="https://pbs.twimg.com/amplify_video_thumb/2102503194777759744/img/UjVmRn2r4o9Lz1w1.jpg" alt="从草图到住宅的 3D 建筑演化视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102503719762018434">从草图到住宅</a></strong><br><a href="https://x.com/techartist_">Techartist @techartist_</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102487989381156991"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487325448028160/img/1VjQhxd0hHv7r2oD.jpg" alt="Blender 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102487989381156991">Blender 动画实验</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -128,6 +133,16 @@
 - **原帖**：[查看作者原帖](https://x.com/techartist_/status/2102503719762018434)
 - **内容**：建筑从线稿、体块、细节逐步演化为完整住宅。
 - **实现**：作者称使用 Claude Opus 5.5、Three.js 与 TSL 构建 3D 场景；原帖未公开源码。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102487989381156991"></a>
+
+### Blender 动画实验
+
+- **作者**：[Alexey Fateev @superalesha](https://x.com/superalesha)
+- **样片**：[观看 61 秒视频](https://x.com/superalesha/status/2102487989381156991)
+- **原帖**：[查看作者原帖](https://x.com/superalesha/status/2102487989381156991)
+- **实现**：作者称使用 Opus 5.5 在 Blender 中制作；原帖未说明具体画面主题、制作流程或素材来源。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)

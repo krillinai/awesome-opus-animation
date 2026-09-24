@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 6 个案例（其中 1 个原作者待核对）。
+共 7 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -16,6 +16,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102831012686573744">火柴人游戏</a></strong><br><a href="https://x.com/notjazii">J A Z I I @notjazii</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/KanaWorks_AI/status/2102801635638673762"><img src="https://pbs.twimg.com/amplify_video_thumb/2102800706772303873/img/0CALjrjo3K9PbChE.jpg" alt="雨中的像素废庭视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102801635638673762">雨中的像素废庭</a></strong><br><a href="https://x.com/KanaWorks_AI">KANA @KanaWorks_AI</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alin_zone/status/2102608618751508947"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607776010981376/img/cQ0kMaGCiTRK1_mk.jpg" alt="鹈鹕骑自行车演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102608618751508947">鹈鹕骑自行车</a></strong><br><a href="https://x.com/alin_zone">展示：@alin_zone</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -91,5 +96,16 @@
 - **内容**：鹈鹕骑自行车的动画演示，展示帖称可在线体验。
 - **实现**：展示帖称使用 Opus 5.5 制作，并提及电影式运镜；具体技术栈未公开。
 - **提示词**：展示帖未公开制作提示词。
+
+<a id="case-2102463453176979794"></a>
+
+### 安提基特拉机械游戏
+
+- **作者**：[edwin @edwinarbus](https://x.com/edwinarbus)
+- **样片**：[观看约 60 秒演示](https://x.com/edwinarbus/status/2102463453176979794)
+- **原帖**：[查看作者原帖](https://x.com/edwinarbus/status/2102463453176979794)
+- **内容**：以安提基特拉机械的发现为灵感制作的可玩游戏。
+- **实现**：作者称由 Opus 5.5 编写代码，画面和声音实时程序生成，作品封装在约 3 MB 的单个 HTML 文件中。原帖称可玩的 Claude Artifact 链接在回复里，直达地址待核对。
+- **提示词**：原帖概述了游戏主题，未公开完整提示词。
 
 [返回首页](../README.md)

@@ -46,7 +46,7 @@
 
 ### [3D 场景与交互](categories/3d-scenes.md)
 
-9 个案例
+10 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>
@@ -56,7 +56,7 @@
 
 ### [游戏与可玩动画](categories/games.md)
 
-6 个案例
+7 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alin_zone/status/2102608618751508947"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607776010981376/img/cQ0kMaGCiTRK1_mk.jpg" alt="鹈鹕骑自行车演示视频封面" width="100%"></a><br><a href="categories/games.md#case-2102608618751508947">鹈鹕骑自行车</a></td>
@@ -76,7 +76,7 @@
 
 ### [动效与品牌设计](categories/motion-design.md)
 
-4 个案例
+5 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="https://pbs.twimg.com/amplify_video_thumb/2102984006224728064/img/j6OMvuoA6XYlK8dr.jpg" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use 发布短片</a></td>

@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 4 个案例。
+共 5 个案例。
 
 ## 作品预览
 
@@ -14,6 +14,11 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Lucas_IA_/status/2102757164158689759"><img src="https://pbs.twimg.com/amplify_video_thumb/2102754518844719104/img/SHIqZ0b5ZXT-9vSM.jpg" alt="竖屏广告动画视频封面，点击观看" width="180"></a><br><strong><a href="#case-2102757164158689759">JavaScript 绘制的竖屏广告</a></strong><br><a href="https://x.com/Lucas_IA_">Lucas | Ecom IA @Lucas_IA_</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/rege_dev/status/2102498682931441977"><img src="https://pbs.twimg.com/amplify_video_thumb/2102496943482286080/img/PLe0DphFYW1ydpq_.jpg" alt="CoAnimator 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102498682931441977">CoAnimator 动画实验</a></strong><br><a href="https://x.com/rege_dev">rege @rege_dev</a></td>
 <td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
@@ -70,5 +75,16 @@
 > We're going to try a little test. Do you think you could render a recipe motion graphic animation using javascript or html (w/e you think will produce the best) to show the full recipe from start to finish (empty glass to completed cocktail) - Explainer video style - Showing the recipe ingreidents + measurements as they're going into the cup. Should be a 30s video.
 
 注：提示词中的配方信息依赖作者提供的参考图，单独使用这段文字无法复现相同内容。
+
+<a id="case-2102498682931441977"></a>
+
+### CoAnimator 动画实验
+
+- **作者**：[rege @rege_dev](https://x.com/rege_dev)
+- **样片**：[观看约 50 秒演示](https://x.com/rege_dev/status/2102498682931441977)
+- **原帖**：[查看作者原帖](https://x.com/rege_dev/status/2102498682931441977)
+- **内容**：展示动画、时间轴、音效和环境音的组合效果。
+- **实现**：作者称使用 Claude Opus 5.5 与 CoAnimator 应用完成，经过几次提示；原帖未说明具体动画技术栈。
+- **提示词**：原帖未公开提示词原文。
 
 [返回首页](../README.md)
