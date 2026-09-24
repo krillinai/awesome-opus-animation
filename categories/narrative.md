@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-12 cases.
+13 cases.
 
 ## Previews
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="../assets/preview/claudesplan.png" alt="Claude's Plan preview, open post" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="The Meaning of Life preview, open post" width="100%"></a><br><strong><a href="#case-2102591280538644596">The Meaning of Life</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/pleometric/status/2103082510607610023"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081744408657920/img/AqJ7e2EYc2kKdp9C.jpg" alt="Pleometric's Opus 5.5 Short preview, open post" width="100%"></a><br><strong><a href="#case-2103082510607610023">Pleometric's Opus 5.5 Short</a></strong><br><a href="https://x.com/pleometric">Pleometric @pleometric</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What Do You Love? preview, open post" width="240"></a><br><strong><a href="#case-2102437977435893771">What Do You Love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
@@ -177,5 +177,16 @@
 - **About:** A short animated film about the question 'What is the meaning of life?'
 - **Implementation:** The creator says Opus 5.5 made the entire work, but does not specify how visuals or sound were produced.
 - **Prompt:** Only the theme question was published, not a full production prompt.
+
+<a id="case-2103082510607610023"></a>
+
+### Pleometric's Opus 5.5 Short
+
+- **Creator:** [Pleometric @pleometric](https://x.com/pleometric)
+- **Watch:** [Watch video](https://x.com/pleometric/status/2103082510607610023)
+- **Original post:** [Creator's post](https://x.com/pleometric/status/2103082510607610023)
+- **About:** A roughly two-and-a-half-minute animated short testing Opus 5.5's limits.
+- **Implementation:** The creator says they followed the general workflow in [Donald Jewkes's Opus 5.5 video](https://x.com/donaldjewkes/status/2102801274173587569). This post does not disclose the specific tools, assets, or production time for Pleometric's work.
+- **Prompt:** Not public.
 
 [Back to home](../README.md)

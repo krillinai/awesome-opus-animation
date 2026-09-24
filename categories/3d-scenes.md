@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-12 cases.
+13 cases.
 
 ## Previews
 
@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D Animation Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D Animation Experiment</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102458348511879448"><img src="https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg" alt="One-Prompt Blender Claymation preview, open post" width="100%"></a><br><strong><a href="#case-2102458348511879448">One-Prompt Blender Claymation</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -170,5 +170,16 @@
 - **Original post:** [Creator's post](https://x.com/seftsaint/status/2102771402210476533)
 - **Implementation:** The creator says GPT-6 Luna handled this 3D work and could take on some work previously assigned to Astra with fewer tokens. The stack and workflow were not disclosed.
 - **Prompt:** Not public.
+
+<a id="case-2102458348511879448"></a>
+
+### One-Prompt Blender Claymation
+
+- **Creator:** [Alex Albert @alexalbert__](https://x.com/alexalbert__)
+- **Watch:** [Watch video](https://x.com/alexalbert__/status/2102458348511879448)
+- **Original post:** [Creator's post](https://x.com/alexalbert__/status/2102458348511879448)
+- **About:** A claymation-style animation made in Blender.
+- **Implementation:** The creator says Opus 5.5 used Blender from a single prompt in Claude.ai. The post does not describe the Blender workflow or asset sources.
+- **Prompt:** The creator mentions a single prompt but does not publish its text.
 
 [Back to home](../README.md)

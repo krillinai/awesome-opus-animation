@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-5 cases.
+6 cases.
 
 ## Previews
 
@@ -17,7 +17,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus preview, open post" width="100%"></a><br><strong><a href="#case-2102591147927654847">The Plane of Focus</a></strong><br><a href="https://x.com/RyanSael">Ryan Sael @RyanSael</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="../assets/preview/ClaudeHistory.png" alt="History of Claude Models preview, open post" width="100%"></a><br><strong><a href="#case-2102463796149440888">History of Claude Models</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/addyosmani/status/2103009037164110327"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg" alt="How Browsers Work in 40 Seconds preview, open post" width="100%"></a><br><strong><a href="#case-2103009037164110327">How Browsers Work in 40 Seconds</a></strong><br><a href="https://x.com/addyosmani">Addy Osmani @addyosmani</a></td>
 </tr>
 </table>
 
@@ -78,5 +78,16 @@
 - **About:** An animated timeline of the Claude model family.
 - **Implementation:** The creator says Opus 5.5 made it with pure JavaScript and a custom hand-drawn Canvas animation skill.
 - **Prompt:** The post describes the topic but does not publish the full prompt.
+
+<a id="case-2103009037164110327"></a>
+
+### How Browsers Work in 40 Seconds
+
+- **Creator:** [Addy Osmani @addyosmani](https://x.com/addyosmani)
+- **Watch:** [Watch 40-second video](https://x.com/addyosmani/status/2103009037164110327)
+- **Original post:** [Creator's post](https://x.com/addyosmani/status/2103009037164110327)
+- **About:** A short animated explanation of how browsers work.
+- **Implementation:** The creator says Claude Opus 5.5 drew every frame in JavaScript. The post does not give a more detailed workflow or stack.
+- **Prompt:** Not public.
 
 [Back to home](../README.md)

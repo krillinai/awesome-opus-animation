@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-5 cases.
+6 cases.
 
 ## Previews
 
@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="Cocktail Recipe Motion Graphic preview, open post" width="240"></a><br><strong><a href="#case-2102853258582880547">Cocktail Recipe Motion Graphic</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/developedbyed/status/2102789774461280370"><img src="https://pbs.twimg.com/amplify_video_thumb/2102789636888096769/img/eYGhadjQViv6GDFv.jpg" alt="Opus 5.5 vs GPT-6 Astra Loss Screen preview, open post" width="240"></a><br><strong><a href="#case-2102789774461280370">Opus 5.5 vs GPT-6 Astra Loss Screen</a></strong><br><a href="https://x.com/developedbyed">Dev Ed @developedbyed</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -85,6 +85,17 @@
 - **Original post:** [Creator's post](https://x.com/rege_dev/status/2102498682931441977)
 - **About:** A demonstration of animation, timeline editing, sound effects, and ambient sound.
 - **Implementation:** The creator says it was made with Opus 5.5 and the CoAnimator app over several prompts. The exact animation stack was not disclosed.
+- **Prompt:** Not public.
+
+<a id="case-2102789774461280370"></a>
+
+### Opus 5.5 vs GPT-6 Astra Loss Screen
+
+- **Creator:** [Dev Ed @developedbyed](https://x.com/developedbyed)
+- **Watch:** [Watch video](https://x.com/developedbyed/status/2102789774461280370)
+- **Original post:** [Creator's post](https://x.com/developedbyed/status/2102789774461280370)
+- **About:** A short loss-screen animation comparison between Opus 5.5 and GPT-6 Astra.
+- **Implementation:** The post names the two models but does not explain their respective roles, tools, or workflow.
 - **Prompt:** Not public.
 
 [Back to home](../README.md)

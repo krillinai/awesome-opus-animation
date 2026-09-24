@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 5 个案例。
+共 6 个案例。
 
 ## 作品预览
 
@@ -16,7 +16,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="鸡尾酒配方动效视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102853258582880547">鸡尾酒配方动效</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/developedbyed/status/2102789774461280370"><img src="https://pbs.twimg.com/amplify_video_thumb/2102789636888096769/img/eYGhadjQViv6GDFv.jpg" alt="Opus 5.5 与 GPT-6 Astra 失败界面动效视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102789774461280370">Opus 5.5 与 GPT-6 Astra 失败界面动效</a></strong><br><a href="https://x.com/developedbyed">Dev Ed @developedbyed</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -88,5 +88,16 @@
 - **内容**：展示动画、时间轴、音效和环境音的组合效果。
 - **实现**：作者称使用 Claude Opus 5.5 与 CoAnimator 应用完成，经过几次提示；原帖未说明具体动画技术栈。
 - **提示词**：原帖未公开提示词原文。
+
+<a id="case-2102789774461280370"></a>
+
+### Opus 5.5 与 GPT-6 Astra 失败界面动效
+
+- **作者**：[Dev Ed @developedbyed](https://x.com/developedbyed)
+- **样片**：[观看视频](https://x.com/developedbyed/status/2102789774461280370)
+- **原帖**：[查看作者原帖](https://x.com/developedbyed/status/2102789774461280370)
+- **内容**：Opus 5.5 与 GPT-6 Astra 的失败界面动画对比。
+- **实现**：原帖只点名了两个模型，没有分别说明它们的制作任务、工具和流程。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)

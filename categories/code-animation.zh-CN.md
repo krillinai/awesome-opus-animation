@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 15 个案例。
+共 17 个案例。
 
 ## 作品预览
 
@@ -28,6 +28,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/shitunote/status/2103033624463585327"><img src="https://pbs.twimg.com/amplify_video_thumb/2103032111024537600/img/zXNuubyWqGtUWCQx.jpg" alt="鹈鹕骑行 SVG 动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103033624463585327">鹈鹕骑行 SVG 动画</a></strong><br><a href="https://x.com/shitunote">马识途 @shitunote</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dhruvalgolakiya/status/2102733714845491558"><img src="https://pbs.twimg.com/amplify_video_thumb/2102732320851763200/img/vs-xPt29ZRLAo9Aw.jpg" alt="Opus 5.5 两分钟有声动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102733714845491558">Opus 5.5 两分钟有声动画</a></strong><br><a href="https://x.com/dhruvalgolakiya">Dhruval @dhruvalgolakiya</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HugoDuprez/status/2102746041250705890"><img src="https://pbs.twimg.com/amplify_video_thumb/2102741943729938432/img/n3Ll22rg9AQF9Rjv.jpg" alt="Opus 像素场景实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102746041250705890">Opus 像素场景实验</a></strong><br><a href="https://x.com/HugoDuprez">Hugo Duprez @HugoDuprez</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102478640428773861"><img src="https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg" alt="Opus 5.5 想象攻克难题视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102478640428773861">Opus 5.5 想象攻克难题</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/victormustar/status/2102707412704919910"><img src="https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg" alt="程序绘制的像素奔马视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102707412704919910">程序绘制的像素奔马</a></strong><br><a href="https://x.com/victormustar">Victor M @victormustar</a></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -211,6 +216,28 @@
 - **原帖**：[查看作者原帖](https://x.com/HugoDuprez/status/2102746041250705890)
 - **内容**：像素风场景动画。
 - **实现**：作者称使用 Opus 5.5 生成；原帖未说明具体技术栈或素材来源。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102478640428773861"></a>
+
+### Opus 5.5 想象攻克难题
+
+- **作者**：[Chetaslua @chetaslua](https://x.com/chetaslua)
+- **样片**：[观看 30 秒视频](https://x.com/chetaslua/status/2102478640428773861)
+- **原帖**：[查看作者原帖](https://x.com/chetaslua/status/2102478640428773861)
+- **内容**：以 Opus 5.5 想象解决难题为主题的动画。
+- **实现**：作者称作品由 Claude Opus 5.5 完全用代码制作；原帖未说明具体动画技术栈。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102707412704919910"></a>
+
+### 程序绘制的像素奔马
+
+- **作者**：[Victor M @victormustar](https://x.com/victormustar)
+- **样片**：[观看 10 秒视频](https://x.com/victormustar/status/2102707412704919910)
+- **原帖**：[查看作者原帖](https://x.com/victormustar/status/2102707412704919910)
+- **内容**：一匹以 128 × 96 像素画面逐帧程序绘制的奔马。
+- **实现**：作者称 Opus 5.5 制作了单文件 HTML，使用原生 JavaScript 和 Canvas 2D，没有图片或库；马腿关节由逆向运动学驱动，奔跑循环包含 12 个姿态。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)

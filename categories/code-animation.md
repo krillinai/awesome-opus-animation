@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-15 cases.
+17 cases.
 
 ## Previews
 
@@ -28,6 +28,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/shitunote/status/2103033624463585327"><img src="https://pbs.twimg.com/amplify_video_thumb/2103032111024537600/img/zXNuubyWqGtUWCQx.jpg" alt="Cycling Pelican SVG Animation preview, open post" width="100%"></a><br><strong><a href="#case-2103033624463585327">Cycling Pelican SVG Animation</a></strong><br><a href="https://x.com/shitunote">马识途 @shitunote</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dhruvalgolakiya/status/2102733714845491558"><img src="https://pbs.twimg.com/amplify_video_thumb/2102732320851763200/img/vs-xPt29ZRLAo9Aw.jpg" alt="Two-Minute Opus 5.5 Animation with Sound preview, open post" width="100%"></a><br><strong><a href="#case-2102733714845491558">Two-Minute Opus 5.5 Animation with Sound</a></strong><br><a href="https://x.com/dhruvalgolakiya">Dhruval @dhruvalgolakiya</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HugoDuprez/status/2102746041250705890"><img src="https://pbs.twimg.com/amplify_video_thumb/2102741943729938432/img/n3Ll22rg9AQF9Rjv.jpg" alt="Opus Pixel Scene Experiment preview, open post" width="100%"></a><br><strong><a href="#case-2102746041250705890">Opus Pixel Scene Experiment</a></strong><br><a href="https://x.com/HugoDuprez">Hugo Duprez @HugoDuprez</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102478640428773861"><img src="https://pbs.twimg.com/amplify_video_thumb/2102478162211098624/img/xJ1VAsGDQKYrLUaj.jpg" alt="Opus Imagines Solving Hard Problems preview, open post" width="100%"></a><br><strong><a href="#case-2102478640428773861">Opus Imagines Solving Hard Problems</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/victormustar/status/2102707412704919910"><img src="https://pbs.twimg.com/amplify_video_thumb/2102707356932993024/img/eRYCNlEvczUBPd03.jpg" alt="Procedural Pixel Horse Gallop preview, open post" width="100%"></a><br><strong><a href="#case-2102707412704919910">Procedural Pixel Horse Gallop</a></strong><br><a href="https://x.com/victormustar">Victor M @victormustar</a></td>
+<td width="33%" valign="top"></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -216,6 +221,28 @@ The post also quotes a prompt for a different 3D pelican video. That is not this
 - **Original post:** [Creator's post](https://x.com/HugoDuprez/status/2102746041250705890)
 - **About:** A short pixel-style scene.
 - **Implementation:** The creator says Opus 5.5 generated it. The stack and asset sources were not disclosed.
+- **Prompt:** Not public.
+
+<a id="case-2102478640428773861"></a>
+
+### Opus Imagines Solving Hard Problems
+
+- **Creator:** [Chetaslua @chetaslua](https://x.com/chetaslua)
+- **Watch:** [Watch 30-second video](https://x.com/chetaslua/status/2102478640428773861)
+- **Original post:** [Creator's post](https://x.com/chetaslua/status/2102478640428773861)
+- **About:** An animation of Opus 5.5 imagining how to solve difficult problems.
+- **Implementation:** The creator describes the work as made entirely in code with Claude Opus 5.5; the post does not specify the animation stack.
+- **Prompt:** Not public.
+
+<a id="case-2102707412704919910"></a>
+
+### Procedural Pixel Horse Gallop
+
+- **Creator:** [Victor M @victormustar](https://x.com/victormustar)
+- **Watch:** [Watch 10-second video](https://x.com/victormustar/status/2102707412704919910)
+- **Original post:** [Creator's post](https://x.com/victormustar/status/2102707412704919910)
+- **About:** A galloping horse drawn procedurally at 128 × 96 pixels.
+- **Implementation:** The creator says Opus 5.5 made a self-contained HTML file using vanilla JavaScript and Canvas 2D, with no images or libraries. Articulated legs use inverse kinematics and a 12-pose gallop cycle.
 - **Prompt:** Not public.
 
 [Back to home](../README.md)

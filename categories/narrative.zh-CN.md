@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 12 个案例。
+共 13 个案例。
 
 ## 作品预览
 
@@ -22,7 +22,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="../assets/preview/claudesplan.png" alt="Claude's Plan 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717699600368045">Claude's Plan</a></strong><br><a href="https://x.com/chetaslua">Chetaslua @chetaslua</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/HarveenChadha/status/2102591280538644596"><img src="https://pbs.twimg.com/amplify_video_thumb/2102507479645229056/img/86sCKliemCajZtO8.jpg" alt="生命的意义短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591280538644596">生命的意义</a></strong><br><a href="https://x.com/HarveenChadha">Harveen Singh Chadha @HarveenChadha</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/pleometric/status/2103082510607610023"><img src="https://pbs.twimg.com/amplify_video_thumb/2103081744408657920/img/AqJ7e2EYc2kKdp9C.jpg" alt="Pleometric 的 Opus 5.5 短片视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103082510607610023">Pleometric 的 Opus 5.5 短片</a></strong><br><a href="https://x.com/pleometric">Pleometric @pleometric</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/kevin_t_ngo/status/2102437977435893771"><img src="https://pbs.twimg.com/amplify_video_thumb/2102437792425070592/img/H7fyRYmlzFr2osoV.jpg" alt="What do you love? 视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102437977435893771">What do you love?</a></strong><br><a href="https://x.com/kevin_t_ngo">@kevin_t_ngo</a></td>
@@ -178,5 +178,16 @@
 - **内容**：围绕“生命的意义是什么”展开的动画短片。
 - **实现**：作者称作品完全由 Opus 5.5 制作；原帖未说明画面、声音的具体制作方式。
 - **提示词**：原帖只给出主题问题，未公开完整制作提示词。
+
+<a id="case-2103082510607610023"></a>
+
+### Pleometric 的 Opus 5.5 短片
+
+- **作者**：[Pleometric @pleometric](https://x.com/pleometric)
+- **样片**：[观看约两分半视频](https://x.com/pleometric/status/2103082510607610023)
+- **原帖**：[查看作者原帖](https://x.com/pleometric/status/2103082510607610023)
+- **内容**：测试 Opus 5.5 能力的动画短片。
+- **实现**：作者称参考了 [Donald Jewkes 的 Opus 5.5 视频](https://x.com/donaldjewkes/status/2102801274173587569)所述的一般流程；这条帖子未公开本片具体使用的工具、素材或制作耗时。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)

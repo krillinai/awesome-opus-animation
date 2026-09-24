@@ -4,7 +4,7 @@
 
 [English](README.md) | **简体中文**
 
-[![67 个案例](https://img.shields.io/badge/cases-67-0969da)](#分类)
+[![73 个案例](https://img.shields.io/badge/cases-73-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -37,7 +37,7 @@
 
 ### [代码动画与视觉实验](categories/code-animation.zh-CN.md)
 
-15 个案例
+17 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.zh-CN.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
@@ -51,7 +51,7 @@
 
 ### [叙事短片与角色动画](categories/narrative.zh-CN.md)
 
-12 个案例
+13 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="100%"></a><br><a href="categories/narrative.zh-CN.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a></td>
@@ -71,7 +71,7 @@
 
 ### [3D 场景与交互](categories/3d-scenes.zh-CN.md)
 
-12 个案例
+13 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.zh-CN.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>
@@ -81,7 +81,7 @@
 
 ### [科普与信息可视化](categories/explainers.zh-CN.md)
 
-5 个案例
+6 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="100%"></a><br><a href="categories/explainers.zh-CN.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a></td>
@@ -91,7 +91,7 @@
 
 ### [动效与品牌设计](categories/motion-design.zh-CN.md)
 
-5 个案例
+6 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102984873351037161">video-use 发布短片</a></td>

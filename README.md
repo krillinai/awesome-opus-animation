@@ -4,7 +4,7 @@
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![67 cases](https://img.shields.io/badge/cases-67-0969da)](#categories)
+[![73 cases](https://img.shields.io/badge/cases-73-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -37,7 +37,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Code Animation & Visual Experiments](categories/code-animation.md)
 
-15 cases
+17 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song (Interactive Stop-Motion) preview, open post" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song (Interactive Stop-Motion)</a></td>
@@ -51,7 +51,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Narrative Shorts & Character Animation](categories/narrative.md)
 
-12 cases
+13 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 Self-Introduction Short preview, open post" width="100%"></a><br><a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 Self-Introduction Short</a></td>
@@ -71,7 +71,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [3D Scenes & Interaction](categories/3d-scenes.md)
 
-12 cases
+13 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="Peach Blossom Spring (The Peach Blossom Land) preview, open post" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">Peach Blossom Spring (The Peach Blossom Land)</a></td>
@@ -81,7 +81,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Explainers & Information Visualization](categories/explainers.md)
 
-5 cases
+6 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus preview, open post" width="100%"></a><br><a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus</a></td>
@@ -91,7 +91,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Motion & Brand Design](categories/motion-design.md)
 
-5 cases
+6 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use Launch Video preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use Launch Video</a></td>

@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 12 个案例。
+共 13 个案例。
 
 ## 作品预览
 
@@ -26,7 +26,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/seftsaint/status/2102771402210476533"><img src="https://pbs.twimg.com/amplify_video_thumb/2102770941004832768/img/TGrVuoY3B2V_N5cW.jpg" alt="GPT-6 Luna 3D 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102771402210476533">GPT-6 Luna 3D 动画实验</a></strong><br><a href="https://x.com/seftsaint">eta @seftsaint</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/alexalbert__/status/2102458348511879448"><img src="https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu.jpg" alt="一条提示词制作 Blender 黏土动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102458348511879448">一条提示词制作 Blender 黏土动画</a></strong><br><a href="https://x.com/alexalbert__">Alex Albert @alexalbert__</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -171,5 +171,16 @@
 - **原帖**：[查看作者原帖](https://x.com/seftsaint/status/2102771402210476533)
 - **实现**：作者称使用 **GPT-6 Luna** 进行 3D 创作，认为它可以承担此前由 Astra 处理的部分工作，且消耗更少的 tokens；原帖未说明具体技术栈或制作流程。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102458348511879448"></a>
+
+### 一条提示词制作 Blender 黏土动画
+
+- **作者**：[Alex Albert @alexalbert__](https://x.com/alexalbert__)
+- **样片**：[观看视频](https://x.com/alexalbert__/status/2102458348511879448)
+- **原帖**：[查看作者原帖](https://x.com/alexalbert__/status/2102458348511879448)
+- **内容**：使用 Blender 制作黏土动画风格短片。
+- **实现**：作者称通过 Claude.ai 向 Opus 5.5 提出一条提示词，由模型使用 Blender 制作；原帖未进一步说明 Blender 工作流程或素材来源。
+- **提示词**：作者提到使用一条提示词，但未公开原文。
 
 [返回首页](../README.zh-CN.md)

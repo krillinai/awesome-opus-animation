@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 5 个案例。
+共 6 个案例。
 
 ## 作品预览
 
@@ -17,7 +17,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591147927654847">The Plane of Focus（对焦平面）</a></strong><br><a href="https://x.com/RyanSael">Ryan Sael @RyanSael</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="../assets/preview/ClaudeHistory.png" alt="Claude 模型发展史视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463796149440888">Claude 模型发展史</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/addyosmani/status/2103009037164110327"><img src="https://pbs.twimg.com/amplify_video_thumb/2102980713603887104/img/XgCaV0YvE_TaH9Oi.jpg" alt="40 秒看懂浏览器工作原理视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103009037164110327">40 秒看懂浏览器工作原理</a></strong><br><a href="https://x.com/addyosmani">Addy Osmani @addyosmani</a></td>
 </tr>
 </table>
 
@@ -78,5 +78,16 @@
 - **内容**：介绍 Claude 各代模型的发展历程。
 - **实现**：作者称使用 Opus 5.5，以纯 JavaScript 和自己的 [hand-drawn-canvas-animation Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) 制作。
 - **提示词**：原帖只概述了“制作 Claude 模型发展史”的任务，未公开完整提示词。
+
+<a id="case-2103009037164110327"></a>
+
+### 40 秒看懂浏览器工作原理
+
+- **作者**：[Addy Osmani @addyosmani](https://x.com/addyosmani)
+- **样片**：[观看 40 秒视频](https://x.com/addyosmani/status/2103009037164110327)
+- **原帖**：[查看作者原帖](https://x.com/addyosmani/status/2103009037164110327)
+- **内容**：用短片解释浏览器如何工作。
+- **实现**：作者称 Claude Opus 5.5 使用 JavaScript 逐帧绘制整段动画；原帖未公开更详细的制作流程或技术栈。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.zh-CN.md)
