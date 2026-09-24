@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 8 个案例（其中 1 个原作者待核对）。
+共 9 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -20,7 +20,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102588571442188577"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587262928326656/img/lPeeyMoTHYWHfRKG.jpg" alt="Three.js 3D 游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102588571442188577">Three.js 3D 游戏演示</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/rehan_shei/status/2102794467032154206"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794208411258880/img/lXnJGoj4AMOlb2cZ.jpg" alt="代码生成的 2D 像素游戏场景视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102794467032154206">代码生成的 2D 像素游戏场景</a></strong><br><a href="https://x.com/rehan_shei">Rehan Sheikh @rehan_shei</a></td>
 </tr>
 </table>
 
@@ -117,5 +117,16 @@
 - **原帖**：[查看作者原帖](https://x.com/xikhar/status/2102588571442188577)
 - **实现**：作者称使用 Opus 5.5 Medium 制作 Three.js 游戏，所有 3D 模型、纹理和动画均从零制作；原帖未进一步说明制作流程。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102794467032154206"></a>
+
+### 代码生成的 2D 像素游戏场景
+
+- **作者**：[Rehan Sheikh @rehan_shei](https://x.com/rehan_shei)
+- **样片**：[观看 39 秒演示](https://x.com/rehan_shei/status/2102794467032154206)
+- **原帖**：[查看作者原帖](https://x.com/rehan_shei/status/2102794467032154206)
+- **内容**：2D 像素游戏风格动画；原帖未说明是否可玩或提供在线体验地址。
+- **实现**：作者称使用 Opus 5.5 通过代码生成画面，未公开具体技术栈。
+- **提示词**：作者引用了 [Majid Manzarpour 的作品帖](https://x.com/majidmanzarpour/status/2102476258948927543)，并称使用其中分享的提示词；该帖称提示词在回复中，原文待核对。
 
 [返回首页](../README.md)
