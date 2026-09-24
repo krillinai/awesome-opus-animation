@@ -15,7 +15,7 @@
 13 个案例
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面" width="240"></a><br><a href="categories/games.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="100%"></a><br><a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
 </tr><tr>

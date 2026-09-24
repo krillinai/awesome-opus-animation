@@ -28,7 +28,7 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102773498037023140">鱼叉捕鱼游戏</a></strong><br><a href="https://x.com/nachat_dayo">なちゃっと @nachat_dayo</a></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="../assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top"></td>
 <td width="33%" valign="top"></td>
 </tr>
