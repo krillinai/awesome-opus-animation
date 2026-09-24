@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591147927654847">The Plane of Focus（对焦平面）</a></strong><br><a href="https://x.com/RyanSael">Ryan Sael @RyanSael</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="https://pbs.twimg.com/amplify_video_thumb/2102463260083814400/img/FOxC8GQzTnxDnw8F.jpg" alt="Claude 模型发展史视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463796149440888">Claude 模型发展史</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="../assets/preview/ClaudeHistory.png" alt="Claude 模型发展史视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463796149440888">Claude 模型发展史</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>

@@ -86,7 +86,7 @@
 <p align="center">
 <a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="32%"></a>
 <a href="https://x.com/kimmonismus/status/2102844654169575547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg" alt="AI 历史短片视频封面" width="32%"></a>
-<a href="https://x.com/superalesha/status/2102463796149440888"><img src="https://pbs.twimg.com/amplify_video_thumb/2102463260083814400/img/FOxC8GQzTnxDnw8F.jpg" alt="Claude 模型发展史视频封面" width="32%"></a><br>
+<a href="https://x.com/superalesha/status/2102463796149440888"><img src="assets/preview/ClaudeHistory.png" alt="Claude 模型发展史视频封面" width="32%"></a><br>
 <a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a> · <a href="categories/explainers.md#case-2102844654169575547">AI 历史：从 Attention Is All You Need 到 AGI</a> · <a href="categories/explainers.md#case-2102463796149440888">Claude 模型发展史</a>
 </p>
 
