@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 13 个案例。
+共 14 个案例。
 
 ## 作品预览
 
@@ -29,7 +29,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/shitunote/status/2103033624463585327"><img src="https://pbs.twimg.com/amplify_video_thumb/2103032111024537600/img/zXNuubyWqGtUWCQx.jpg" alt="鹈鹕骑行 SVG 动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103033624463585327">鹈鹕骑行 SVG 动画</a></strong><br><a href="https://x.com/shitunote">马识途 @shitunote</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dhruvalgolakiya/status/2102733714845491558"><img src="https://pbs.twimg.com/amplify_video_thumb/2102732320851763200/img/vs-xPt29ZRLAo9Aw.jpg" alt="Opus 5.5 两分钟有声动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102733714845491558">Opus 5.5 两分钟有声动画</a></strong><br><a href="https://x.com/dhruvalgolakiya">Dhruval @dhruvalgolakiya</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -186,5 +186,18 @@
 > 生成一个鹈鹕骑自行车的svg动画，以H5页面展示
 
 作者还转述另一段 3D 鹈鹕视频的提示词为“生成鹈鹕骑单车3D页面，尽情发挥”；这不是本案例的提示词，且尚未得到那段视频原作者核实。
+
+<a id="case-2102733714845491558"></a>
+
+### Opus 5.5 两分钟有声动画
+
+- **作者**：[Dhruval @dhruvalgolakiya](https://x.com/dhruvalgolakiya)
+- **样片**：[观看约 2 分 4 秒视频](https://x.com/dhruvalgolakiya/status/2102733714845491558)
+- **原帖**：[查看作者原帖](https://x.com/dhruvalgolakiya/status/2102733714845491558)
+- **制作耗时**：约 2 小时
+- **成本**：作者称消耗约 5,600 万 tokens，按 API 价格估算约 68 美元。
+- **实现**：作者称使用 Opus 5.5 制作，视频包含音频和音效；原帖未说明具体画面或声音技术栈。
+- **相关**：[作者此前的短片演示](https://x.com/dhruvalgolakiya/status/2102484620109644273)
+- **提示词**：作者称用了 3 条提示词，原帖未公开原文。
 
 [返回首页](../README.md)
