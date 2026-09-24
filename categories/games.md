@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 10 个案例（其中 1 个原作者待核对）。
+共 11 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/mattshumer_/status/2102874271316078841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102873990519812096/img/V3z4VHqmR5SOf7Ux.jpg" alt="开放世界纽约多人游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102874271316078841">开放世界纽约多人游戏</a></strong><br><a href="https://x.com/mattshumer_">Matt Shumer @mattshumer_</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/The_Alex/status/2102440678282412195"><img src="https://pbs.twimg.com/amplify_video_thumb/2102439823281975302/img/qABSqFFtO1aLvl9Q.jpg" alt="Dark Souls 风格游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102440678282412195">Dark Souls 风格游戏演示</a></strong><br><a href="https://x.com/The_Alex">Alex @The_Alex</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -145,6 +145,17 @@
 - **制作耗时**：截至发帖时，Opus 5.5 已持续迭代近一天，作品仍在改进中。
 - **内容**：以纽约为背景的开放世界多人游戏。
 - **实现**：作者称使用 Opus 5.5 持续改进游戏；原帖未说明具体游戏技术栈。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102440678282412195"></a>
+
+### Dark Souls 风格游戏演示
+
+- **作者**：[Alex @The_Alex](https://x.com/The_Alex)
+- **样片**：[观看约 2 分 11 秒演示](https://x.com/The_Alex/status/2102440678282412195)
+- **原帖**：[查看作者原帖](https://x.com/The_Alex/status/2102440678282412195)
+- **内容**：作者以“Dark Souls”介绍这段作品；原帖未提供玩法说明或试玩地址。
+- **实现**：作者称在提前体验 Opus 5.5 时制作；原帖未说明具体技术栈。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)
