@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-14 cases (one creator attribution remains unverified).
+15 cases (one creator attribution remains unverified).
 
 ## Previews
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="../assets/preview/antikythera.png" alt="Antikythera Mechanism Game preview, open post" width="100%"></a><br><strong><a href="#case-2102463453176979794">Antikythera Mechanism Game</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/_MaxBlade/status/2102513817855094922"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513139124244480/img/ZNe0K2GOw_rM50mW.jpg" alt="Multiplayer Lawn-Mowing Simulator preview, open post" width="100%"></a><br><strong><a href="#case-2102513817855094922">Multiplayer Lawn-Mowing Simulator</a></strong><br><a href="https://x.com/_MaxBlade">Max Blade @_MaxBlade</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/oguzthedev/status/2102476490344730950"><img src="https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg" alt="Code-Drawn Beekeeping Game preview, open post" width="100%"></a><br><strong><a href="#case-2102476490344730950">Code-Drawn Beekeeping Game</a></strong><br><a href="https://x.com/oguzthedev">Oguz @oguzthedev</a></td>
 </tr>
 </table>
 
@@ -202,5 +202,16 @@ A [different author's SVG/H5 prompt experiment](code-animation.md#case-210303362
 - **About:** A multiplayer lawn-mowing simulator that the creator describes as featuring beer and cigars.
 - **Implementation:** The creator says Opus 5.5 built the game and that they ran it live on their server for chat participants to join. The post does not provide a public play link or technical stack.
 - **Prompt:** Not public.
+
+<a id="case-2102476490344730950"></a>
+
+### Code-Drawn Beekeeping Game
+
+- **Creator:** [Oguz @oguzthedev](https://x.com/oguzthedev)
+- **Watch:** [Watch 34-second video](https://x.com/oguzthedev/status/2102476490344730950)
+- **Original post:** [Creator's post](https://x.com/oguzthedev/status/2102476490344730950)
+- **About:** A beekeeping game where players plant flowers, bees fly, and a small beekeeper walks and harvests honey.
+- **Implementation:** The creator says Claude Opus 5.5 made the game from a single prompt. Hives, flowers, bees, and the beekeeper are drawn entirely in code, with no image files; the exact stack was not disclosed.
+- **Prompt:** The post summarizes the request as a beekeeping game, but does not publish the exact prompt text.
 
 [Back to home](../README.md)

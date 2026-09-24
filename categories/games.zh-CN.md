@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 14 个案例（其中 1 个原作者待核对）。
+共 15 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="../assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/_MaxBlade/status/2102513817855094922"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513139124244480/img/ZNe0K2GOw_rM50mW.jpg" alt="多人割草模拟器视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102513817855094922">多人割草模拟器</a></strong><br><a href="https://x.com/_MaxBlade">Max Blade @_MaxBlade</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/oguzthedev/status/2102476490344730950"><img src="https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg" alt="代码绘制的养蜂游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102476490344730950">代码绘制的养蜂游戏</a></strong><br><a href="https://x.com/oguzthedev">Oguz @oguzthedev</a></td>
 </tr>
 </table>
 
@@ -198,5 +198,16 @@
 - **内容**：作者称这款多人割草模拟游戏还加入了啤酒和雪茄元素。
 - **实现**：作者称由 Opus 5.5 构建，曾在自己的服务器上开放，让聊天观众加入；原帖未提供公开试玩地址，也未说明技术栈。
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102476490344730950"></a>
+
+### 代码绘制的养蜂游戏
+
+- **作者**：[Oguz @oguzthedev](https://x.com/oguzthedev)
+- **样片**：[观看约 34 秒视频](https://x.com/oguzthedev/status/2102476490344730950)
+- **原帖**：[查看作者原帖](https://x.com/oguzthedev/status/2102476490344730950)
+- **内容**：可种花、看蜜蜂飞行，并让小养蜂人走动采蜜的游戏。
+- **实现**：作者称 Claude Opus 5.5 根据一条提示词完成，蜂箱、花朵、蜜蜂和养蜂人都由代码绘制，没有使用图片文件；原帖未说明具体技术栈。
+- **提示词**：原帖概述了“制作养蜂游戏”的要求，但未公开提示词的完整原文。
 
 [返回首页](../README.zh-CN.md)
