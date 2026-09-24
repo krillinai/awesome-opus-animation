@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 12 个案例。
+共 13 个案例。
 
 ## 作品预览
 
@@ -26,6 +26,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102849349122470205">Watch Claude Paint</a></strong><br><a href="https://x.com/petergyang">Peter Yang @petergyang</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102493303388475855"><img src="https://pbs.twimg.com/amplify_video_thumb/2102493087381487616/img/CoCNR1WdNiQpyoe2.jpg" alt="Oktoberfest 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102493303388475855">Oktoberfest</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/peekcell/status/2102796895982878850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102795703818797056/img/suyu1aee9jskxmMK.jpg" alt="有声像素场景视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102796895982878850">有声像素场景</a></strong><br><a href="https://x.com/peekcell">Peekcell @peekcell</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/shitunote/status/2103033624463585327"><img src="https://pbs.twimg.com/amplify_video_thumb/2103032111024537600/img/zXNuubyWqGtUWCQx.jpg" alt="鹈鹕骑行 SVG 动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103033624463585327">鹈鹕骑行 SVG 动画</a></strong><br><a href="https://x.com/shitunote">马识途 @shitunote</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -166,5 +171,20 @@
 - **内容**：带声音的像素风场景动画。
 - **实现**：作者称使用 Opus 5.5 生成；原帖未说明具体制作工具或代码实现。
 - **提示词**：原帖称提示词在下方回复，原文待核对。
+
+<a id="case-2103033624463585327"></a>
+
+### 鹈鹕骑行 SVG 动画
+
+- **作者**：[马识途 @shitunote](https://x.com/shitunote)
+- **样片**：[观看约 20 秒动画](https://x.com/shitunote/status/2103033624463585327)
+- **原帖**：[查看作者原帖](https://x.com/shitunote/status/2103033624463585327)
+- **内容**：鹈鹕骑自行车并奔跑的动画，用于比较不同提示词的效果。
+- **实现**：作者称使用 Opus 5.5；提示词要求制作 SVG 动画并在 H5 页面展示，原帖未公开代码供核对。
+- **提示词**：[作者公开的本次实验提示词](https://x.com/shitunote/status/2103033624463585327)：
+
+> 生成一个鹈鹕骑自行车的svg动画，以H5页面展示
+
+作者还转述另一段 3D 鹈鹕视频的提示词为“生成鹈鹕骑单车3D页面，尽情发挥”；这不是本案例的提示词，且尚未得到那段视频原作者核实。
 
 [返回首页](../README.md)
