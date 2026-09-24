@@ -69,9 +69,9 @@
 4 个案例
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102779758408774104"><img src="https://pbs.twimg.com/amplify_video_thumb/2102779521451626496/img/RNj6CVT89oSFBTed.jpg" alt="大型强子对撞机：质子碰撞视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102779758408774104">大型强子对撞机：质子碰撞</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/DotCSV/status/2102737776219168939"><img src="https://pbs.twimg.com/amplify_video_thumb/2102736360750579712/img/dCHBu9qqCypGbT9v.jpg" alt="像素神经网络训练视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102737776219168939">像素神经网络训练</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/kimmonismus/status/2102844654169575547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg" alt="AI 历史短片视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102844654169575547">AI 历史短片</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr></table>
 
 ### [动效与品牌设计](categories/motion-design.md)
