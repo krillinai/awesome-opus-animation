@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-16 cases (one creator attribution remains unverified).
+17 cases (one creator attribution remains unverified).
 
 ## Previews
 
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102932763750084797"><img src="https://pbs.twimg.com/amplify_video_thumb/2102931753610678272/img/uyYEUFSVjnvrYFHG.jpg" alt="Three.js Symbiote Game Update preview, open post" width="100%"></a><br><strong><a href="#case-2102932763750084797">Three.js Symbiote Game Update</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2103004432786993341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001546942271488/img/Ft3jDXJhTbQ87NS3.jpg" alt="Cozy Fishing Game preview, open post" width="100%"></a><br><strong><a href="#case-2103004432786993341">Cozy Fishing Game</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -152,6 +152,18 @@ A [different author's SVG/H5 prompt experiment](code-animation.md#case-210303362
 - **Implementation:** The creator says this Opus 5.5 Medium project was built from scratch with Three.js and Blender.
 - **Prompt:** Not public.
 - **Earlier demo:** [Three.js 3D Game Demo](games.md#case-2102588571442188577).
+
+<a id="case-2103004432786993341"></a>
+
+### Cozy Fishing Game
+
+- **Creator:** [Dan Greenheck @dangreenheck](https://x.com/dangreenheck)
+- **Watch:** [Watch the 4-minute-52-second video](https://x.com/dangreenheck/status/2103004432786993341) · [Play the game](https://dgreenheck.github.io/tidewater/)
+- **Original post:** [Creator's post](https://x.com/dangreenheck/status/2103004432786993341)
+- **About:** The creator turned his coastal demo into a fishing game: catch fish, sell them to Joe, and buy tackle and boat parts from Marta at the boathouse.
+- **Implementation:** The creator says Opus 5.5 iterated on the environments, plants, models, and graphics, adding wear to the scene. The game now uses native WebGPU. An optimization pass raised performance from 60 to 100 FPS before new features used most of that gain.
+- **Prompt:** Not public.
+- **Earlier work:** [Interactive Island Ecosystem](3d-scenes.md#case-2102878170089169235).
 
 <a id="case-2102794467032154206"></a>
 

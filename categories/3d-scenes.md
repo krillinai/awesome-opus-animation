@@ -117,6 +117,7 @@
 - **About:** A zoomable island with seabirds, crabs, fish near a whale, wind-blown fabric and signs, and harbor lights at night.
 - **Implementation:** The creator says Opus 5.5 and several subagents iterated on it. The stack was not specified.
 - **Prompt:** The complete dialogue is not public. The creator says most instructions were like 'Add X and Y' or 'This looks weird, make it better'.
+- **Follow-up:** [Cozy Fishing Game](games.md#case-2103004432786993341).
 
 <a id="case-2102684366996738511"></a>
 
