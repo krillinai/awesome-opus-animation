@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-17 cases (one creator attribution remains unverified).
+18 cases (two creator attributions remain unverified).
 
 ## Previews
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102932763750084797"><img src="https://pbs.twimg.com/amplify_video_thumb/2102931753610678272/img/uyYEUFSVjnvrYFHG.jpg" alt="Three.js Symbiote Game Update preview, open post" width="100%"></a><br><strong><a href="#case-2102932763750084797">Three.js Symbiote Game Update</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2103004432786993341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001546942271488/img/Ft3jDXJhTbQ87NS3.jpg" alt="Cozy Fishing Game preview, open post" width="100%"></a><br><strong><a href="#case-2103004432786993341">Cozy Fishing Game</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/bindureddy/status/2103009665177305456"><img src="../assets/preview/Abacus3DGames.jpg" alt="Abacus AI 3D Game Showcase preview, open post" width="100%"></a><br><strong><a href="#case-2103009665177305456">Abacus AI 3D Game Showcase</a></strong><br><a href="https://x.com/bindureddy">Showcased by Bindu Reddy @bindureddy</a></td>
 </tr>
 </table>
 
@@ -164,6 +164,19 @@ A [different author's SVG/H5 prompt experiment](code-animation.md#case-210303362
 - **Implementation:** The creator says Opus 5.5 iterated on the environments, plants, models, and graphics, adding wear to the scene. The game now uses native WebGPU. An optimization pass raised performance from 60 to 100 FPS before new features used most of that gain.
 - **Prompt:** Not public.
 - **Earlier work:** [Interactive Island Ecosystem](3d-scenes.md#case-2102878170089169235).
+
+<a id="case-2103009665177305456"></a>
+
+### Abacus AI 3D Game Showcase
+
+- **Showcased by:** [Bindu Reddy @bindureddy](https://x.com/bindureddy); the post does not name an individual game creator.
+- **Watch:** [Watch the 67-second video](https://x.com/bindureddy/status/2103009665177305456)
+- **Original post:** [View post](https://x.com/bindureddy/status/2103009665177305456)
+- **About:** An Abacus AI Supercomputer demonstration showing a *Shattered Titans* title screen and third-person 3D gameplay in forest and futuristic settings.
+- **Implementation:** The post presents Opus 5.5 as the game-building model. It also advertises multiplayer levels, virtual goods and payments, messaging, voice chat, and a free backend as platform capabilities; the video does not establish that every feature is present in the shown game.
+- **Prompt:** The video shows the opening of the request below; the full prompt and production time are not public.
+
+> Build a premium, playable third-person action-adventure game using Opus 5.5 and Blender and 3D Games skill, called **SHATTERED TITANS**. The player enters an impossible ancient realm grown around the corpse of a colossal fallen god and must recover three memories that have been captured and corrupted by creatures living inside the god's fractured consciousness.
 
 <a id="case-2102794467032154206"></a>
 

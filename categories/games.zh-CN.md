@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 17 个案例（其中 1 个原作者待核对）。
+共 18 个案例（其中 2 个原作者待核对）。
 
 ## 作品预览
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102932763750084797"><img src="https://pbs.twimg.com/amplify_video_thumb/2102931753610678272/img/uyYEUFSVjnvrYFHG.jpg" alt="Three.js 共生体战衣游戏续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102932763750084797">Three.js 共生体战衣游戏续作</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dangreenheck/status/2103004432786993341"><img src="https://pbs.twimg.com/amplify_video_thumb/2103001546942271488/img/Ft3jDXJhTbQ87NS3.jpg" alt="休闲钓鱼游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103004432786993341">休闲钓鱼游戏</a></strong><br><a href="https://x.com/dangreenheck">Dan Greenheck @dangreenheck</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/bindureddy/status/2103009665177305456"><img src="../assets/preview/Abacus3DGames.jpg" alt="Abacus AI 3D 游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103009665177305456">Abacus AI 3D 游戏演示</a></strong><br><a href="https://x.com/bindureddy">展示：Bindu Reddy @bindureddy</a></td>
 </tr>
 </table>
 
@@ -160,6 +160,19 @@
 - **实现**：作者称使用 Opus 5.5 继续迭代环境、植物、模型与画面，并增加磨损细节；现已采用原生 WebGPU。一次优化使帧率从 60 FPS 提升到 100 FPS，随后新增功能消耗了大部分性能收益。
 - **提示词**：原帖未公开制作提示词。
 - **前作**：[交互式岛屿生态](3d-scenes.zh-CN.md#case-2102878170089169235)。
+
+<a id="case-2103009665177305456"></a>
+
+### Abacus AI 3D 游戏演示
+
+- **展示者**：[Bindu Reddy @bindureddy](https://x.com/bindureddy)；帖子未注明具体游戏的个人创作者。
+- **样片**：[观看约 67 秒视频](https://x.com/bindureddy/status/2103009665177305456)
+- **原帖**：[查看帖子](https://x.com/bindureddy/status/2103009665177305456)
+- **内容**：Abacus AI Supercomputer 的演示视频展示了 *Shattered Titans* 的标题画面，以及森林和未来风格场景中的第三人称 3D 游戏画面。
+- **实现**：帖子称使用 Opus 5.5 构建游戏，并介绍平台支持多关卡多人游戏、虚拟商品与支付、文字及语音聊天和免费后端；视频未证实展示的游戏已包含全部这些功能。
+- **提示词**：视频画面展示了以下开头；完整提示词及制作耗时未公开。
+
+> Build a premium, playable third-person action-adventure game using Opus 5.5 and Blender and 3D Games skill, called **SHATTERED TITANS**. The player enters an impossible ancient realm grown around the corpse of a colossal fallen god and must recover three memories that have been captured and corrupted by creatures living inside the god's fractured consciousness.
 
 <a id="case-2102794467032154206"></a>
 
