@@ -25,9 +25,9 @@
 5 个案例
 
 <table><tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102801274173587569">Claude Pop 重制 MV</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102986085328716066"><img src="https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg" alt="中秋拼贴动画视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102986085328716066">中秋拼贴动画</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/eudaemonea/status/2102610626321490404"><img src="https://pbs.twimg.com/amplify_video_thumb/2102606787941736448/img/zvj6paWv8xVzy0rz.jpg" alt="Functional Emotions 音乐视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102610626321490404">Functional Emotions 音乐视频</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/Michaelzsguo/status/2102592355165782312"><img src="https://pbs.twimg.com/amplify_video_thumb/2102592220888965120/img/wUEZT8hOqEwK1d1r.jpg" alt="美国 250 年沙画视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102592355165782312">美国 250 年沙画</a></td>
 </tr></table>
 
 ### [代码动画与视觉实验](categories/code-animation.md)
