@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102717687604633959">浏览器里的骑行</a></strong><br><a href="https://x.com/prasenx">@prasenx</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102849349122470205">Watch Claude Paint</a></strong><br><a href="https://x.com/petergyang">Peter Yang @petergyang</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="../assets/preview/WatchClaudePaint.png" alt="Watch Claude Paint 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102849349122470205">Watch Claude Paint</a></strong><br><a href="https://x.com/petergyang">Peter Yang @petergyang</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102493303388475855"><img src="https://pbs.twimg.com/amplify_video_thumb/2102493087381487616/img/CoCNR1WdNiQpyoe2.jpg" alt="Oktoberfest 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102493303388475855">Oktoberfest</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 </tr>
 <tr>

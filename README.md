@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面" width="32%"></a>
-<a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="32%"></a>
+<a href="https://x.com/petergyang/status/2102849349122470205"><img src="assets/preview/WatchClaudePaint.png" alt="Watch Claude Paint 演示视频封面" width="32%"></a>
 <a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="32%"></a><br>
 <a href="categories/code-animation.md#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a> · <a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a> · <a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a>
 </p>
