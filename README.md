@@ -14,83 +14,96 @@
 
 13 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="100%"></a><br><a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="100%"></a><br><a href="categories/games.md#case-2102834362530079093">Arkenfall</a></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102831012686573744">火柴人游戏</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/The_Alex/status/2102440678282412195"><img src="assets/preview/DarkSouls.png" alt="Dark Souls 风格游戏演示视频封面" width="100%"></a><br><a href="categories/games.md#case-2102440678282412195">Dark Souls 风格游戏演示</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面" width="100%"></a><br><a href="categories/games.md#case-2102773498037023140">鱼叉捕鱼游戏</a></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面" width="32%"></a>
+<a href="https://x.com/ring_hyacinth/status/2102865595675050010"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828439841779712/img/BY2BULPMzQzSA7fT.jpg" alt="像素上海：弄堂电台视频封面" width="32%"></a>
+<a href="https://x.com/LexnLin/status/2102834362530079093"><img src="https://pbs.twimg.com/amplify_video_thumb/2102834028202115072/img/j9ozpKxLLwbIU5ix.jpg" alt="Arkenfall 视频封面" width="32%"></a><br>
+<a href="categories/games.md#case-2102463453176979794">安提基特拉机械游戏</a> · <a href="categories/games.md#case-2102865595675050010">像素上海：弄堂电台</a> · <a href="categories/games.md#case-2102834362530079093">Arkenfall</a>
+</p>
+
+<p align="center">
+<a href="https://x.com/notjazii/status/2102831012686573744"><img src="https://pbs.twimg.com/amplify_video_thumb/2102830651376590848/img/2rADnZ940Xbypiij.jpg" alt="火柴人游戏视频封面" width="32%"></a>
+<a href="https://x.com/The_Alex/status/2102440678282412195"><img src="assets/preview/DarkSouls.png" alt="Dark Souls 风格游戏演示视频封面" width="32%"></a>
+<a href="https://x.com/nachat_dayo/status/2102773498037023140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102773165420331009/img/imY1rCvKML0OZfNt.jpg" alt="鱼叉捕鱼游戏视频封面" width="32%"></a><br>
+<a href="categories/games.md#case-2102831012686573744">火柴人游戏</a> · <a href="categories/games.md#case-2102440678282412195">Dark Souls 风格游戏演示</a> · <a href="categories/games.md#case-2102773498037023140">鱼叉捕鱼游戏</a>
+</p>
 
 ### [代码动画与视觉实验](categories/code-animation.md)
 
 15 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/riku720720/status/2102515055116063144"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg" alt="宇宙像素疾走视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102515055116063144">宇宙像素疾走</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102717687604633959">浏览器里的骑行</a></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="32%"></a>
+<a href="https://x.com/riku720720/status/2102515055116063144"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513096682336256/img/kyN5TvYWMLX_TPAt.jpg" alt="宇宙像素疾走视频封面" width="32%"></a>
+<a href="https://x.com/prasenx/status/2102717687604633959"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714784470962176/img/SIo-Es0YjKZVl8HD.jpg" alt="浏览器里的骑行视频封面" width="32%"></a><br>
+<a href="categories/code-animation.md#case-2102501773705670994">Steam Song（交互式定格动画）</a> · <a href="categories/code-animation.md#case-2102515055116063144">宇宙像素疾走</a> · <a href="categories/code-animation.md#case-2102717687604633959">浏览器里的骑行</a>
+</p>
+
+<p align="center">
+<a href="https://x.com/chetaslua/status/2102482039522107417"><img src="https://pbs.twimg.com/amplify_video_thumb/2102480439512539136/img/pNKxIImfZCT4UFm-.jpg" alt="One Suit, Six Toons 视频封面" width="32%"></a>
+<a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面" width="32%"></a>
+<a href="https://x.com/NFT_Chen/status/2102681172367323300"><img src="https://pbs.twimg.com/amplify_video_thumb/2102679932551991296/img/urZA95kbdpxWyiwQ.jpg" alt="Claude 的卡通剪辑台视频封面" width="32%"></a><br>
+<a href="categories/code-animation.md#case-2102482039522107417">One Suit, Six Toons（六种卡通世界）</a> · <a href="categories/code-animation.md#case-2102849349122470205">Watch Claude Paint</a> · <a href="categories/code-animation.md#case-2102681172367323300">Claude 的卡通剪辑台</a>
+</p>
 
 ### [叙事短片与角色动画](categories/narrative.md)
 
 12 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102611372978872504">Opus 的梦</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="assets/preview/claudesplan.png" alt="Claude's Plan 视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102717699600368045">Claude's Plan</a></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="32%"></a>
+<a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面" width="32%"></a>
+<a href="https://x.com/chetaslua/status/2102717699600368045"><img src="assets/preview/claudesplan.png" alt="Claude's Plan 视频封面" width="32%"></a><br>
+<a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a> · <a href="categories/narrative.md#case-2102611372978872504">Opus 的梦</a> · <a href="categories/narrative.md#case-2102717699600368045">Claude's Plan</a>
+</p>
 
 ### [手绘动画与 MV](categories/hand-drawn-mv.md)
 
 5 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102801274173587569">Claude Pop 重制 MV</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ring_hyacinth/status/2102986085328716066"><img src="https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg" alt="中秋拼贴动画视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102986085328716066">中秋拼贴动画</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/eudaemonea/status/2102610626321490404"><img src="https://pbs.twimg.com/amplify_video_thumb/2102606787941736448/img/zvj6paWv8xVzy0rz.jpg" alt="Functional Emotions 音乐视频封面" width="100%"></a><br><a href="categories/hand-drawn-mv.md#case-2102610626321490404">Functional Emotions 音乐视频</a></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/donaldjewkes/status/2102801274173587569"><img src="https://pbs.twimg.com/amplify_video_thumb/2102799458031534086/img/GBhRZ7O3fCXn59dk.jpg" alt="Claude Pop 重制 MV 视频封面" width="32%"></a>
+<a href="https://x.com/ring_hyacinth/status/2102986085328716066"><img src="https://pbs.twimg.com/amplify_video_thumb/2102985762996379648/img/4iq_gKH56QOv4xbs.jpg" alt="中秋拼贴动画视频封面" width="32%"></a>
+<a href="https://x.com/eudaemonea/status/2102610626321490404"><img src="https://pbs.twimg.com/amplify_video_thumb/2102606787941736448/img/zvj6paWv8xVzy0rz.jpg" alt="Functional Emotions 音乐视频封面" width="32%"></a><br>
+<a href="categories/hand-drawn-mv.md#case-2102801274173587569">Claude Pop 重制 MV</a> · <a href="categories/hand-drawn-mv.md#case-2102986085328716066">中秋拼贴动画</a> · <a href="categories/hand-drawn-mv.md#case-2102610626321490404">Functional Emotions 音乐视频</a>
+</p>
 
 ### [3D 场景与交互](categories/3d-scenes.md)
 
 12 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="雨夜街角便利店视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102672063668670725">雨夜街角便利店</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102543638689460488">Autumn Line（秋日铁道）</a></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="32%"></a>
+<a href="https://x.com/NFT_Chen/status/2102672063668670725"><img src="https://pbs.twimg.com/amplify_video_thumb/2102670994708336641/img/otlrNUzWr2FaE1t1.jpg" alt="雨夜街角便利店视频封面" width="32%"></a>
+<a href="https://x.com/ishuagra02/status/2102543638689460488"><img src="https://pbs.twimg.com/amplify_video_thumb/2102543483516907520/img/vN1gskJYPq_qdlEp.jpg" alt="Autumn Line 秋日铁道视频封面" width="32%"></a><br>
+<a href="categories/3d-scenes.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a> · <a href="categories/3d-scenes.md#case-2102672063668670725">雨夜街角便利店</a> · <a href="categories/3d-scenes.md#case-2102543638689460488">Autumn Line（秋日铁道）</a>
+</p>
 
 ### [科普与信息可视化](categories/explainers.md)
 
 5 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/kimmonismus/status/2102844654169575547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg" alt="AI 历史短片视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102844654169575547">AI 历史：从 Attention Is All You Need 到 AGI</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="https://pbs.twimg.com/amplify_video_thumb/2102463260083814400/img/FOxC8GQzTnxDnw8F.jpg" alt="Claude 模型发展史视频封面" width="100%"></a><br><a href="categories/explainers.md#case-2102463796149440888">Claude 模型发展史</a></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="32%"></a>
+<a href="https://x.com/kimmonismus/status/2102844654169575547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102844491820670976/img/F4AMzfTMJqQe84nD.jpg" alt="AI 历史短片视频封面" width="32%"></a>
+<a href="https://x.com/superalesha/status/2102463796149440888"><img src="https://pbs.twimg.com/amplify_video_thumb/2102463260083814400/img/FOxC8GQzTnxDnw8F.jpg" alt="Claude 模型发展史视频封面" width="32%"></a><br>
+<a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a> · <a href="categories/explainers.md#case-2102844654169575547">AI 历史：从 Attention Is All You Need 到 AGI</a> · <a href="categories/explainers.md#case-2102463796149440888">Claude 模型发展史</a>
+</p>
 
 ### [动效与品牌设计](categories/motion-design.md)
 
 5 个案例
 
-<table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="https://pbs.twimg.com/amplify_video_thumb/2102984006224728064/img/j6OMvuoA6XYlK8dr.jpg" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use 发布短片</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/decohack/status/2102621064518160485"><img src="https://pbs.twimg.com/amplify_video_thumb/2102620135353675776/img/0pCu49a51Bm-Xg6x.jpg" alt="Applore 产品宣传片视频封面" width="100%"></a><br><a href="categories/motion-design.md#case-2102621064518160485">Applore 产品宣传片</a></td>
-<td width="33%" valign="top"></td>
-</tr><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg" alt="鸡尾酒配方动效视频封面" width="240"></a><br><a href="categories/motion-design.md#case-2102853258582880547">鸡尾酒配方动效</a></td>
-<td width="33%" valign="top"></td>
-<td width="33%" valign="top"></td>
-</tr></table>
+<p align="center">
+<a href="https://x.com/gregpr07/status/2102984873351037161"><img src="https://pbs.twimg.com/amplify_video_thumb/2102984006224728064/img/j6OMvuoA6XYlK8dr.jpg" alt="video-use 发布短片视频封面" width="32%"></a>
+<a href="https://x.com/decohack/status/2102621064518160485"><img src="https://pbs.twimg.com/amplify_video_thumb/2102620135353675776/img/0pCu49a51Bm-Xg6x.jpg" alt="Applore 产品宣传片视频封面" width="32%"></a><br>
+<a href="categories/motion-design.md#case-2102984873351037161">video-use 发布短片</a> · <a href="categories/motion-design.md#case-2102621064518160485">Applore 产品宣传片</a>
+</p>
+
+<p align="center">
+<a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="https://pbs.twimg.com/amplify_video_thumb/2102853041246347264/img/R5bqQTGaMotWD0xk.jpg" alt="鸡尾酒配方动效视频封面" width="240"></a><br>
+<a href="categories/motion-design.md#case-2102853258582880547">鸡尾酒配方动效</a>
+</p>
 
 ## 收录规则
 
