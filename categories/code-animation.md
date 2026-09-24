@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 10 个案例。
+共 11 个案例。
 
 ## 作品预览
 
@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102849349122470205">Watch Claude Paint</a></strong><br><a href="https://x.com/petergyang">Peter Yang @petergyang</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102493303388475855"><img src="https://pbs.twimg.com/amplify_video_thumb/2102493087381487616/img/CoCNR1WdNiQpyoe2.jpg" alt="Oktoberfest 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102493303388475855">Oktoberfest</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -143,5 +143,17 @@
 - **实现**：作者称这是使用 Opus 5.5 制作的交互应用；原帖未说明绘制代码或图像处理的具体实现。
 - **教程**：[观看制作过程](https://www.youtube.com/watch?v=UhBqorWNwlU)
 - **提示词**：原帖未公开制作提示词。
+
+<a id="case-2102493303388475855"></a>
+
+### Oktoberfest
+
+- **作者**：[Tak @cherry_mx_reds](https://x.com/cherry_mx_reds)
+- **样片**：[观看 30 秒动画](https://x.com/cherry_mx_reds/status/2102493303388475855)
+- **原帖**：[查看作者原帖](https://x.com/cherry_mx_reds/status/2102493303388475855)
+- **制作耗时**：14 分 48 秒
+- **内容**：以 Oktoberfest（啤酒节）为题的动画。
+- **实现**：作者称使用 Opus 5.5 一次生成；原帖未说明具体技术栈。
+- **提示词**：原帖称制作方法在下方回复，但正文未公开提示词原文，回复内容待核对。
 
 [返回首页](../README.md)

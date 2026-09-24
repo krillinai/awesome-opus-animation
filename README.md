@@ -32,7 +32,7 @@
 
 ### [代码动画与视觉实验](categories/code-animation.md)
 
-10 个案例
+11 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
