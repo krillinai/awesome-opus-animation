@@ -2,11 +2,20 @@
 
 # Awesome Opus Animation
 
-收集 AI 模型参与制作的优秀动画案例，记录作者、所用模型、提示词、样片与原帖，方便欣赏、学习和复现。目前以 Claude Opus 5.5 作品为主，后续也可收录其他模型的作品。
+[![67 个案例](https://img.shields.io/badge/cases-67-0969da)](#分类)
+[![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
+[![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
+[![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
 
-> 正在收录中。欢迎提供 X 原帖链接；优先收录作者本人发布、明确说明所用模型的作品。
+从 Claude Opus 5.5 开始，收集 AI 模型参与制作的优秀动画、互动场景和可玩作品。这里既有叙事短片和手绘 MV，也有代码动画、3D 场景、科普可视化与游戏；后续也会收录其他模型的作品。
 
-首页按分类展示精选作品预览，每行 3 个；点击分类标题查看全部案例，点击封面观看样片，点击作品名查看详情。
+这份目录同时关注**作品与制作过程**。每个案例尽量追溯作者原帖，记录可观看的样片、模型的参与方式，以及作者公开的提示词、制作耗时和在线体验。未公开或缺少来源的信息不会根据成片猜测。
+
+## 如何使用
+
+- **找作品**：下方按分类展示精选封面；点击分类标题可查看该类全部案例。
+- **看样片与做法**：点击封面前往作者原帖，点击作品名称查看案例详情与公开的制作信息。
+- **推荐案例**：在 [Issue](https://github.com/krillinai/awesome-opus-animation/issues/new) 中提交作者的 X 原帖链接，或按[贡献指南](CONTRIBUTING.md)提交 Pull Request。
 
 ## 分类
 
