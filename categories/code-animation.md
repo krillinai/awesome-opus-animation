@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 11 个案例。
+共 12 个案例。
 
 ## 作品预览
 
@@ -25,7 +25,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/petergyang/status/2102849349122470205"><img src="https://pbs.twimg.com/amplify_video_thumb/2102849308903260160/img/Vf5QsGbNkpNJio9_.jpg" alt="Watch Claude Paint 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102849349122470205">Watch Claude Paint</a></strong><br><a href="https://x.com/petergyang">Peter Yang @petergyang</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/cherry_mx_reds/status/2102493303388475855"><img src="https://pbs.twimg.com/amplify_video_thumb/2102493087381487616/img/CoCNR1WdNiQpyoe2.jpg" alt="Oktoberfest 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102493303388475855">Oktoberfest</a></strong><br><a href="https://x.com/cherry_mx_reds">Tak @cherry_mx_reds</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/peekcell/status/2102796895982878850"><img src="https://pbs.twimg.com/amplify_video_thumb/2102795703818797056/img/suyu1aee9jskxmMK.jpg" alt="有声像素场景视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102796895982878850">有声像素场景</a></strong><br><a href="https://x.com/peekcell">Peekcell @peekcell</a></td>
 </tr>
 </table>
 
@@ -155,5 +155,16 @@
 - **内容**：以 Oktoberfest（啤酒节）为题的动画。
 - **实现**：作者称使用 Opus 5.5 一次生成；原帖未说明具体技术栈。
 - **提示词**：原帖称制作方法在下方回复，但正文未公开提示词原文，回复内容待核对。
+
+<a id="case-2102796895982878850"></a>
+
+### 有声像素场景
+
+- **作者**：[Peekcell @peekcell](https://x.com/peekcell)
+- **样片**：[观看约 15 秒演示](https://x.com/peekcell/status/2102796895982878850)
+- **原帖**：[查看作者原帖](https://x.com/peekcell/status/2102796895982878850)
+- **内容**：带声音的像素风场景动画。
+- **实现**：作者称使用 Opus 5.5 生成；原帖未说明具体制作工具或代码实现。
+- **提示词**：原帖称提示词在下方回复，原文待核对。
 
 [返回首页](../README.md)
