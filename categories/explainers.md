@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 4 个案例。
+共 5 个案例。
 
 ## 作品预览
 
@@ -14,7 +14,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102591147927654847">The Plane of Focus（对焦平面）</a></strong><br><a href="https://x.com/RyanSael">Ryan Sael @RyanSael</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102463796149440888"><img src="https://pbs.twimg.com/amplify_video_thumb/2102463260083814400/img/FOxC8GQzTnxDnw8F.jpg" alt="Claude 模型发展史视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463796149440888">Claude 模型发展史</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -65,5 +65,16 @@
 - **内容**：调节对焦距离和光圈，观察镜片中的光路与场景中的清晰平面如何变化。
 - **实现**：作者称 Opus 5.5 一次完成，API 成本为 25.66 美元；原帖未说明具体技术栈。
 - **提示词**：原帖只概述了“通过交互式镜头实验解释相机对焦”的任务，未公开完整提示词。
+
+<a id="case-2102463796149440888"></a>
+
+### Claude 模型发展史
+
+- **作者**：[Alexey Fateev @superalesha](https://x.com/superalesha)
+- **样片**：[观看约 88 秒动画](https://x.com/superalesha/status/2102463796149440888)
+- **原帖**：[查看作者原帖](https://x.com/superalesha/status/2102463796149440888)
+- **内容**：介绍 Claude 各代模型的发展历程。
+- **实现**：作者称使用 Opus 5.5，以纯 JavaScript 和自己的 [hand-drawn-canvas-animation Skill](https://github.com/alesha-pro/tools/tree/main/skills/hand-drawn-canvas-animation) 制作。
+- **提示词**：原帖只概述了“制作 Claude 模型发展史”的任务，未公开完整提示词。
 
 [返回首页](../README.md)
