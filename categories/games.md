@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 9 个案例（其中 1 个原作者待核对）。
+共 10 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -21,6 +21,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102588571442188577"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587262928326656/img/lPeeyMoTHYWHfRKG.jpg" alt="Three.js 3D 游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102588571442188577">Three.js 3D 游戏演示</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/rehan_shei/status/2102794467032154206"><img src="https://pbs.twimg.com/amplify_video_thumb/2102794208411258880/img/lXnJGoj4AMOlb2cZ.jpg" alt="代码生成的 2D 像素游戏场景视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102794467032154206">代码生成的 2D 像素游戏场景</a></strong><br><a href="https://x.com/rehan_shei">Rehan Sheikh @rehan_shei</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/mattshumer_/status/2102874271316078841"><img src="https://pbs.twimg.com/amplify_video_thumb/2102873990519812096/img/V3z4VHqmR5SOf7Ux.jpg" alt="开放世界纽约多人游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102874271316078841">开放世界纽约多人游戏</a></strong><br><a href="https://x.com/mattshumer_">Matt Shumer @mattshumer_</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -129,5 +134,17 @@
 - **内容**：2D 像素游戏风格动画；原帖未说明是否可玩或提供在线体验地址。
 - **实现**：作者称使用 Opus 5.5 通过代码生成画面，未公开具体技术栈。
 - **提示词**：作者引用了 [Majid Manzarpour 的作品帖](https://x.com/majidmanzarpour/status/2102476258948927543)，并称使用其中分享的提示词；该帖称提示词在回复中，原文待核对。
+
+<a id="case-2102874271316078841"></a>
+
+### 开放世界纽约多人游戏
+
+- **作者**：[Matt Shumer @mattshumer_](https://x.com/mattshumer_)
+- **样片**：[观看约 78 秒演示](https://x.com/mattshumer_/status/2102874271316078841) · [在线试玩](https://somethingbig.ai/world/)
+- **原帖**：[查看作者原帖](https://x.com/mattshumer_/status/2102874271316078841)
+- **制作耗时**：截至发帖时，Opus 5.5 已持续迭代近一天，作品仍在改进中。
+- **内容**：以纽约为背景的开放世界多人游戏。
+- **实现**：作者称使用 Opus 5.5 持续改进游戏；原帖未说明具体游戏技术栈。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)

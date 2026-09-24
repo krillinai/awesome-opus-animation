@@ -56,7 +56,7 @@
 
 ### [游戏与可玩动画](categories/games.md)
 
-9 个案例
+10 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/alin_zone/status/2102608618751508947"><img src="https://pbs.twimg.com/amplify_video_thumb/2102607776010981376/img/cQ0kMaGCiTRK1_mk.jpg" alt="鹈鹕骑自行车演示视频封面" width="100%"></a><br><a href="categories/games.md#case-2102608618751508947">鹈鹕骑自行车</a></td>
