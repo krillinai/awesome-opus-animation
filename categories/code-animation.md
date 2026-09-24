@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 14 个案例。
+共 15 个案例。
 
 ## 作品预览
 
@@ -30,7 +30,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/shitunote/status/2103033624463585327"><img src="https://pbs.twimg.com/amplify_video_thumb/2103032111024537600/img/zXNuubyWqGtUWCQx.jpg" alt="鹈鹕骑行 SVG 动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103033624463585327">鹈鹕骑行 SVG 动画</a></strong><br><a href="https://x.com/shitunote">马识途 @shitunote</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dhruvalgolakiya/status/2102733714845491558"><img src="https://pbs.twimg.com/amplify_video_thumb/2102732320851763200/img/vs-xPt29ZRLAo9Aw.jpg" alt="Opus 5.5 两分钟有声动画视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102733714845491558">Opus 5.5 两分钟有声动画</a></strong><br><a href="https://x.com/dhruvalgolakiya">Dhruval @dhruvalgolakiya</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/HugoDuprez/status/2102746041250705890"><img src="https://pbs.twimg.com/amplify_video_thumb/2102741943729938432/img/n3Ll22rg9AQF9Rjv.jpg" alt="Opus 像素场景实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102746041250705890">Opus 像素场景实验</a></strong><br><a href="https://x.com/HugoDuprez">Hugo Duprez @HugoDuprez</a></td>
 </tr>
 </table>
 
@@ -199,5 +199,16 @@
 - **实现**：作者称使用 Opus 5.5 制作，视频包含音频和音效；原帖未说明具体画面或声音技术栈。
 - **相关**：[作者此前的短片演示](https://x.com/dhruvalgolakiya/status/2102484620109644273)
 - **提示词**：作者称用了 3 条提示词，原帖未公开原文。
+
+<a id="case-2102746041250705890"></a>
+
+### Opus 像素场景实验
+
+- **作者**：[Hugo Duprez @HugoDuprez](https://x.com/HugoDuprez)
+- **样片**：[观看约 13 秒演示](https://x.com/HugoDuprez/status/2102746041250705890)
+- **原帖**：[查看作者原帖](https://x.com/HugoDuprez/status/2102746041250705890)
+- **内容**：像素风场景动画。
+- **实现**：作者称使用 Opus 5.5 生成；原帖未说明具体技术栈或素材来源。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)
