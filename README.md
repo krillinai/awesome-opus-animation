@@ -46,7 +46,7 @@
 
 ### [3D 场景与交互](categories/3d-scenes.md)
 
-10 个案例
+11 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>

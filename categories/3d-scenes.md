@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 10 个案例。
+共 11 个案例。
 
 ## 作品预览
 
@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/superalesha/status/2102487989381156991"><img src="https://pbs.twimg.com/amplify_video_thumb/2102487325448028160/img/1VjQhxd0hHv7r2oD.jpg" alt="Blender 动画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102487989381156991">Blender 动画实验</a></strong><br><a href="https://x.com/superalesha">Alexey Fateev @superalesha</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetanankola/status/2103008022369099992"><img src="https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg" alt="Three.js 与 Opus 创意体验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103008022369099992">Three.js 与 Opus 创意体验</a></strong><br><a href="https://x.com/chetanankola">Chetan Ankola @chetanankola</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -143,6 +143,16 @@
 - **样片**：[观看 61 秒视频](https://x.com/superalesha/status/2102487989381156991)
 - **原帖**：[查看作者原帖](https://x.com/superalesha/status/2102487989381156991)
 - **实现**：作者称使用 Opus 5.5 在 Blender 中制作；原帖未说明具体画面主题、制作流程或素材来源。
+- **提示词**：原帖未公开制作提示词。
+
+<a id="case-2103008022369099992"></a>
+
+### Three.js 与 Opus 创意体验
+
+- **作者**：[Chetan Ankola @chetanankola](https://x.com/chetanankola)
+- **样片**：[观看约 28 秒演示](https://x.com/chetanankola/status/2103008022369099992)
+- **原帖**：[查看作者原帖](https://x.com/chetanankola/status/2103008022369099992)
+- **实现**：作者称使用 Three.js 与 Claude Opus 5.5 制作，并称这是其体验作品的另一版本；原帖未说明具体场景、交互方式或前一版本的链接。
 - **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)
