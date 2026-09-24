@@ -2,7 +2,7 @@
 
 [返回首页](../README.md)
 
-共 7 个案例（其中 1 个原作者待核对）。
+共 8 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="https://pbs.twimg.com/amplify_video_thumb/2102461665086418944/img/tVvrrmXl9pTmsR5u.jpg" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102588571442188577"><img src="https://pbs.twimg.com/amplify_video_thumb/2102587262928326656/img/lPeeyMoTHYWHfRKG.jpg" alt="Three.js 3D 游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102588571442188577">Three.js 3D 游戏演示</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
@@ -107,5 +107,15 @@
 - **内容**：以安提基特拉机械的发现为灵感制作的可玩游戏。
 - **实现**：作者称由 Opus 5.5 编写代码，画面和声音实时程序生成，作品封装在约 3 MB 的单个 HTML 文件中。原帖称可玩的 Claude Artifact 链接在回复里，直达地址待核对。
 - **提示词**：原帖概述了游戏主题，未公开完整提示词。
+
+<a id="case-2102588571442188577"></a>
+
+### Three.js 3D 游戏演示
+
+- **作者**：[Shikhar @xikhar](https://x.com/xikhar)
+- **样片**：[观看约 3 分 7 秒演示](https://x.com/xikhar/status/2102588571442188577)
+- **原帖**：[查看作者原帖](https://x.com/xikhar/status/2102588571442188577)
+- **实现**：作者称使用 Opus 5.5 Medium 制作 Three.js 游戏，所有 3D 模型、纹理和动画均从零制作；原帖未进一步说明制作流程。
+- **提示词**：原帖未公开制作提示词。
 
 [返回首页](../README.md)
