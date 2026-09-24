@@ -118,6 +118,12 @@ X 原帖：
 模型的参与方式：
 ```
 
+欢迎通过 Issue 或 Pull Request 参与，具体步骤见[贡献指南](CONTRIBUTING.md)。参与讨论请遵守[行为准则](CODE_OF_CONDUCT.md)。
+
+## 许可
+
+仓库文件采用 [MIT License](LICENSE)；所链接或引用的第三方作品与素材仍归原权利人所有。
+
 <!-- 新案例模板：先在对应分类页的表格中补入一个单元格，每行最多三个；横屏、方屏（含近方屏）、竖屏分别成行。再把详情复制到该分类页的表格下方。POST_ID 使用 X 原帖数字 ID。
 
 <td width="33%" valign="top" align="center"><a href="https://x.com/handle/status/POST_ID"><img src="视频封面图片地址" alt="作品名称视频封面，点击观看" width="100%"></a><br><strong><a href="#case-POST_ID">作品名称</a></strong><br><a href="https://x.com/handle">@handle</a></td>
