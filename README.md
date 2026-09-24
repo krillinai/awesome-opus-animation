@@ -15,9 +15,9 @@
 12 个案例
 
 <table><tr>
-<td width="33%" valign="top" align="center"><a href="https://x.com/AndrewOnXYZ/status/2102512879258009818"><img src="https://pbs.twimg.com/amplify_video_thumb/2102512551380619264/img/bRsZ7nsJGMppd8Sl.jpg" alt="火星通信科幻短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102512879258009818">火星通信科幻短片</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/ctgptlb/status/2102726428991373480"><img src="https://pbs.twimg.com/amplify_video_thumb/2102697696884871168/img/R5MifqT23uk-BDwj.jpg" alt="代码逐帧绘制的 1 分钟短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102726428991373480">代码逐帧绘制的 1 分钟短片</a></td>
-<td width="33%" valign="top" align="center"><a href="https://x.com/shfred0/status/2102495989194236158"><img src="https://pbs.twimg.com/amplify_video_thumb/2102495951738822657/img/MzxuuvkAQ6e1w6mR.jpg" alt="Claude 的一生视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102495989194236158">Claude 的一生</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/nicekate8888/status/2102575622912631261"><img src="https://pbs.twimg.com/amplify_video_thumb/2102575438552076288/img/G7kk0UlwMGYcbudS.jpg" alt="Opus 5.5 自我介绍短片视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102575622912631261">Opus 5.5 自我介绍短片</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/angrypenguinPNG/status/2102611372978872504"><img src="https://pbs.twimg.com/amplify_video_thumb/2102611080937943040/img/yY2jViMojK9ukpX7.jpg" alt="Opus 的梦视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102611372978872504">Opus 的梦</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102717699600368045"><img src="https://pbs.twimg.com/amplify_video_thumb/2102714444405231616/img/V4Owtg6WaF_8mRSD.jpg" alt="Claude's Plan 视频封面" width="100%"></a><br><a href="categories/narrative.md#case-2102717699600368045">Claude's Plan</a></td>
 </tr></table>
 
 ### [手绘动画与 MV](categories/hand-drawn-mv.md)
