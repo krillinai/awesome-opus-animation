@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-15 cases (one creator attribution remains unverified).
+16 cases (one creator attribution remains unverified).
 
 ## Previews
 
@@ -33,6 +33,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="../assets/preview/antikythera.png" alt="Antikythera Mechanism Game preview, open post" width="100%"></a><br><strong><a href="#case-2102463453176979794">Antikythera Mechanism Game</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/_MaxBlade/status/2102513817855094922"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513139124244480/img/ZNe0K2GOw_rM50mW.jpg" alt="Multiplayer Lawn-Mowing Simulator preview, open post" width="100%"></a><br><strong><a href="#case-2102513817855094922">Multiplayer Lawn-Mowing Simulator</a></strong><br><a href="https://x.com/_MaxBlade">Max Blade @_MaxBlade</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/oguzthedev/status/2102476490344730950"><img src="https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg" alt="Code-Drawn Beekeeping Game preview, open post" width="100%"></a><br><strong><a href="#case-2102476490344730950">Code-Drawn Beekeeping Game</a></strong><br><a href="https://x.com/oguzthedev">Oguz @oguzthedev</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102932763750084797"><img src="https://pbs.twimg.com/amplify_video_thumb/2102931753610678272/img/uyYEUFSVjnvrYFHG.jpg" alt="Three.js Symbiote Game Update preview, open post" width="100%"></a><br><strong><a href="#case-2102932763750084797">Three.js Symbiote Game Update</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -134,6 +139,19 @@ A [different author's SVG/H5 prompt experiment](code-animation.md#case-210303362
 - **Original post:** [Creator's post](https://x.com/xikhar/status/2102588571442188577)
 - **Implementation:** The creator says Opus 5.5 Medium built a Three.js game and made its 3D models, textures, and animation from scratch. More workflow details were not published.
 - **Prompt:** Not public.
+- **Follow-up:** [Symbiote suit and gameplay update](games.md#case-2102932763750084797).
+
+<a id="case-2102932763750084797"></a>
+
+### Three.js Symbiote Game Update
+
+- **Creator:** [Shikhar @xikhar](https://x.com/xikhar)
+- **Watch:** [Watch 130-second video](https://x.com/xikhar/status/2102932763750084797)
+- **Original post:** [Creator's post](https://x.com/xikhar/status/2102932763750084797)
+- **About:** After several iterations, the game adds a symbiote suit, improved animations and models, and gameplay mechanics. The creator says the city overhaul is still in progress.
+- **Implementation:** The creator says this Opus 5.5 Medium project was built from scratch with Three.js and Blender.
+- **Prompt:** Not public.
+- **Earlier demo:** [Three.js 3D Game Demo](games.md#case-2102588571442188577).
 
 <a id="case-2102794467032154206"></a>
 

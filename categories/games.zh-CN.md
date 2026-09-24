@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 15 个案例（其中 1 个原作者待核对）。
+共 16 个案例（其中 1 个原作者待核对）。
 
 ## 作品预览
 
@@ -33,6 +33,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="../assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102463453176979794">安提基特拉机械游戏</a></strong><br><a href="https://x.com/edwinarbus">edwin @edwinarbus</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/_MaxBlade/status/2102513817855094922"><img src="https://pbs.twimg.com/amplify_video_thumb/2102513139124244480/img/ZNe0K2GOw_rM50mW.jpg" alt="多人割草模拟器视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102513817855094922">多人割草模拟器</a></strong><br><a href="https://x.com/_MaxBlade">Max Blade @_MaxBlade</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/oguzthedev/status/2102476490344730950"><img src="https://pbs.twimg.com/amplify_video_thumb/2102475876294160385/img/62UkVvph1tnyLBye.jpg" alt="代码绘制的养蜂游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102476490344730950">代码绘制的养蜂游戏</a></strong><br><a href="https://x.com/oguzthedev">Oguz @oguzthedev</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/xikhar/status/2102932763750084797"><img src="https://pbs.twimg.com/amplify_video_thumb/2102931753610678272/img/uyYEUFSVjnvrYFHG.jpg" alt="Three.js 共生体战衣游戏续作视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102932763750084797">Three.js 共生体战衣游戏续作</a></strong><br><a href="https://x.com/xikhar">Shikhar @xikhar</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
 </tr>
 </table>
 
@@ -130,6 +135,19 @@
 - **原帖**：[查看作者原帖](https://x.com/xikhar/status/2102588571442188577)
 - **实现**：作者称使用 Opus 5.5 Medium 制作 Three.js 游戏，所有 3D 模型、纹理和动画均从零制作；原帖未进一步说明制作流程。
 - **提示词**：原帖未公开制作提示词。
+- **续作**：[共生体战衣与玩法更新](games.zh-CN.md#case-2102932763750084797)。
+
+<a id="case-2102932763750084797"></a>
+
+### Three.js 共生体战衣游戏续作
+
+- **作者**：[Shikhar @xikhar](https://x.com/xikhar)
+- **样片**：[观看约 130 秒演示](https://x.com/xikhar/status/2102932763750084797)
+- **原帖**：[查看作者原帖](https://x.com/xikhar/status/2102932763750084797)
+- **内容**：经过数轮迭代，游戏加入共生体战衣，改进了动画和模型，并新增玩法机制；作者称城市部分仍在改进中。
+- **实现**：作者称使用 Opus 5.5 Medium，以 Three.js 和 Blender 从零制作。
+- **提示词**：原帖未公开制作提示词。
+- **前作**：[Three.js 3D 游戏演示](games.zh-CN.md#case-2102588571442188577)。
 
 <a id="case-2102794467032154206"></a>
 
