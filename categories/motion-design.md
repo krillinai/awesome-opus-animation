@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-9 cases.
+10 cases.
 
 ## Previews
 
@@ -20,6 +20,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/nazmijavierl/status/2102712897701097828"><img src="https://pbs.twimg.com/amplify_video_thumb/2102711987281244160/img/IXe2AarMI-CD8E1F.jpg" alt="One-Prompt Graphic Posts and Animation preview, open post" width="100%"></a><br><strong><a href="#case-2102712897701097828">One-Prompt Graphic Posts and Animation</a></strong><br><a href="https://x.com/nazmijavierl">Nazday @nazmijavierl</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/goodside/status/2102937913726235004"><img src="../assets/preview/ContextWindow.jpg" alt="Context Window opening credits preview, open post" width="100%"></a><br><strong><a href="#case-2102937913726235004">Context Window: Opening Credits</a></strong><br><a href="https://x.com/goodside">Riley Goodside @goodside</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="Cocktail Recipe Motion Graphic preview, open post" width="240"></a><br><strong><a href="#case-2102853258582880547">Cocktail Recipe Motion Graphic</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/developedbyed/status/2102789774461280370"><img src="https://pbs.twimg.com/amplify_video_thumb/2102789636888096769/img/eYGhadjQViv6GDFv.jpg" alt="Opus 5.5 vs GPT-6 Astra Loss Screen preview, open post" width="240"></a><br><strong><a href="#case-2102789774461280370">Opus 5.5 vs GPT-6 Astra Loss Screen</a></strong><br><a href="https://x.com/developedbyed">Dev Ed @developedbyed</a></td>
 <td width="33%" valign="top"></td>
@@ -32,6 +37,19 @@
 </table>
 
 ## Case Details
+
+<a id="case-2102937913726235004"></a>
+
+### Context Window: Opening Credits
+
+- **Creator:** [Riley Goodside @goodside](https://x.com/goodside)
+- **Watch:** [Watch the 75-second sequence](https://x.com/goodside/status/2102937913726235004)
+- **Original post:** [Creator's post](https://x.com/goodside/status/2102937913726235004)
+- **About:** Opening credits for an imagined film about Claude, titled *Context Window*, with invented names and animated typography.
+- **Implementation:** The creator labels the result Claude Opus 5.5 (Extra). The post does not disclose the animation stack or production time.
+- **Prompt:** Published verbatim in the [post](https://x.com/goodside/status/2102937913726235004):
+
+> Imagine there exists a really good movie about you. Animate the opening credits to this film with made-up names in any style you like. Return the sequence as an mp4.
 
 <a id="case-2102712897701097828"></a>
 

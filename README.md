@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*A curated collection of 105 standout AI-assisted animations and interactive projects.*
+*A curated collection of 106 standout AI-assisted animations and interactive projects.*
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![105 cases](https://img.shields.io/badge/cases-105-0969da)](#categories)
+[![106 cases](https://img.shields.io/badge/cases-106-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -93,7 +93,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Motion & Brand Design](categories/motion-design.md)
 
-9 cases
+10 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use Launch Video preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use Launch Video</a></td>

@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*精选收录 105 个热门 AI 动画与互动作品案例。*
+*精选收录 106 个热门 AI 动画与互动作品案例。*
 
 [English](README.md) | **简体中文**
 
-[![105 个案例](https://img.shields.io/badge/cases-105-0969da)](#分类)
+[![106 个案例](https://img.shields.io/badge/cases-106-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -93,7 +93,7 @@
 
 ### [动效与品牌设计](categories/motion-design.zh-CN.md)
 
-9 个案例
+10 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102984873351037161">video-use 发布短片</a></td>

@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 9 个案例。
+共 10 个案例。
 
 ## 作品预览
 
@@ -20,6 +20,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/nazmijavierl/status/2102712897701097828"><img src="https://pbs.twimg.com/amplify_video_thumb/2102711987281244160/img/IXe2AarMI-CD8E1F.jpg" alt="一次提示词制作的图文动效视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102712897701097828">一次提示词制作的图文动效</a></strong><br><a href="https://x.com/nazmijavierl">Nazday @nazmijavierl</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/goodside/status/2102937913726235004"><img src="../assets/preview/ContextWindow.jpg" alt="Context Window 片头字幕视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102937913726235004">Context Window：电影片头字幕</a></strong><br><a href="https://x.com/goodside">Riley Goodside @goodside</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Ror_Fly/status/2102853258582880547"><img src="../assets/preview/cocktail.png" alt="鸡尾酒配方动效视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102853258582880547">鸡尾酒配方动效</a></strong><br><a href="https://x.com/Ror_Fly">Rory Flynn @Ror_Fly</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/developedbyed/status/2102789774461280370"><img src="https://pbs.twimg.com/amplify_video_thumb/2102789636888096769/img/eYGhadjQViv6GDFv.jpg" alt="Opus 5.5 与 GPT-6 Astra 失败界面动效视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102789774461280370">Opus 5.5 与 GPT-6 Astra 失败界面动效</a></strong><br><a href="https://x.com/developedbyed">Dev Ed @developedbyed</a></td>
 <td width="33%" valign="top"></td>
@@ -32,6 +37,19 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2102937913726235004"></a>
+
+### Context Window：电影片头字幕
+
+- **作者**：[Riley Goodside @goodside](https://x.com/goodside)
+- **样片**：[观看 75 秒片头](https://x.com/goodside/status/2102937913726235004)
+- **原帖**：[查看作者原帖](https://x.com/goodside/status/2102937913726235004)
+- **内容**：为一部假想的 Claude 电影制作片头字幕，影片名为 *Context Window*，演员和制作人员姓名均为虚构。
+- **实现**：作者标注作品由 Claude Opus 5.5（Extra）生成；原帖未公开动画技术栈或制作耗时。
+- **提示词**：作者在[原帖](https://x.com/goodside/status/2102937913726235004)公开的原文：
+
+> Imagine there exists a really good movie about you. Animate the opening credits to this film with made-up names in any style you like. Return the sequence as an mp4.
 
 <a id="case-2102712897701097828"></a>
 
