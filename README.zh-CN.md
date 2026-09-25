@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*精选收录 106 个热门 AI 动画与互动作品案例。*
+*精选收录 107 个热门 AI 动画与互动作品案例。*
 
 [English](README.md) | **简体中文**
 
-[![106 个案例](https://img.shields.io/badge/cases-106-0969da)](#分类)
+[![107 个案例](https://img.shields.io/badge/cases-107-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -83,7 +83,7 @@
 
 ### [科普与信息可视化](categories/explainers.zh-CN.md)
 
-8 个案例
+9 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="100%"></a><br><a href="categories/explainers.zh-CN.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a></td>

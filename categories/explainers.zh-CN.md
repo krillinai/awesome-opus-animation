@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 8 个案例。
+共 9 个案例。
 
 ## 作品预览
 
@@ -22,11 +22,22 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/akokoi1/status/2102583898865873225"><img src="https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg" alt="中华上下五千年速览视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102583898865873225">中华上下五千年速览</a></strong><br><a href="https://x.com/akokoi1">WY @akokoi1</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/andrewjiang/status/2102987981695132140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987203840466944/img/tlvgCuJLSqSy2piZ.jpg" alt="The Steep Part：未来 50 年的 AI 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102987981695132140">The Steep Part：未来 50 年的 AI</a></strong><br><a href="https://x.com/andrewjiang">Andrew Jiang @andrewjiang</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Iamshankhadeep/status/2103087123503177752"><img src="../assets/preview/how-the-world-was-made.jpg" alt="地球是如何形成的动画封面，点击观看" width="100%"></a><br><strong><a href="#case-2103087123503177752">地球是如何形成的</a></strong><br><a href="https://x.com/Iamshankhadeep">Shankhadeep Dey @Iamshankhadeep</a></td>
 </tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2103087123503177752"></a>
+
+### 地球是如何形成的
+
+- **作者**：[Shankhadeep Dey @Iamshankhadeep](https://x.com/Iamshankhadeep)
+- **样片**：[观看 60 秒动画](https://x.com/Iamshankhadeep/status/2103087123503177752)
+- **原帖**：[查看作者原帖](https://x.com/Iamshankhadeep/status/2103087123503177752)
+- **内容**：用插画动画讲述地球形成的故事，从早期星球与碰撞，延伸到火山、海洋和生命。
+- **实现**：作者称作品由 Opus 5.5 制作，原帖未说明动画技术栈或具体制作流程。
+- **提示词**：原帖只提到“世界如何形成”这一主题，未公开完整提示词。
 
 <a id="case-2102987981695132140"></a>
 

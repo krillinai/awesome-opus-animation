@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-8 cases.
+9 cases.
 
 ## Previews
 
@@ -22,11 +22,22 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/akokoi1/status/2102583898865873225"><img src="https://pbs.twimg.com/amplify_video_thumb/2102583173507158016/img/zZ_aW-t8p1L-0GLf.jpg" alt="Five Millennia of Chinese History preview, open post" width="100%"></a><br><strong><a href="#case-2102583898865873225">Five Millennia of Chinese History</a></strong><br><a href="https://x.com/akokoi1">WY @akokoi1</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/andrewjiang/status/2102987981695132140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987203840466944/img/tlvgCuJLSqSy2piZ.jpg" alt="The Steep Part preview, open post" width="100%"></a><br><strong><a href="#case-2102987981695132140">The Steep Part: The Next 50 Years of AI</a></strong><br><a href="https://x.com/andrewjiang">Andrew Jiang @andrewjiang</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/Iamshankhadeep/status/2103087123503177752"><img src="../assets/preview/how-the-world-was-made.jpg" alt="How the World Was Made preview, open post" width="100%"></a><br><strong><a href="#case-2103087123503177752">How the World Was Made</a></strong><br><a href="https://x.com/Iamshankhadeep">Shankhadeep Dey @Iamshankhadeep</a></td>
 </tr>
 </table>
 
 ## Case Details
+
+<a id="case-2103087123503177752"></a>
+
+### How the World Was Made
+
+- **Creator:** [Shankhadeep Dey @Iamshankhadeep](https://x.com/Iamshankhadeep)
+- **Watch:** [Watch the 60-second video](https://x.com/Iamshankhadeep/status/2103087123503177752)
+- **Original post:** [Creator's post](https://x.com/Iamshankhadeep/status/2103087123503177752)
+- **About:** An illustrated story of Earth's formation, from a young planet and collisions to volcanoes, oceans, and life.
+- **Implementation:** The creator credits Opus 5.5, but does not describe the animation stack or production workflow.
+- **Prompt:** The post describes the topic as "how the world is formed," but does not publish the full prompt.
 
 <a id="case-2102987981695132140"></a>
 
