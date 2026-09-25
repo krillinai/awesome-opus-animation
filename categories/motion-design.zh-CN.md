@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 10 个案例。
+共 11 个案例。
 
 ## 作品预览
 
@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/goodside/status/2102937913726235004"><img src="../assets/preview/ContextWindow.jpg" alt="Context Window 片头字幕视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102937913726235004">Context Window：电影片头字幕</a></strong><br><a href="https://x.com/goodside">Riley Goodside @goodside</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/moritzkremb/status/2103066071838466494"><img src="../assets/preview/saas-launch-video.jpg" alt="一条提示词制作的 SaaS 发布片封面，点击观看" width="100%"></a><br><strong><a href="#case-2103066071838466494">一条提示词制作的 SaaS 发布片</a></strong><br><a href="https://x.com/moritzkremb">Moritz Kremb @moritzkremb</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -37,6 +37,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103066071838466494"></a>
+
+### 一条提示词制作的 SaaS 发布片
+
+- **作者**：[Moritz Kremb @moritzkremb](https://x.com/moritzkremb)
+- **样片**：[观看 46 秒视频](https://x.com/moritzkremb/status/2103066071838466494)
+- **原帖**：[查看作者原帖](https://x.com/moritzkremb/status/2103066071838466494)
+- **内容**：以 Ramp 品牌界面、应用集成、会议笔记和产品文案呈现的 SaaS 产品发布片。这是 AI 制作的展示作品，并非 Ramp 官方发布视频。
+- **实现**：作者称 Opus 5.5 根据一条提示词制作；原帖未说明动画技术栈或素材来源。
+- **提示词**：作者概述了“自行选择一款 SaaS，制作专业的产品发布视频”的要求；帖文提到下方有完整提示词，本条目尚未核实到原文。
 
 <a id="case-2102937913726235004"></a>
 

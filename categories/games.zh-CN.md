@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 22 个案例（其中 2 个原作者待核对）。
+共 23 个案例（其中 2 个原作者待核对）。
 
 ## 作品预览
 
@@ -46,12 +46,23 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/IHayato/status/2103043212869026013"><img src="https://pbs.twimg.com/amplify_video_thumb/2103042731299995648/img/aXtdjVprJga8YrhR.jpg" alt="《原神》风格 Godot 游戏演示封面，点击观看" width="100%"></a><br><strong><a href="#case-2103043212869026013">《原神》风格 Godot 游戏</a></strong><br><a href="https://x.com/IHayato">イケハヤ @IHayato</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/KanaWorks_AI/status/2103138051165933661"><img src="https://pbs.twimg.com/amplify_video_thumb/2103137269079261184/img/4bndqvSpWJASov_6.jpg" alt="Unreal 动作 RPG 游戏演示封面，点击观看" width="100%"></a><br><strong><a href="#case-2103138051165933661">Unreal 动作 RPG 原型</a></strong><br><a href="https://x.com/KanaWorks_AI">KANA @KanaWorks_AI</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2103138051165933661"></a>
+
+### Unreal 动作 RPG 原型
+
+- **作者**：[KANA @KanaWorks_AI](https://x.com/KanaWorks_AI)
+- **样片**：[观看 51 秒演示](https://x.com/KanaWorks_AI/status/2103138051165933661)
+- **原帖**：[查看作者原帖](https://x.com/KanaWorks_AI/status/2103138051165933661)
+- **内容**：雪地竞技场中的手柄操作动作 RPG 原型，展示角色奔跑、翻滚和挥剑。
+- **实现**：作者称使用 Claude Opus 5.5 与 Unreal Engine 制作；原帖未说明开发流程或提供试玩版本。
+- **提示词**：原帖未公开。
 
 <a id="case-2103043212869026013"></a>
 

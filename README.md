@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*A curated collection of 109 standout AI-assisted animations and interactive projects.*
+### A curated collection of 114 standout AI-assisted animations and interactive projects.
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![109 cases](https://img.shields.io/badge/cases-109-0969da)](#categories)
+[![114 cases](https://img.shields.io/badge/cases-114-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -21,11 +21,28 @@ This collection documents **both the work and how it was made**. Each entry link
 - **Watch and learn:** Click a thumbnail for the creator's post, or a title for the case details and public production notes.
 - **Suggest a case:** Share the creator's X post in an [issue](https://github.com/krillinai/awesome-opus-animation/issues/new), or follow the [contribution guide](CONTRIBUTING.md) to open a pull request.
 
+## Top 10 by X Views
+
+Public view counts on the linked X posts, including showcase posts. Snapshot: 2026-09-25 (UTC+8); counts and rankings will change.
+
+| # | Case | Creator / poster | Views |
+| ---: | --- | --- | ---: |
+| 1 | [Western Civilization in Two Minutes](categories/explainers.md#case-2103212539895017864) | [@IterIntellectus](https://x.com/IterIntellectus) | [3,213,217](https://x.com/IterIntellectus/status/2103212539895017864) |
+| 2 | [Abacus AI 3D Game Showcase](categories/games.md#case-2103009665177305456) | [@bindureddy](https://x.com/bindureddy) | [1,628,947](https://x.com/bindureddy/status/2103009665177305456) |
+| 3 | [DreW's Code Animation Experiment](categories/code-animation.md#case-2102436464323661880) | [@devteamdrew](https://x.com/devteamdrew) | [1,622,673](https://x.com/devteamdrew/status/2102436464323661880) |
+| 4 | [Claude Pop Remake Music Video](categories/hand-drawn-mv.md#case-2102801274173587569) | [@donaldjewkes](https://x.com/donaldjewkes) | [1,305,672](https://x.com/donaldjewkes/status/2102801274173587569) |
+| 5 | [Interactive Island Ecosystem](categories/3d-scenes.md#case-2102878170089169235) | [@dangreenheck](https://x.com/dangreenheck) | [762,140](https://x.com/dangreenheck/status/2102878170089169235) |
+| 6 | [The Plane of Focus](categories/explainers.md#case-2102591147927654847) | [@RyanSael](https://x.com/RyanSael) | [670,649](https://x.com/RyanSael/status/2102591147927654847) |
+| 7 | [The Steep Part: The Next 50 Years of AI](categories/explainers.md#case-2102987981695132140) | [@andrewjiang](https://x.com/andrewjiang) | [655,777](https://x.com/andrewjiang/status/2102987981695132140) |
+| 8 | [What Do You Love?](categories/narrative.md#case-2102437977435893771) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [615,021](https://x.com/kevin_t_ngo/status/2102437977435893771) |
+| 9 | [Dark Souls-style Game Demo](categories/games.md#case-2102440678282412195) | [@The_Alex](https://x.com/The_Alex) | [582,577](https://x.com/The_Alex/status/2102440678282412195) |
+| 10 | [Pixel Neural Network Training](categories/explainers.md#case-2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | [535,499](https://x.com/DotCSV/status/2102737776219168939) |
+
 ## Categories
 
 ### [Games & Playable Animation](categories/games.md)
 
-22 cases
+23 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="Antikythera Mechanism Game preview, open post" width="100%"></a><br><a href="categories/games.md#case-2102463453176979794">Antikythera Mechanism Game</a></td>
@@ -39,7 +56,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Code Animation & Visual Experiments](categories/code-animation.md)
 
-24 cases
+25 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song (Interactive Stop-Motion) preview, open post" width="100%"></a><br><a href="categories/code-animation.md#case-2102501773705670994">Steam Song (Interactive Stop-Motion)</a></td>
@@ -83,7 +100,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Explainers & Information Visualization](categories/explainers.md)
 
-9 cases
+11 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus preview, open post" width="100%"></a><br><a href="categories/explainers.md#case-2102591147927654847">The Plane of Focus</a></td>
@@ -93,7 +110,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Motion & Brand Design](categories/motion-design.md)
 
-10 cases
+11 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use Launch Video preview, open post" width="100%"></a><br><a href="categories/motion-design.md#case-2102984873351037161">video-use Launch Video</a></td>

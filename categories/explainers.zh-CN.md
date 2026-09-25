@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 9 个案例。
+共 11 个案例。
 
 ## 作品预览
 
@@ -24,9 +24,37 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/andrewjiang/status/2102987981695132140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987203840466944/img/tlvgCuJLSqSy2piZ.jpg" alt="The Steep Part：未来 50 年的 AI 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102987981695132140">The Steep Part：未来 50 年的 AI</a></strong><br><a href="https://x.com/andrewjiang">Andrew Jiang @andrewjiang</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Iamshankhadeep/status/2103087123503177752"><img src="../assets/preview/how-the-world-was-made.jpg" alt="地球是如何形成的动画封面，点击观看" width="100%"></a><br><strong><a href="#case-2103087123503177752">地球是如何形成的</a></strong><br><a href="https://x.com/Iamshankhadeep">Shankhadeep Dey @Iamshankhadeep</a></td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/WinterArc2125/status/2103116235009347650"><img src="../assets/preview/austerlitz.jpg" alt="奥斯特里茨战役短片封面，点击观看" width="100%"></a><br><strong><a href="#case-2103116235009347650">奥斯特里茨战役短片</a></strong><br><a href="https://x.com/WinterArc2125">Winter @WinterArc2125</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/IterIntellectus/status/2103212539895017864"><img src="https://pbs.twimg.com/amplify_video_thumb/2103211525095702528/img/9hhkZEeK88qwJlMk.jpg" alt="两分钟西方文明史视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103212539895017864">两分钟西方文明史</a></strong><br><a href="https://x.com/IterIntellectus">vittorio @IterIntellectus</a></td>
+<td width="33%" valign="top"></td>
+</tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2103212539895017864"></a>
+
+### 两分钟西方文明史
+
+- **作者**：[vittorio @IterIntellectus](https://x.com/IterIntellectus)
+- **样片**：[观看约 2 分 16 秒视频](https://x.com/IterIntellectus/status/2103212539895017864)
+- **原帖**：[查看作者原帖](https://x.com/IterIntellectus/status/2103212539895017864)
+- **内容**：以文字动效串联西方文明历程，从古典时代延伸至艺术、科学和现代技术，并反复使用火焰意象。
+- **实现**：作者称让 Claude 制作视频；原帖未说明 Claude 的模型版本、动画技术栈或制作流程。
+- **提示词**：原帖只概述了“制作一段关于西方文明的视频”，没有公开完整提示词。
+
+<a id="case-2103116235009347650"></a>
+
+### 奥斯特里茨战役短片
+
+- **作者**：[Winter @WinterArc2125](https://x.com/WinterArc2125)
+- **样片**：[观看 5 分钟短片](https://x.com/WinterArc2125/status/2103116235009347650)
+- **原帖**：[查看作者原帖](https://x.com/WinterArc2125/status/2103116235009347650)
+- **制作耗时**：作者称构建用时 90 分钟、渲染用时 4 小时，云端 agent 额度花费 40 美元。
+- **内容**：讲述拿破仑 1805 年奥斯特里茨战役的历史短片，包含战场地图、部队运动和配音场景。
+- **实现**：作者称 Opus 5.5 以代码制作引擎、士兵、配乐和人声；地形参考卫星数据，日出位置对应 1805 年 12 月 2 日。
+- **提示词**：原帖称下方附有代码和提示词，但本条目尚未核实到完整原文。
 
 <a id="case-2103087123503177752"></a>
 

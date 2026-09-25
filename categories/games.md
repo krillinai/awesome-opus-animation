@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-22 cases (two creator attributions remain unverified).
+23 cases (two creator attributions remain unverified).
 
 ## Previews
 
@@ -46,12 +46,23 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/IHayato/status/2103043212869026013"><img src="https://pbs.twimg.com/amplify_video_thumb/2103042731299995648/img/aXtdjVprJga8YrhR.jpg" alt="Genshin-Inspired Godot Game preview, open post" width="100%"></a><br><strong><a href="#case-2103043212869026013">Genshin-Inspired Godot Game</a></strong><br><a href="https://x.com/IHayato">イケハヤ @IHayato</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/KanaWorks_AI/status/2103138051165933661"><img src="https://pbs.twimg.com/amplify_video_thumb/2103137269079261184/img/4bndqvSpWJASov_6.jpg" alt="Unreal ARPG Prototype preview, open post" width="100%"></a><br><strong><a href="#case-2103138051165933661">Unreal ARPG Prototype</a></strong><br><a href="https://x.com/KanaWorks_AI">KANA @KanaWorks_AI</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 </table>
 
 ## Case Details
+
+<a id="case-2103138051165933661"></a>
+
+### Unreal ARPG Prototype
+
+- **Creator:** [KANA @KanaWorks_AI](https://x.com/KanaWorks_AI)
+- **Watch:** [Watch the 51-second demo](https://x.com/KanaWorks_AI/status/2103138051165933661)
+- **Original post:** [Creator's post](https://x.com/KanaWorks_AI/status/2103138051165933661)
+- **About:** A controller-driven action RPG prototype in a snowy arena. The creator demonstrates running, rolling, and swinging a sword.
+- **Implementation:** The creator credits Claude Opus 5.5 and Unreal Engine. The post does not detail the development process or provide a playable build.
+- **Prompt:** Not public.
 
 <a id="case-2103043212869026013"></a>
 

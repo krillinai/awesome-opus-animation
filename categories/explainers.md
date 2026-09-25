@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-9 cases.
+11 cases.
 
 ## Previews
 
@@ -24,9 +24,37 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/andrewjiang/status/2102987981695132140"><img src="https://pbs.twimg.com/amplify_video_thumb/2102987203840466944/img/tlvgCuJLSqSy2piZ.jpg" alt="The Steep Part preview, open post" width="100%"></a><br><strong><a href="#case-2102987981695132140">The Steep Part: The Next 50 Years of AI</a></strong><br><a href="https://x.com/andrewjiang">Andrew Jiang @andrewjiang</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/Iamshankhadeep/status/2103087123503177752"><img src="../assets/preview/how-the-world-was-made.jpg" alt="How the World Was Made preview, open post" width="100%"></a><br><strong><a href="#case-2103087123503177752">How the World Was Made</a></strong><br><a href="https://x.com/Iamshankhadeep">Shankhadeep Dey @Iamshankhadeep</a></td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/WinterArc2125/status/2103116235009347650"><img src="../assets/preview/austerlitz.jpg" alt="The Battle of Austerlitz preview, open post" width="100%"></a><br><strong><a href="#case-2103116235009347650">The Battle of Austerlitz</a></strong><br><a href="https://x.com/WinterArc2125">Winter @WinterArc2125</a></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/IterIntellectus/status/2103212539895017864"><img src="https://pbs.twimg.com/amplify_video_thumb/2103211525095702528/img/9hhkZEeK88qwJlMk.jpg" alt="Western Civilization in Two Minutes preview, open post" width="100%"></a><br><strong><a href="#case-2103212539895017864">Western Civilization in Two Minutes</a></strong><br><a href="https://x.com/IterIntellectus">vittorio @IterIntellectus</a></td>
+<td width="33%" valign="top"></td>
+</tr>
 </table>
 
 ## Case Details
+
+<a id="case-2103212539895017864"></a>
+
+### Western Civilization in Two Minutes
+
+- **Creator:** [vittorio @IterIntellectus](https://x.com/IterIntellectus)
+- **Watch:** [Watch the 2-minute-16-second video](https://x.com/IterIntellectus/status/2103212539895017864)
+- **Original post:** [Creator's post](https://x.com/IterIntellectus/status/2103212539895017864)
+- **About:** A typographic timeline of Western civilization, moving from classical antiquity through art, science, and modern technology around a recurring fire motif.
+- **Implementation:** The creator says they asked Claude to make the video. The post does not identify the Claude model version, animation stack, or production workflow.
+- **Prompt:** The post only summarizes the request as making a video on Western civilization; the full prompt is not public.
+
+<a id="case-2103116235009347650"></a>
+
+### The Battle of Austerlitz
+
+- **Creator:** [Winter @WinterArc2125](https://x.com/WinterArc2125)
+- **Watch:** [Watch the five-minute film](https://x.com/WinterArc2125/status/2103116235009347650)
+- **Original post:** [Creator's post](https://x.com/WinterArc2125/status/2103116235009347650)
+- **Production time:** 90 minutes to build and four hours to render; the creator reports $40 in cloud-agent credits.
+- **About:** A historical film about Napoleon's 1805 Battle of Austerlitz, combining battlefield maps, troop movements, and narrated scenes.
+- **Implementation:** The creator says Opus 5.5 wrote the engine, soldiers, score, and voice in code. They say the terrain follows satellite data and the sunrise matches 2 December 1805.
+- **Prompt:** The post says code and a prompt are provided below, but the full prompt text has not been verified for this entry.
 
 <a id="case-2103087123503177752"></a>
 

@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-10 cases.
+11 cases.
 
 ## Previews
 
@@ -21,7 +21,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/goodside/status/2102937913726235004"><img src="../assets/preview/ContextWindow.jpg" alt="Context Window opening credits preview, open post" width="100%"></a><br><strong><a href="#case-2102937913726235004">Context Window: Opening Credits</a></strong><br><a href="https://x.com/goodside">Riley Goodside @goodside</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/moritzkremb/status/2103066071838466494"><img src="../assets/preview/saas-launch-video.jpg" alt="One-Prompt SaaS Launch Video preview, open post" width="100%"></a><br><strong><a href="#case-2103066071838466494">One-Prompt SaaS Launch Video</a></strong><br><a href="https://x.com/moritzkremb">Moritz Kremb @moritzkremb</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -37,6 +37,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103066071838466494"></a>
+
+### One-Prompt SaaS Launch Video
+
+- **Creator:** [Moritz Kremb @moritzkremb](https://x.com/moritzkremb)
+- **Watch:** [Watch the 46-second video](https://x.com/moritzkremb/status/2103066071838466494)
+- **Original post:** [Creator's post](https://x.com/moritzkremb/status/2103066071838466494)
+- **About:** A professional-style launch video for a SaaS workspace, using Ramp-branded screens, integrations, meeting notes, and product messaging. It is an AI-made demonstration, not an official Ramp launch.
+- **Implementation:** The creator says Opus 5.5 made the video from one prompt. The post does not specify the animation stack or asset sources.
+- **Prompt:** The creator summarizes the request as asking Opus to choose a SaaS product and make a professional launch video. The exact prompt mentioned below the post has not been verified for this entry.
 
 <a id="case-2102937913726235004"></a>
 

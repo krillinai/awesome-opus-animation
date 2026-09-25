@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-24 cases.
+25 cases.
 
 ## Previews
 
@@ -42,7 +42,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/itsolelehmann/status/2103124033365762215"><img src="https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg" alt="Four Seasons from a Train Window preview, open post" width="100%"></a><br><strong><a href="#case-2103124033365762215">Four Seasons from a Train Window</a></strong><br><a href="https://x.com/itsolelehmann">Ole Lehmann @itsolelehmann</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gandamu_ml/status/2102919394775220530"><img src="../assets/preview/Demoscene90s.jpg" alt="90s-Style Demoscene preview, open post" width="100%"></a><br><strong><a href="#case-2102919394775220530">90s-Style Demoscene</a></strong><br><a href="https://x.com/gandamu_ml">gandamu @gandamu_ml</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dadabots/status/2103039181266338276"><img src="https://pbs.twimg.com/amplify_video_thumb/2103038366216294400/img/yB5hzAfoYKrVTEBZ.jpg" alt="Extreme Music Theory Audiovisual preview, open post" width="100%"></a><br><strong><a href="#case-2103039181266338276">Extreme Music Theory Audiovisual</a></strong><br><a href="https://x.com/dadabots">dadabots @dadabots</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="Glass and Gold-Leaf Mosaic preview, open post" width="240"></a><br><strong><a href="#case-2102503027340988559">Glass and Gold-Leaf Mosaic</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -57,6 +57,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103039181266338276"></a>
+
+### Extreme Music Theory Audiovisual
+
+- **Creator:** [dadabots @dadabots](https://x.com/dadabots)
+- **Watch:** [Watch the 24-second video](https://x.com/dadabots/status/2103039181266338276)
+- **Original post:** [Creator's post](https://x.com/dadabots/status/2103039181266338276)
+- **About:** A dense audiovisual experiment that animates chords, note labels, and music-theory terms alongside the soundtrack.
+- **Implementation:** The creator says Opus 5.5 wrote all the JavaScript that generates both picture and sound, without samples or libraries.
+- **Prompt:** The post describes asking for extreme music-theory material, but does not publish the exact request.
 
 <a id="case-2102919394775220530"></a>
 

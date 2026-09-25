@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*精选收录 109 个热门 AI 动画与互动作品案例。*
+### 精选收录 114 个热门 AI 动画与互动作品案例。
 
 [English](README.md) | **简体中文**
 
-[![109 个案例](https://img.shields.io/badge/cases-109-0969da)](#分类)
+[![114 个案例](https://img.shields.io/badge/cases-114-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -21,11 +21,28 @@
 - **看样片与做法**：点击封面前往作者原帖，点击作品名称查看案例详情与公开的制作信息。
 - **推荐案例**：在 [Issue](https://github.com/krillinai/awesome-opus-animation/issues/new) 中提交作者的 X 原帖链接，或按[贡献指南](CONTRIBUTING.zh-CN.md)提交 Pull Request。
 
+## X 阅读量 Top 10
+
+按收录的 X 帖子公开阅读数排序，包含展示帖。统计快照：2026-09-25（UTC+8）；阅读数和排名会随时间变化。
+
+| 排名 | 案例 | 作者／发布者 | 阅读数 |
+| ---: | --- | --- | ---: |
+| 1 | [两分钟西方文明史](categories/explainers.zh-CN.md#case-2103212539895017864) | [@IterIntellectus](https://x.com/IterIntellectus) | [3,213,217](https://x.com/IterIntellectus/status/2103212539895017864) |
+| 2 | [Abacus AI 3D 游戏演示](categories/games.zh-CN.md#case-2103009665177305456) | [@bindureddy](https://x.com/bindureddy) | [1,628,947](https://x.com/bindureddy/status/2103009665177305456) |
+| 3 | [DreW 的代码动画实验](categories/code-animation.zh-CN.md#case-2102436464323661880) | [@devteamdrew](https://x.com/devteamdrew) | [1,622,673](https://x.com/devteamdrew/status/2102436464323661880) |
+| 4 | [Claude Pop 重制 MV](categories/hand-drawn-mv.zh-CN.md#case-2102801274173587569) | [@donaldjewkes](https://x.com/donaldjewkes) | [1,305,672](https://x.com/donaldjewkes/status/2102801274173587569) |
+| 5 | [交互式岛屿生态](categories/3d-scenes.zh-CN.md#case-2102878170089169235) | [@dangreenheck](https://x.com/dangreenheck) | [762,140](https://x.com/dangreenheck/status/2102878170089169235) |
+| 6 | [The Plane of Focus（对焦平面）](categories/explainers.zh-CN.md#case-2102591147927654847) | [@RyanSael](https://x.com/RyanSael) | [670,649](https://x.com/RyanSael/status/2102591147927654847) |
+| 7 | [The Steep Part：未来 50 年的 AI](categories/explainers.zh-CN.md#case-2102987981695132140) | [@andrewjiang](https://x.com/andrewjiang) | [655,777](https://x.com/andrewjiang/status/2102987981695132140) |
+| 8 | [What do you love?](categories/narrative.zh-CN.md#case-2102437977435893771) | [@kevin_t_ngo](https://x.com/kevin_t_ngo) | [615,021](https://x.com/kevin_t_ngo/status/2102437977435893771) |
+| 9 | [Dark Souls 风格游戏演示](categories/games.zh-CN.md#case-2102440678282412195) | [@The_Alex](https://x.com/The_Alex) | [582,577](https://x.com/The_Alex/status/2102440678282412195) |
+| 10 | [像素神经网络训练](categories/explainers.zh-CN.md#case-2102737776219168939) | [@DotCSV](https://x.com/DotCSV) | [535,499](https://x.com/DotCSV/status/2102737776219168939) |
+
 ## 分类
 
 ### [游戏与可玩动画](categories/games.zh-CN.md)
 
-22 个案例
+23 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面" width="100%"></a><br><a href="categories/games.zh-CN.md#case-2102463453176979794">安提基特拉机械游戏</a></td>
@@ -39,7 +56,7 @@
 
 ### [代码动画与视觉实验](categories/code-animation.zh-CN.md)
 
-24 个案例
+25 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.zh-CN.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
@@ -83,7 +100,7 @@
 
 ### [科普与信息可视化](categories/explainers.zh-CN.md)
 
-9 个案例
+11 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/RyanSael/status/2102591147927654847"><img src="https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg" alt="The Plane of Focus 演示视频封面" width="100%"></a><br><a href="categories/explainers.zh-CN.md#case-2102591147927654847">The Plane of Focus（对焦平面）</a></td>
@@ -93,7 +110,7 @@
 
 ### [动效与品牌设计](categories/motion-design.zh-CN.md)
 
-10 个案例
+11 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gregpr07/status/2102984873351037161"><img src="assets/preview/videouse.png" alt="video-use 发布短片视频封面" width="100%"></a><br><a href="categories/motion-design.zh-CN.md#case-2102984873351037161">video-use 发布短片</a></td>

@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 24 个案例。
+共 25 个案例。
 
 ## 作品预览
 
@@ -42,7 +42,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/itsolelehmann/status/2103124033365762215"><img src="https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg" alt="列车窗外的四季视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103124033365762215">列车窗外的四季</a></strong><br><a href="https://x.com/itsolelehmann">Ole Lehmann @itsolelehmann</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gandamu_ml/status/2102919394775220530"><img src="../assets/preview/Demoscene90s.jpg" alt="90 年代风格 Demoscene 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102919394775220530">90 年代风格 Demoscene</a></strong><br><a href="https://x.com/gandamu_ml">gandamu @gandamu_ml</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/dadabots/status/2103039181266338276"><img src="https://pbs.twimg.com/amplify_video_thumb/2103038366216294400/img/yB5hzAfoYKrVTEBZ.jpg" alt="极限乐理音画实验视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103039181266338276">极限乐理音画实验</a></strong><br><a href="https://x.com/dadabots">dadabots @dadabots</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LCSlates/status/2102503027340988559"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502315185803264/img/NvXg95Ah07VHzpL2.jpg" alt="玻璃与金箔马赛克视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102503027340988559">玻璃与金箔马赛克</a></strong><br><a href="https://x.com/LCSlates">Chris Riley @LCSlates</a></td>
@@ -57,6 +57,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103039181266338276"></a>
+
+### 极限乐理音画实验
+
+- **作者**：[dadabots @dadabots](https://x.com/dadabots)
+- **样片**：[观看 24 秒视频](https://x.com/dadabots/status/2103039181266338276)
+- **原帖**：[查看作者原帖](https://x.com/dadabots/status/2103039181266338276)
+- **内容**：以密集的和弦、音名和乐理术语构成动画，并与声音同步的音画实验。
+- **实现**：作者称 Opus 5.5 编写全部 JavaScript，画面和声音都由代码生成，没有使用采样或外部库。
+- **提示词**：原帖只概述了让模型创作复杂乐理作品的要求，没有公开完整原文。
 
 <a id="case-2102919394775220530"></a>
 
