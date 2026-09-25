@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*A curated collection of 107 standout AI-assisted animations and interactive projects.*
+*A curated collection of 108 standout AI-assisted animations and interactive projects.*
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![107 cases](https://img.shields.io/badge/cases-107-0969da)](#categories)
+[![108 cases](https://img.shields.io/badge/cases-108-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -25,7 +25,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [Games & Playable Animation](categories/games.md)
 
-21 cases
+22 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="Antikythera Mechanism Game preview, open post" width="100%"></a><br><a href="categories/games.md#case-2102463453176979794">Antikythera Mechanism Game</a></td>

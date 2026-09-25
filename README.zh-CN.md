@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*精选收录 107 个热门 AI 动画与互动作品案例。*
+*精选收录 108 个热门 AI 动画与互动作品案例。*
 
 [English](README.md) | **简体中文**
 
-[![107 个案例](https://img.shields.io/badge/cases-107-0969da)](#分类)
+[![108 个案例](https://img.shields.io/badge/cases-108-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -25,7 +25,7 @@
 
 ### [游戏与可玩动画](categories/games.zh-CN.md)
 
-21 个案例
+22 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/edwinarbus/status/2102463453176979794"><img src="assets/preview/antikythera.png" alt="安提基特拉机械游戏视频封面" width="100%"></a><br><a href="categories/games.zh-CN.md#case-2102463453176979794">安提基特拉机械游戏</a></td>

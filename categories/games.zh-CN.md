@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 21 个案例（其中 2 个原作者待核对）。
+共 22 个案例（其中 2 个原作者待核对）。
 
 ## 作品预览
 
@@ -44,9 +44,25 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/inlovewithgo/status/2102502712621531543"><img src="https://pbs.twimg.com/amplify_video_thumb/2102502662159892480/img/cmalCMHazovJ7y9q.jpg" alt="一次生成的游戏演示视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102502712621531543">一次生成的游戏演示</a></strong><br><a href="https://x.com/inlovewithgo">Shubham @inlovewithgo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/JaydenDavisNC/status/2102828630615421223"><img src="https://pbs.twimg.com/amplify_video_thumb/2102828289442127872/img/fHywahX-bcu2yMdw.jpg" alt="Splatoon 风格游戏视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102828630615421223">Splatoon 风格游戏</a></strong><br><a href="https://x.com/JaydenDavisNC">Jayden Davis @JaydenDavisNC</a></td>
 </tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/IHayato/status/2103043212869026013"><img src="https://pbs.twimg.com/amplify_video_thumb/2103042731299995648/img/aXtdjVprJga8YrhR.jpg" alt="《原神》风格 Godot 游戏演示封面，点击观看" width="100%"></a><br><strong><a href="#case-2103043212869026013">《原神》风格 Godot 游戏</a></strong><br><a href="https://x.com/IHayato">イケハヤ @IHayato</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
 </table>
 
 ## 案例详情
+
+<a id="case-2103043212869026013"></a>
+
+### 《原神》风格 Godot 游戏
+
+- **作者**：[イケハヤ @IHayato](https://x.com/IHayato)
+- **样片**：[观看 69 秒演示](https://x.com/IHayato/status/2103043212869026013)
+- **原帖**：[查看作者原帖](https://x.com/IHayato/status/2103043212869026013)
+- **内容**：第三人称游戏原型，角色可在草地、桥梁和山坡间移动。作者表示，距离《原神》的完成度仍有很大差距。
+- **实现**：作者称使用 Opus 5.5 和 Godot 制作；原帖未公开更多制作细节或试玩链接。
+- **提示词**：作者公开的指令是「原神クラスのゲームを作って」（“做一个《原神》级别的游戏”）；原帖没有更完整的提示词或会话记录。
 
 <a id="case-2102461886247948571"></a>
 
