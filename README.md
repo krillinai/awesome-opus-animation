@@ -2,6 +2,8 @@
 
 # Awesome Opus Animation
 
+*A curated collection of 103 standout AI-assisted animations and interactive projects.*
+
 **English** | [简体中文](README.zh-CN.md)
 
 [![103 cases](https://img.shields.io/badge/cases-103-0969da)](#categories)

@@ -2,6 +2,8 @@
 
 # Awesome Opus Animation
 
+*精选收录 103 个热门 AI 动画与互动作品案例。*
+
 [English](README.md) | **简体中文**
 
 [![103 个案例](https://img.shields.io/badge/cases-103-0969da)](#分类)
