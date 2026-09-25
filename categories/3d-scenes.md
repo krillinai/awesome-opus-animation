@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-19 cases.
+20 cases.
 
 ## Previews
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/scheemunai/status/2103059885361598633"><img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="Mila's Room Bed Planner preview, open post" width="100%"></a><br><strong><a href="#case-2103059885361598633">Mila's Room Bed Planner</a></strong><br><a href="https://x.com/scheemunai">Shimecki @scheemunai</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2103194052850241739"><img src="../assets/preview/MonolithWilds.jpg" alt="Monolith Wilds preview, open post" width="100%"></a><br><strong><a href="#case-2103194052850241739">Monolith Wilds</a></strong><br><a href="https://x.com/LexnLin">Leon Lin @LexnLin</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/marcusyul/status/2103052335954182446"><img src="https://pbs.twimg.com/amplify_video_thumb/2103052272184045569/img/ZCcI0O3T6CVFIQyG.jpg" alt="PixVerse R2 Interactive World preview, open post" width="100%"></a><br><strong><a href="#case-2103052335954182446">PixVerse R2 Interactive World</a></strong><br><a href="https://x.com/marcusyul">Showcased by marcus @marcusyul</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley preview, open post" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -47,6 +47,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103052335954182446"></a>
+
+### PixVerse R2 Interactive World
+
+- **Showcased by:** [marcus @marcusyul](https://x.com/marcusyul). The original demo creator is not identified in the post.
+- **Watch:** [Watch the 23-second demo](https://x.com/marcusyul/status/2103052335954182446)
+- **Original post:** [Showcase post](https://x.com/marcusyul/status/2103052335954182446)
+- **About:** A character moves through a 3D environment with on-screen WASD and camera controls. The post says users can also change the world with a text prompt.
+- **Implementation:** The post attributes real-time world generation to PixVerse R2, without describing the underlying stack or linking to a playable demo. This is a PixVerse R2 example, not an Opus 5.5 one.
+- **Prompt:** The post mentions text prompts as an interaction, but does not publish a specific prompt used for this scene.
 
 <a id="case-2103194052850241739"></a>
 

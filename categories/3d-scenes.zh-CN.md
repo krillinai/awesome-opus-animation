@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 19 个案例。
+共 20 个案例。
 
 ## 作品预览
 
@@ -37,7 +37,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/scheemunai/status/2103059885361598633"><img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="Mila 房间床位规划工具视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103059885361598633">Mila 房间床位规划工具</a></strong><br><a href="https://x.com/scheemunai">Shimecki @scheemunai</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2103194052850241739"><img src="../assets/preview/MonolithWilds.jpg" alt="Monolith Wilds 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103194052850241739">Monolith Wilds</a></strong><br><a href="https://x.com/LexnLin">Leon Lin @LexnLin</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/marcusyul/status/2103052335954182446"><img src="https://pbs.twimg.com/amplify_video_thumb/2103052272184045569/img/ZCcI0O3T6CVFIQyG.jpg" alt="PixVerse R2 交互世界视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103052335954182446">PixVerse R2 交互世界</a></strong><br><a href="https://x.com/marcusyul">展示：marcus @marcusyul</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -47,6 +47,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103052335954182446"></a>
+
+### PixVerse R2 交互世界
+
+- **展示者**：[marcus @marcusyul](https://x.com/marcusyul)。原帖未说明演示的原作者。
+- **样片**：[观看 23 秒演示](https://x.com/marcusyul/status/2103052335954182446)
+- **原帖**：[查看展示帖](https://x.com/marcusyul/status/2103052335954182446)
+- **内容**：角色在 3D 场景中移动，画面上有 WASD 和镜头控制提示。帖子称还可以通过输入文字改变世界。
+- **实现**：帖子称 PixVerse R2 会随着用户移动实时生成世界，未公开底层技术栈或试玩链接。这是 PixVerse R2 案例，并非 Opus 5.5 作品。
+- **提示词**：帖子提到文字提示词作为交互方式，但未公开该场景使用的具体提示词。
 
 <a id="case-2103194052850241739"></a>
 

@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*A curated collection of 108 standout AI-assisted animations and interactive projects.*
+*A curated collection of 109 standout AI-assisted animations and interactive projects.*
 
 **English** | [简体中文](README.zh-CN.md)
 
-[![108 cases](https://img.shields.io/badge/cases-108-0969da)](#categories)
+[![109 cases](https://img.shields.io/badge/cases-109-0969da)](#categories)
 [![7 categories](https://img.shields.io/badge/categories-7-8250df)](#categories)
 [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -73,7 +73,7 @@ This collection documents **both the work and how it was made**. Each entry link
 
 ### [3D Scenes & Interaction](categories/3d-scenes.md)
 
-19 cases
+20 cases
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="Peach Blossom Spring (The Peach Blossom Land) preview, open post" width="100%"></a><br><a href="categories/3d-scenes.md#case-2102940980379017293">Peach Blossom Spring (The Peach Blossom Land)</a></td>
