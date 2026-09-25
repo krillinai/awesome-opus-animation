@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 17 个案例。
+共 18 个案例。
 
 ## 作品预览
 
@@ -35,6 +35,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/DannyLimanseta/status/2103169095034400772"><img src="https://pbs.twimg.com/amplify_video_thumb/2103168931636957184/img/ErjQn-8J4SQwaEfP.jpg" alt="Poseidia 亚特兰蒂斯岛视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103169095034400772">Poseidia：亚特兰蒂斯之岛</a></strong><br><a href="https://x.com/DannyLimanseta">Danny Limanseta @DannyLimanseta</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/scheemunai/status/2103059885361598633"><img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="Mila 房间床位规划工具视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103059885361598633">Mila 房间床位规划工具</a></strong><br><a href="https://x.com/scheemunai">Shimecki @scheemunai</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetanankola/status/2103008022369099992"><img src="https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg" alt="Three.js 与 Opus 创意体验视频封面，点击观看" width="240"></a><br><strong><a href="#case-2103008022369099992">Three.js 与 Opus 创意体验</a></strong><br><a href="https://x.com/chetanankola">Chetan Ankola @chetanankola</a></td>
 <td width="33%" valign="top"></td>
@@ -42,6 +47,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103059885361598633"></a>
+
+### Mila 房间床位规划工具
+
+- **作者**：[Shimecki @scheemunai](https://x.com/scheemunai)
+- **样片**：[观看约 87 秒演示](https://x.com/scheemunai/status/2103059885361598633)
+- **原帖**：[查看作者原帖](https://x.com/scheemunai/status/2103059885361598633)
+- **内容**：帮助预览新床放进 Mila 卧室后的布置。视频展示平面图、3D 房间、不同床位方案和室内视角。
+- **实现**：作者称作品由 Opus 5.5 制作；原帖未说明技术栈，也未提供在线体验地址。
+- **提示词**：帖子提到了“预览新床放在房间里的效果”这一需求，但没有公开给 Opus 5.5 的完整提示词。
 
 <a id="case-2103169095034400772"></a>
 

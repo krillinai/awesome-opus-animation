@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-17 cases.
+18 cases.
 
 ## Previews
 
@@ -35,6 +35,11 @@
 <td width="33%" valign="top" align="center"><a href="https://x.com/DannyLimanseta/status/2103169095034400772"><img src="https://pbs.twimg.com/amplify_video_thumb/2103168931636957184/img/ErjQn-8J4SQwaEfP.jpg" alt="Poseidia, Atlantis Island preview, open post" width="100%"></a><br><strong><a href="#case-2103169095034400772">Poseidia, Atlantis Island</a></strong><br><a href="https://x.com/DannyLimanseta">Danny Limanseta @DannyLimanseta</a></td>
 </tr>
 <tr>
+<td width="33%" valign="top" align="center"><a href="https://x.com/scheemunai/status/2103059885361598633"><img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="Mila's Room Bed Planner preview, open post" width="100%"></a><br><strong><a href="#case-2103059885361598633">Mila's Room Bed Planner</a></strong><br><a href="https://x.com/scheemunai">Shimecki @scheemunai</a></td>
+<td width="33%" valign="top"></td>
+<td width="33%" valign="top"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley preview, open post" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetanankola/status/2103008022369099992"><img src="https://pbs.twimg.com/amplify_video_thumb/2103003207203213312/img/T44iEyEgjVCFhZet.jpg" alt="Three.js and Opus Creative Experience preview, open post" width="240"></a><br><strong><a href="#case-2103008022369099992">Three.js and Opus Creative Experience</a></strong><br><a href="https://x.com/chetanankola">Chetan Ankola @chetanankola</a></td>
 <td width="33%" valign="top"></td>
@@ -42,6 +47,17 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103059885361598633"></a>
+
+### Mila's Room Bed Planner
+
+- **Creator:** [Shimecki @scheemunai](https://x.com/scheemunai)
+- **Watch:** [Watch the 87-second demo](https://x.com/scheemunai/status/2103059885361598633)
+- **Original post:** [Creator's post](https://x.com/scheemunai/status/2103059885361598633)
+- **About:** A room-planning interface for seeing how a new bed fits in Mila's bedroom. The demo shows a floor plan, a 3D room view, alternate bed placements, and interior viewpoints.
+- **Implementation:** The creator attributes the result to Opus 5.5. The post does not disclose the technical stack or a live demo URL.
+- **Prompt:** The post shares the request to visualize a new bed in the room, but not the full prompt given to Opus 5.5.
 
 <a id="case-2103169095034400772"></a>
 
