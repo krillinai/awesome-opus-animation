@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 18 个案例。
+共 19 个案例。
 
 ## 作品预览
 
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/scheemunai/status/2103059885361598633"><img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="Mila 房间床位规划工具视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103059885361598633">Mila 房间床位规划工具</a></strong><br><a href="https://x.com/scheemunai">Shimecki @scheemunai</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2103194052850241739"><img src="../assets/preview/MonolithWilds.jpg" alt="Monolith Wilds 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103194052850241739">Monolith Wilds</a></strong><br><a href="https://x.com/LexnLin">Leon Lin @LexnLin</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -47,6 +47,18 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103194052850241739"></a>
+
+### Monolith Wilds
+
+- **作者**：[Leon Lin @LexnLin](https://x.com/LexnLin)
+- **样片**：[观看约 84 秒视频](https://x.com/LexnLin/status/2103194052850241739) · [在线探索](https://monolithwilds.vercel.app/)
+- **原帖**：[查看作者原帖](https://x.com/LexnLin/status/2103194052850241739)
+- **制作耗时**：作者称不到 8 小时。
+- **内容**：可探索的奇幻 3D 世界，包含群山、瀑布和造型奇特的建筑装置。
+- **实现**：作者称 Opus 5.5 根据一条提示词完成；原帖未说明具体 3D 技术栈。
+- **提示词**：作者称提示词见帖子回复；本条目尚未核实到可准确转录的原文。
 
 <a id="case-2103059885361598633"></a>
 

@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-18 cases.
+19 cases.
 
 ## Previews
 
@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/scheemunai/status/2103059885361598633"><img src="https://pbs.twimg.com/amplify_video_thumb/2103059810547568640/img/yU6y3fQtRO9dTJEm.jpg" alt="Mila's Room Bed Planner preview, open post" width="100%"></a><br><strong><a href="#case-2103059885361598633">Mila's Room Bed Planner</a></strong><br><a href="https://x.com/scheemunai">Shimecki @scheemunai</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/LexnLin/status/2103194052850241739"><img src="../assets/preview/MonolithWilds.jpg" alt="Monolith Wilds preview, open post" width="100%"></a><br><strong><a href="#case-2103194052850241739">Monolith Wilds</a></strong><br><a href="https://x.com/LexnLin">Leon Lin @LexnLin</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -47,6 +47,18 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103194052850241739"></a>
+
+### Monolith Wilds
+
+- **Creator:** [Leon Lin @LexnLin](https://x.com/LexnLin)
+- **Watch:** [Watch the 84-second video](https://x.com/LexnLin/status/2103194052850241739) · [Explore the world](https://monolithwilds.vercel.app/)
+- **Original post:** [Creator's post](https://x.com/LexnLin/status/2103194052850241739)
+- **Production time:** Less than eight hours, according to the creator.
+- **About:** An explorable fantasy 3D world with mountains, waterfalls, and unusual constructed structures.
+- **Implementation:** The creator says Opus 5.5 built it from a single prompt. The post does not specify the 3D stack.
+- **Prompt:** The creator says the prompt is in the replies; its exact text has not been verified for this entry.
 
 <a id="case-2103059885361598633"></a>
 
