@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 23 个案例。
+共 24 个案例。
 
 ## 作品预览
 
@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/itsolelehmann/status/2103124033365762215"><img src="https://pbs.twimg.com/amplify_video_thumb/2103123980039458816/img/DDPjksrlzGkxSB1K.jpg" alt="列车窗外的四季视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103124033365762215">列车窗外的四季</a></strong><br><a href="https://x.com/itsolelehmann">Ole Lehmann @itsolelehmann</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/gandamu_ml/status/2102919394775220530"><img src="../assets/preview/Demoscene90s.jpg" alt="90 年代风格 Demoscene 视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102919394775220530">90 年代风格 Demoscene</a></strong><br><a href="https://x.com/gandamu_ml">gandamu @gandamu_ml</a></td>
 <td width="33%" valign="top"></td>
 </tr>
 <tr>
@@ -57,6 +57,17 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2102919394775220530"></a>
+
+### 90 年代风格 Demoscene
+
+- **作者**：[gandamu @gandamu_ml](https://x.com/gandamu_ml)
+- **样片**：[观看约 6 分钟演示](https://x.com/gandamu_ml/status/2102919394775220530)
+- **原帖**：[查看作者原帖](https://x.com/gandamu_ml/status/2102919394775220530)
+- **内容**：受 1990 年代 demoscene 启发，连续展示几何特效、文字与 3D 动画。
+- **实现**：作者称 Opus 5.5 根据一条提示词，使用 C/C++ 和 OpenGL 完成作品。配乐由作者提供，是 Purple Motion 为 *Second Reality* 创作的音乐，并非 Opus 5.5 生成。
+- **提示词**：作者确认只用了一条提示词，但没有公开原文。
 
 <a id="case-2103124033365762215"></a>
 

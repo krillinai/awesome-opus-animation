@@ -2,11 +2,11 @@
 
 # Awesome Opus Animation
 
-*精选收录 103 个热门 AI 动画与互动作品案例。*
+*精选收录 104 个热门 AI 动画与互动作品案例。*
 
 [English](README.md) | **简体中文**
 
-[![103 个案例](https://img.shields.io/badge/cases-103-0969da)](#分类)
+[![104 个案例](https://img.shields.io/badge/cases-104-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -39,7 +39,7 @@
 
 ### [代码动画与视觉实验](categories/code-animation.zh-CN.md)
 
-23 个案例
+24 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/chetaslua/status/2102501773705670994"><img src="https://pbs.twimg.com/amplify_video_thumb/2102501285840986112/img/-MZF7O6nDoIBOzRo.jpg" alt="Steam Song 视频封面" width="100%"></a><br><a href="categories/code-animation.zh-CN.md#case-2102501773705670994">Steam Song（交互式定格动画）</a></td>
