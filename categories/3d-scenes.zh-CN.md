@@ -4,7 +4,7 @@
 
 [返回首页](../README.zh-CN.md)
 
-共 16 个案例。
+共 17 个案例。
 
 ## 作品预览
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/emmanuel_2m/status/2102539293122035875"><img src="../assets/preview/ScenarioBlenderAlley.jpg" alt="Scenario Blender 霓虹街巷视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102539293122035875">Scenario Blender 霓虹街巷</a></strong><br><a href="https://x.com/emmanuel_2m">Emm @emmanuel_2m</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gmi_cloud/status/2102950788641501367"><img src="https://pbs.twimg.com/amplify_video_thumb/2102950174339506176/img/h8-PwMlzxP1O1WTi.jpg" alt="Sakura Crossing 樱花街景视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2102950788641501367">Sakura Crossing（樱花街景）</a></strong><br><a href="https://x.com/gmi_cloud">GMI Cloud @gmi_cloud</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/DannyLimanseta/status/2103169095034400772"><img src="https://pbs.twimg.com/amplify_video_thumb/2103168931636957184/img/ErjQn-8J4SQwaEfP.jpg" alt="Poseidia 亚特兰蒂斯岛视频封面，点击观看" width="100%"></a><br><strong><a href="#case-2103169095034400772">Poseidia：亚特兰蒂斯之岛</a></strong><br><a href="https://x.com/DannyLimanseta">Danny Limanseta @DannyLimanseta</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley 演示视频封面，点击观看" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley（樱花河谷）</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -42,6 +42,18 @@
 </table>
 
 ## 案例详情
+
+<a id="case-2103169095034400772"></a>
+
+### Poseidia：亚特兰蒂斯之岛
+
+- **作者**：[Danny Limanseta @DannyLimanseta](https://x.com/DannyLimanseta)
+- **样片**：[观看约 2 分钟预告片](https://x.com/DannyLimanseta/status/2103169095034400772) · [在线游览 Poseidia](https://poseidia.vercel.app/)
+- **原帖**：[查看作者原帖](https://x.com/DannyLimanseta/status/2103169095034400772)
+- **制作耗时**：作者称约 2 小时。
+- **内容**：可在线探索的 Poseidia，被设定为亚特兰蒂斯最后幸存的岛屿。
+- **实现**：作者称 Opus 5.5 用 Three.js 制作互动场景，也制作了带声音的预告片；原帖未公开更多制作细节。
+- **提示词**：作者概述了让 Opus 5.5 用 Three.js 呈现亚特兰蒂斯的任务，但未公开完整提示词。
 
 <a id="case-2102950788641501367"></a>
 

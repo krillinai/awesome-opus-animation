@@ -4,7 +4,7 @@
 
 [Back to home](../README.md)
 
-16 cases.
+17 cases.
 
 ## Previews
 
@@ -32,7 +32,7 @@
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/emmanuel_2m/status/2102539293122035875"><img src="../assets/preview/ScenarioBlenderAlley.jpg" alt="Scenario Blender Neon Alley preview, open post" width="100%"></a><br><strong><a href="#case-2102539293122035875">Scenario Blender Neon Alley</a></strong><br><a href="https://x.com/emmanuel_2m">Emm @emmanuel_2m</a></td>
 <td width="33%" valign="top" align="center"><a href="https://x.com/gmi_cloud/status/2102950788641501367"><img src="https://pbs.twimg.com/amplify_video_thumb/2102950174339506176/img/h8-PwMlzxP1O1WTi.jpg" alt="Sakura Crossing preview, open post" width="100%"></a><br><strong><a href="#case-2102950788641501367">Sakura Crossing</a></strong><br><a href="https://x.com/gmi_cloud">GMI Cloud @gmi_cloud</a></td>
-<td width="33%" valign="top"></td>
+<td width="33%" valign="top" align="center"><a href="https://x.com/DannyLimanseta/status/2103169095034400772"><img src="https://pbs.twimg.com/amplify_video_thumb/2103168931636957184/img/ErjQn-8J4SQwaEfP.jpg" alt="Poseidia, Atlantis Island preview, open post" width="100%"></a><br><strong><a href="#case-2103169095034400772">Poseidia, Atlantis Island</a></strong><br><a href="https://x.com/DannyLimanseta">Danny Limanseta @DannyLimanseta</a></td>
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/MengTo/status/2102760783344189761"><img src="https://pbs.twimg.com/amplify_video_thumb/2102760366745010177/img/8_z3VSBLv9sfV3C8.jpg" alt="Sakura River Valley preview, open post" width="240"></a><br><strong><a href="#case-2102760783344189761">Sakura River Valley</a></strong><br><a href="https://x.com/MengTo">Meng To @MengTo</a></td>
@@ -42,6 +42,18 @@
 </table>
 
 ## Case Details
+
+<a id="case-2103169095034400772"></a>
+
+### Poseidia, Atlantis Island
+
+- **Creator:** [Danny Limanseta @DannyLimanseta](https://x.com/DannyLimanseta)
+- **Watch:** [Watch the two-minute trailer](https://x.com/DannyLimanseta/status/2103169095034400772) · [Explore Poseidia](https://poseidia.vercel.app/)
+- **Original post:** [Creator's post](https://x.com/DannyLimanseta/status/2103169095034400772)
+- **Production time:** About two hours, according to the creator.
+- **About:** An explorable tour of Poseidia, imagined as the last surviving island of Atlantis.
+- **Implementation:** The creator says Opus 5.5 built the Three.js experience and made its trailer with sound. Further production details were not published.
+- **Prompt:** The creator describes asking Opus 5.5 to visualize Atlantis in Three.js, but does not publish the full prompt.
 
 <a id="case-2102950788641501367"></a>
 

@@ -4,7 +4,7 @@
 
 [English](README.md) | **简体中文**
 
-[![101 个案例](https://img.shields.io/badge/cases-101-0969da)](#分类)
+[![102 个案例](https://img.shields.io/badge/cases-102-0969da)](#分类)
 [![7 个分类](https://img.shields.io/badge/categories-7-8250df)](#分类)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-2da44e)](CONTRIBUTING.zh-CN.md)
 [![MIT License](https://img.shields.io/badge/license-MIT-6e7781)](LICENSE)
@@ -71,7 +71,7 @@
 
 ### [3D 场景与交互](categories/3d-scenes.zh-CN.md)
 
-16 个案例
+17 个案例
 
 <table><tr>
 <td width="33%" valign="top" align="center"><a href="https://x.com/dotey/status/2102940980379017293"><img src="https://pbs.twimg.com/amplify_video_thumb/2102939337591603200/img/weyIr9g5auOw-4Xm.jpg" alt="桃源 · 豁然开朗视频封面" width="100%"></a><br><a href="categories/3d-scenes.zh-CN.md#case-2102940980379017293">桃源 · 豁然开朗（《桃花源记》）</a></td>
